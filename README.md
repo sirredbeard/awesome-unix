@@ -40,8 +40,8 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [UnixWare](https://www.xinuos.com) - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
 * [Solaris](https://www.oracle.com/solaris/solaris11/index.html) - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
-[macOS](#more macOS)
-[Solaris](#more Solaris)
+### [Get more macOS](#more-macOS)
+### [Get more Solaris](#more-Solaris)
 
 ## Non-Commercial Descendants of AT&T's UNIX Operating System ![Open Source][OSS Icon]
 
@@ -59,7 +59,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 	* [MirBSD](http://www.mirbsd.org) - Fork of OpenBSD that tracks OpenBSD base with a number of enhancements and modifications.  
 * [DragonflyBSD](https://www.dragonflybsd.org) - DragonFly BSD is a free and open source Unix-like operating system created as a fork of FreeBSD 4.8.
 
-### [More BSD](#more-bsd)
+### [Get More BSD](#more-bsd)
 
 ## UNIX-Certified Linux-Based Operating Systems
 
@@ -124,7 +124,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
 * [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables (in ELF format) natively on Windows 10. 💰
 
-### [More Linux](#more-linux)
+### [Get more Linux](#more-linux)
 
 # Other UNIX-Like/Derived Operating Systems
 
