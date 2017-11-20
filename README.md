@@ -10,11 +10,17 @@ The greatest operating system ever invented you never knew whose genius design n
 
 A set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) and open source software projects that link dozens of operating systems to form the basis of modern computing, from mobile devices in your pocket to mainframes that power e-commerce giants. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
 
-UNIX was originally an operating system developed at AT&T. It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX), and a certification that can be obtained by companies for their operating systems, as administrated by (The Open Group)[https://www.opengroup.org/openbrand/register/]. Among these are massive mainframe operating systems like IBM's AIX and Apple's macOS for their MacBook and iMac lineup.
+### UNIX v. UNIX-Like v. Linux
 
-UNIX also encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have been [re-implemented with open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives.
+## Commercial UNIX
 
-For a variety of historical reasons, there has also been a massive explosion of *UNIX-like* operating systems. These operating systems implement some degree of the POSIX standards but do not seek official UNIX certification. These include Android and Linux.
+UNIX was originally an operating system developed at AT&T's Bell Labs. It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX) overseen by the (IEEE)[https://en.wikipedia.org/wiki/POSIX], and a certification that can be obtained by companies for their commercial operating systems, through a process administrated by (The Open Group)[https://www.opengroup.org/openbrand/register/]. Among the commercial are massive mainframe operating systems like IBM's AIX as well Apple's macOS desktop operating for their MacBook and iMac lineup.
+
+These core set of standards, set forth by IEEE and The Open Group, allows software to be easily transferred and re-compiled on different operating systems across different hardware. It enables the rapid spread and development of new technology. These principles are generally known as UNIX philosophy. The Unix philosophy emphasizes building simple, short, clear, modular, and extensible software that can be easily maintained and repurposed by developers other than its creators. 
+
+UNIX also encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since [re-implemented AT&T code with code under open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution). The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX certified, they are technically UNIX-like, but share a unique direct link back to AT&T UNIX and newcomers like RedoxOS do not.
+
+For a variety of historical and legal reasons, there has also been a massive explosion of *UNIX-like* operating systems. MINIX, for example, was created as a UNIX-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux was created because Linus Torvalds, a college student, [wanted to run a UNIX-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own Intel PC. Linux has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Google needed a kernel for their new mobile operating system, they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX standards but do not seek official UNIX certification.
 
 # Real UNIX
 
