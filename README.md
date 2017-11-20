@@ -83,7 +83,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 	* [Funtoo](https://www.funtoo.org/Welcome) - Funtoo Linux is a Linux-based operating system that is a variant of Gentoo Linux.
 	* [Redcore](https://redcorelinux.org) - Redcore Linux is a distribution based on Gentoo Linux that aims to be a very quick way to install a pure Gentoo Linux system without spending hours or days compiling from source code.
 * [Dragora](https://www.dragora.org/) - The Dragora project produces a LIBRE, reliable, UNIX-like GNU/Linux distribution made from scratch!
-* [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring (suckless tools)[https://suckless.org/).
+* [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring (suckless tools)[https://suckless.org/].
 * [Stali](https://sta.li) - stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
 
 ## General Commercial Linux Distributions ![Open Source][OSS Icon]
@@ -129,16 +129,22 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ## Plan 9 Derivatives ![Open Source][OSS Icon]
 
+Plan 9 was developed by Bell Labs as the successor to UNIX and incorporated novel ideas, such as a GUI and [distributed computing](https://en.wikipedia.org/wiki/Distributed_operating_system). Official development by Bell Labs has since halted but the code was re-released under the GPL and projects exist to build on Plan 9. Many Bell Labs employees still volunteer on these projects.
+
 * [9front](http://9front.org) - 9front is a fork of Plan 9 from Bell Labs by the People's Front of Cat-V. It is a next generation mushroom cloud computing platform for the 20th century. 
 * [9legacy](http://9legacy.org) - 9legacy is an experimental patch queue for Plan 9 from Bell Labs.
 * [Harvey OS](https://harvey-os.org) - Harvey is an effort to provide a modern, distributed, 64 bit operating system. A different environment for researching and finding new lines of work. It can be built with gcc and clang and has an ANSI/POSIX compliant subsystem.
+* [Inferno](http://www.vitanuova.com/inferno/) - Inferno was an effort to commercialize Plan 9 as networking software, however like Plan 9 it remained obscure while it's ideas permeated into current operating systems. 
 * [Jehanne](http://jehanne.io) - Jehanne is a new distributed operating system designed for programmers. The core values that lead the development are simplicity and security. Jehanne is a fork of Harvey.
 
 ## OpenSolaris/illumos ![Open Source][OSS Icon]
 
-* [OpenIndiana](https://www.openindiana.org) - OpenIndiana is a free and open-source, Unix operating system derived from OpenSolaris and based on illumos. Developers forked OpenSolaris after Oracle Corporation discontinued it.
-* [DilOS](http://www.dilos.org) - DilOS is an illumos-based platform featuring the Debian package manager (dpkg+apt).
-* [SmartOS](https://www.joyent.com/smartos) - SmartOS is a free and open-source SVR4 hypervisor, based on the UNIX operating system that combines OpenSolaris technology with Linux's KVM virtualization. Its core kernel contributed to illumos project.
+Solaris was originally a UNIX operating system developed jointly by Sun Microsystems and AT&T as a version of AT&T's UNIX System V Release 4. Sun continued development on Solaris and later obtained UNIX certification for Solaris. In 2004 Sun open-sourced much of the Solaris code base as OpenSolaris. Sun was acquired by Oracle in 2010 who discontinued formal support of the OpenSolaris project. OpenSolaris was forked and lives on as illumos.
+
+* [illumos](https://wiki.illumos.org/display/illumos/illumos+Home) - illumos is a free and open-source Unix operating system. It derives from OpenSolaris, which in turn derives from SVR4 UNIX and Berkeley Software Distribution (BSD). 
+	* [OpenIndiana](https://www.openindiana.org) - OpenIndiana is a free and open-source, Unix operating system derived from OpenSolaris and based on illumos. Developers forked OpenSolaris after Oracle Corporation discontinued it.
+	* [DilOS](http://www.dilos.org) - DilOS is an illumos-based platform featuring the Debian package manager (dpkg+apt).
+	* [SmartOS](https://www.joyent.com/smartos) - SmartOS is a free and open-source SVR4 hypervisor, based on the UNIX operating system that combines OpenSolaris technology with Linux's KVM virtualization. Its core kernel contributed to illumos project.
 
 ## UNIX-Like Real Time Operating Systems ([RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system))
 
