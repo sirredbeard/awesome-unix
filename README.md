@@ -61,10 +61,9 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 
 ## General Commercial Linux Distros ![Open Source][OSS Icon]
 
-* [Red Hat](https://www.redhat.com) 💰
-* [Ubuntu](https://ubuntu.com)
-	* [Mint](https://linuxmint.com)
-* [SUSE](https://www.suse.com) 💰
+* [Red Hat Enterprise Linux](https://www.redhat.com) - Red Hat Enterprise Linux is a Linux distribution developed by Red Hat and targeted toward the commercial market. 💰
+* [Ubuntu](https://ubuntu.com) - Ubuntu is a Debian-based Linux distribution published by Canonical Ltd who offer commercial support for enterprise-class Ubuntu Server variant.
+* [SUSE Linux Enterprise](https://www.suse.com) - 💰
 * [elementaryOS](https://elementary.io)
 * [Oracle](https://www.oracle.com/linux/) 💰
 * [Pop!_OS](https://system76.com/pop)
@@ -79,6 +78,7 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 	* [Antergos](https://antergos.com)
 * [Manjaro](https://manjaro.org)
 * [Solus](https://solus-project.com)
+* [Mint](https://linuxmint.com) - Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use.
 
 ## Mobile Linux ![Open Source][OSS Icon]
 
