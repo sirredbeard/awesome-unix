@@ -8,11 +8,17 @@ The greatest operating system ever invented you never knew whose genius design n
 
 ### What is UNIX today?
 
-A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) and open source code that link dozens of operating systems to form the basis of modern computing, from mobile devices in your pocket to mainframes that run Amazon. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
+A set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) and open source software projects that link dozens of operating systems to form the basis of modern computing, from mobile devices in your pocket to mainframes that power e-commerce giants. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
+
+UNIX was originally an operating system developed at AT&T. It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX), and a certification that can be obtained by companies for their operating systems, as administrated by (The Open Group)[https://www.opengroup.org/openbrand/register/]. Among these are massive mainframe operating systems like IBM's AIX and Apple's macOS for their MacBook and iMac lineup.
+
+UNIX also encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have been [re-implemented with open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives.
+
+For a variety of historical reasons, there has also been a massive explosion of *UNIX-like* operating systems. These operating systems implement some degree of the POSIX standards but do not seek official UNIX certification. These include Android and Linux.
 
 # Real UNIX
 
-## Commercial Certified UNIX 💰
+## Commercial Certified UNIX Operating Systems💰
 
 * [macOS](https://www.apple.com/macos/) - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's personal computers.
 * [AIX](https://www.ibm.com/power/operating-systems/aix) - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
@@ -22,7 +28,7 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 
 ### [More macOS](#more-macOS)
 
-## Non-Commercial UNIX ![Open Source][OSS Icon]
+## Non-Commercial Descendants of AT&T's UNIX Operating System ![Open Source][OSS Icon]
 
 * [FreeBSD](https://www.freebsd.org) - FreeBSD is a free and open-source Unix-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's package availability.
 	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix-like operating system based on FreeBSD with MATE as its default desktop environment.
@@ -40,7 +46,7 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 
 ### [More BSD](#more-bsd)
 
-## UNIX-Certified Linux
+## UNIX-Certified Linux-Based Operating Systems
 
 * [K-UX](http://www.inspursystems.com/product/32-way-system/) - K-UX is a Linux distribution based on CentOS produced by Inspur, a Chinese multinational company specializing in information technology. 💰
 * [EulerOS](http://developer.huawei.com/ict/en/site-euleros) -  EulerOS is a Linux distribution based on CentOS produced by Huawei, a Chinese networking and telecommunications equipment and services company. 💰
@@ -166,9 +172,9 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 
 
 -----
-UNIX® is a registered trademark of [The Open Group](http://www.unix.org/trademark.html).
-macOS® is a registered trademark of [Apple, Inc.](http://www.apple.com).
-Linux® is a registered trademark of [Linus Torvalds](https://github.com/torvalds). 
+* UNIX® is a registered trademark of [The Open Group](http://www.unix.org/trademark.html).
+* macOS® is a registered trademark of [Apple, Inc](http://www.apple.com).
+* Linux® is a registered trademark of [Linus Torvalds](https://github.com/torvalds). 
 
 All other trademarks are the property of their respective owners.
 
