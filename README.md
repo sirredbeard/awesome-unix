@@ -36,10 +36,14 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 	* [MirBSD](http://www.mirbsd.org) - Fork of OpenBSD that tracks OpenBSD base with a number of enhancements and modifications.  
 * [DragonflyBSD](https://www.dragonflybsd.org) - DragonFly BSD is a free and open source Unix-like operating system created as a fork of FreeBSD 4.8.
 
+### [More BSD](#more-bsd)
+
 ## UNIX-Certified Linux
 
 * [K-UX](http://www.inspursystems.com/product/32-way-system/) - K-UX is a Linux distribution based on CentOS produced by Inspur, a Chinese multinational company specializing in information technology. 💰
 * [EulerOS](http://developer.huawei.com/ict/en/site-euleros) -  EulerOS is a Linux distribution based on CentOS produced by Huawei, a Chinese networking and telecommunications equipment and services company. 💰
+
+### [More UNIX](#more-unix)
 
 # Linux (UNIX-Like)
 
@@ -58,61 +62,61 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 	* [Redcore](https://redcorelinux.org) - Redcore Linux is a distribution based on Gentoo Linux that aims to be a very quick way to install a pure Gentoo Linux system without spending hours or days compiling from source code.
 * [Dragora](https://www.dragora.org/) - The Dragora project produces a LIBRE, reliable, UNIX-like GNU/Linux distribution made from scratch!
 * [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring (suckless tools)[https://suckless.org/).
-* [Stali](https://sta.li) - stali is a brand new static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
+* [Stali](https://sta.li) - stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
 
 ## General Commercial Linux Distros ![Open Source][OSS Icon]
 
 * [Red Hat Enterprise Linux](https://www.redhat.com) - Red Hat Enterprise Linux is a Linux distribution developed by Red Hat and targeted toward the commercial market. 💰
 * [Ubuntu](https://ubuntu.com) - Ubuntu is a Debian-based Linux distribution published by Canonical Ltd who offer commercial support for enterprise-class Ubuntu Server variant.
-* [SUSE Linux Enterprise](https://www.suse.com) - 💰
-* [elementaryOS](https://elementary.io)
-* [Oracle](https://www.oracle.com/linux/) 💰
-* [Pop!_OS](https://system76.com/pop)
+* [SUSE Linux Enterprise](https://www.suse.com) - SUSE Linux Enterprise is a Linux-based operating system developed by SUSE. It is designed for servers, mainframes, and workstations. 💰
+* [elementaryOS](https://elementary.io) - elementary OS is a consumer-oriented Linux distribution based on Ubuntu. It is the flagship distribution to showcase the Pantheon desktop environment.
+* [Oracle](https://www.oracle.com/linux/) - Oracle Linux is compiled from Red Hat Enterprise Linux source code, replacing Red Hat branding with Oracle's, optimized to run Oracle software. 💰
+* [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer-focused minimalist Linux distro from Linux hardware manufacturer System 76.
 
 ## General Non-Commercial Linux Distros ![Open Source][OSS Icon]
 
-* [Debian](https://www.debian.org)
-* [Fedora](https://getfedora.org)
-* [Magiea](https://www.mageia.org)
-* [OpenSUSE](https://www.opensuse.org)
-* [Arch](https://www.archlinux.org)
-	* [Antergos](https://antergos.com)
-* [Manjaro](https://manjaro.org)
-* [Solus](https://solus-project.com)
+* [Debian](https://www.debian.org) - Debian is a Unix-like computer operating system that is composed entirely of free software, most of which is under the GNU General Public License and packaged by a group of individuals participating in the Debian Project.
+* [Fedora](https://getfedora.org) - Fedora is an Unix-like operating system based on the Linux kernel and GNU programs (a Linux distribution), developed by the community-supported Fedora Project and sponsored by the Red Hat company.
+* [Magiea](https://www.mageia.org) - Mageia is a Linux based operating system, distributed as free and open source software. It is forked from the Mandriva Linux distribution.
+* [OpenSUSE](https://www.opensuse.org) - openSUSE formerly SUSE Linux and SuSE Linux Professional, is a Linux-based project and distribution sponsored by SUSE Linux GmbH and other companies.
+* [Arch](https://www.archlinux.org) - Arch Linux is a Linux distribution for computers based on x86-64 architectures.
+	* [Antergos](https://antergos.com) - Antergos is a Linux distribution based upon Arch Linux.
+	* [Manjaro](https://manjaro.org) - Manjaro Linux is an open source operating system for computers. It is a distribution of Linux based on the Arch Linux distribution.
+* [Solus](https://solus-project.com) - Solus is an independent desktop operating system based on the Linux kernel. It is offered as a curated rolling release model under the slogan "Install Today. Updates Forever".
 * [Mint](https://linuxmint.com) - Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use.
 
 ## Mobile Linux ![Open Source][OSS Icon]
 
-* [AOSP](https://source.android.com)
-* [CopperheadOS](https://copperhead.co/android/)
-* [LineageOS](https://lineageos.org)
-* [postmarketOS](https://postmarketos.org)
+* [AOSP](https://source.android.com) - Android is a mobile operating system developed by Google, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
+* [CopperheadOS](https://copperhead.co/android/) - CopperheadOS is a source-available operating system for smartphones and tablet computers, based on the Android mobile platform. It is based on the official releases of the Android Open Source Project by Google, with added privacy and security features.
+* [LineageOS](https://lineageos.org) - LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.
+* [postmarketOS](https://postmarketos.org) - postmarketOS, is a free and open-source operating system under development primarily for smartphones, based on the lightweight Alpine Linux distribution.
 
 ## Interesting Linux Distros/Related Projects 
 
 * [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database. ![Open Source][OSS Icon]
-* [Tails](https://tails.boum.org) ![Open Source][OSS Icon]
-* [Bedrock](https://bedrocklinux.org/) ![Open Source][OSS Icon]
-* [QubesOS](https://www.qubes-os.org) ![Open Source][OSS Icon]
-* [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) 💰
+* [Tails](https://tails.boum.org) - Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity ![Open Source][OSS Icon]
+* [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution created with the aim of making most of the (often seemingly mutually-exclusive) benefits of various other Linux distributions available simultaneously and transparently. ![Open Source][OSS Icon]
+* [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation.[6] Virtualization is performed by Xen, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
+* [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables (in ELF format) natively on Windows 10.  💰
 * [oasis](https://github.com/michaelforney/oasis) - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes.
 
-# [More Linux](#additional-linux)
+### [More Linux](#more-linux)
 
 # Other UNIX-Like OSs
 
-## Plan 9 ![Open Source][OSS Icon]
+## Plan 9 Derivatives ![Open Source][OSS Icon]
 
-* [9front](http://9front.org)
-* [9legacy](http://9legacy.org)
-* [Harvey OS](https://harvey-os.org)
-* [Jehanne](http://jehanne.io)
+* [9front](http://9front.org) - 9front is a fork of Plan 9 from Bell Labs by the People's Front of Cat-V. It is a next generation mushroom cloud computing platform for the 20th century. 
+* [9legacy](http://9legacy.org) - 9legacy is an experimental patch queue for Plan 9 from Bell Labs.
+* [Harvey OS](https://harvey-os.org) - Harvey is an effort to provide a modern, distributed, 64 bit operating system. A different environment for researching and finding new lines of work. It can be built with gcc and clang and has an ANSI/POSIX compliant subsystem.
+* [Jehanne](http://jehanne.io) - Jehanne is a new distributed operating system designed for programmers. The core values that lead the development are simplicity and security. Jehanne is a fork of Harvey.
 
 ## OpenSolaris/illumos ![Open Source][OSS Icon]
 
-* [OpenIndiana](https://www.openindiana.org)
-* [DilOS](http://www.dilos.org)
-* [SmartOS](https://www.joyent.com/smartos)
+* [OpenIndiana](https://www.openindiana.org) - OpenIndiana is a free and open-source, Unix operating system derived from OpenSolaris and based on illumos. Developers forked OpenSolaris after Oracle Corporation discontinued it.
+* [DilOS](http://www.dilos.org) - DilOS is an illumos-based platform featuring the Debian package manager (dpkg+apt).
+* [SmartOS](https://www.joyent.com/smartos) - SmartOS is a free and open-source SVR4 hypervisor, based on the UNIX operating system that combines OpenSolaris technology with Linux's KVM virtualization. Its core kernel contributed to illumos project.
 
 ## RTOS
 
@@ -134,7 +138,7 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 
 # Additional Resources
 
-## Additional UNIX
+## More UNIX
 
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start)
 * [The Open Group](http://www.opengroup.org)
@@ -143,7 +147,9 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 	* ##unixlove
 	* ##climagic
 	
-## Additional Linux
+## More BSD
+	
+## More Linux
 
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software)
 * [Aweseome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
