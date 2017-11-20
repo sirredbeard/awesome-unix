@@ -8,7 +8,7 @@ The greatest operating system ever invented you never knew whose genius design n
 
 ### What is UNIX today?
 
-A set of computer science principles and open source code that link dozens of operating systems to form the basis of modern computing, from mobile devices to mainframes. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
+A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) and open source code that link dozens of operating systems to form the basis of modern computing, from mobile devices to mainframes. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
 
 # Real UNIX
 
@@ -18,49 +18,46 @@ A set of computer science principles and open source code that link dozens of op
 * [AIX](https://www.ibm.com/power/operating-systems/aix) - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
 * [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html) - HP-UX is  Hewlett Packard Enterprise's proprietary implementation of the Unix operating system, based on UNIX System V.
 * [UnixWare](https://www.xinuos.com) - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
-* [Solaris](https://www.oracle.com/solaris/solaris11/index.html) 
+* [Solaris](https://www.oracle.com/solaris/solaris11/index.html) - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
 ## Non-Commercial UNIX ![Open Source][OSS Icon]
 
-* [FreeBSD](https://www.freebsd.org) - FreeBSD is a free and open-source Unix-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD)
+* [FreeBSD](https://www.freebsd.org) - FreeBSD is a free and open-source Unix-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's package availability.
 	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix-like operating system based on FreeBSD with MATE as its default desktop environment.
 	* [TrueOS](https://www.trueos.org) - TrueOS (formerly PC-BSD or PCBSD) is a Unix-like, desktop-oriented operating system built upon the most recent releases of FreeBSD. Features Lumina desktop environment.
 	* [FreeNAS](http://www.freenas.org) - FreeNAS is a free and open-source network-attached storage (NAS) software based on FreeBSD and the OpenZFS file system.
-	* [pfSense](https://www.pfsense.org)
-	* [RaspBSD](http://www.raspbsd.org) 
-	* [MidnightBSD](http://www.midnightbsd.org)
-	* [Open Server 10](https://www.xinuos.com/menu-products/openserver-10) 💰
-* [NetBSD](https://www.netbsd.org) 
-* [OpenBSD](http://www.openbsd.org) 
-	* [FuguIta](http://fuguita.org/?FuguIta) 
-	* [MirBSD](http://www.mirbsd.org) 
-* [DragonflyBSD](https://www.dragonflybsd.org) 
+	* [pfSense](https://www.pfsense.org) - pfSense is an open source firewall/router computer software distribution based on FreeBSD
+	* [RaspBSD](http://www.raspbsd.org) - RaspBSD is a image of FreeBSD  that is preconfigured for Raspberry Pi Computers.
+	* [MidnightBSD](http://www.midnightbsd.org) - MidnightBSD is a free Unix-like, desktop-oriented operating system based on FreeBSD 6.1 and borrowing heavily from the NeXTSTEP graphical user interface.
+	* [Open Server 10](https://www.xinuos.com/menu-products/openserver-10) - Xinuos OpenServer 10 is a 64-bit operating system based on the popular FreeBSD and designed to support business applications. 💰
+* [NetBSD](https://www.netbsd.org) - NetBSD is a free and open source Unix-like operating system that descends from Berkeley Software Distribution (BSD), a Research Unix derivative developed at the University of California, Berkeley known for it's wideranging platform support.
+* [OpenBSD](http://www.openbsd.org) - OpenBSD is a free and open-source Unix-like computer operating system descended from Berkeley Software Distribution (BSD), a Research Unix derivative developed at the University of California, Berkeley known for it's security and development discipline.
+	* [FuguIta](http://fuguita.org/?FuguIta) - FuguIta is an OpenBSD live CD featuring portable workplace, low hardware requirements, additional software, and partial support for Japanese. 
+	* [MirBSD](http://www.mirbsd.org) - Fork of OpenBSD that tracks OpenBSD base with a number of enhancements and modifications.  
+* [DragonflyBSD](https://www.dragonflybsd.org) - DragonFly BSD is a free and open source Unix-like operating system created as a fork of FreeBSD 4.8.
 
 ## UNIX-Certified Linux
 
-* [Inspur K-UX](http://www.inspursystems.com/product/32-way-system/) 
+* [Inspur K-UX](http://www.inspursystems.com/product/32-way-system/) - Inspur K-UX is a Linux distribution based on Red Hat Enterprise Linux produced by Inspur, a Chinese multinational company specializing in information technology. 💰
 
 # Linux (UNIX-Like)
 
-## Most UNIX-Like Linux Distros ![Open Source][OSS Icon]
+## Most [UNIX-Like](https://en.wikipedia.org/wiki/Unix_philosophy) Linux Distros ![Open Source][OSS Icon]
 
-* [Devuan](https://devuan.org)
-	* [Refracta](http://www.ibiblio.org/refracta/)
-	* [Heads](https://heads.dyne.org/about.html)
-	* [Gnuinos](http://gnuinos.org/)
-	* [Dowse](http://dowse.eu/download.html)
-* [Alpine](https://alpinelinux.org) 
-* [Void](https://www.voidlinux.eu)
-* [Cucumber](http://cucumberlinux.com)
-* [Slackware](http://www.slackware.com)
-* [GuixSD](https://www.gnu.org/software/guix/)
-* [Gentoo](https://www.gentoo.org)
-	* [Funtoo](https://www.funtoo.org/Welcome)
-	* [Redcore](https://redcorelinux.org)
-* [GoboLinux](https://www.gobolinux.org)
-* [Dragora](https://www.dragora.org/)
-* [Morpheus](https://morpheus.2f30.org)
-* [oasis](https://github.com/michaelforney/oasis)
+* [Devuan](https://devuan.org) - Devuan Linux is a fork of Debian without systemd from UNIX veterans with the goal of becoming the new go-to base distribution for Linux. XFCE is default desktop environment.
+	* [heads](https://heads.dyne.org/about.html) - heads is a live CD to connect securely over Tor, unlike Tails it does not rely on systemd or non-free software. awesome is default desktop environment.
+	* [Gnuinos](http://gnuinos.org/) - Gnuinos is a lightweight Linux libre distro based on Devuan with no non-free software and featuring OpenBox desktop.
+* [Alpine](https://alpinelinux.org) - Alpine Linux is an independent, non-commercial, general purpose Linux distribution designed for power users who appreciate security, simplicity and resource efficiency.
+* [Void](https://www.voidlinux.eu) - Void is a general purpose operating system, based on the monolithic Linux kernel, Features XBPS packaging system.
+* [Cucumber](http://cucumberlinux.com) - Cucumber Linux aims to provide a Linux distribution that is usable as an every day, general purpose operating system. It aims to do this in as minimalistic a way as possible and in a way that follows the Unix Philosophy. 
+* [Slackware](http://www.slackware.com) - Slackware is a Linux distribution created by Patrick Volkerding in 1993. Slackware aims for design stability and simplicity and to be the most "Unix-like" Linux distribution
+* [GuixSD](https://www.gnu.org/software/guix/) - GuixSD is an advanced distribution of the GNU operating system developed by the GNU Project —which respects the freedom of computer users.
+* [Gentoo](https://www.gentoo.org) - Gentoo is a Linux distribution built using the Portage package management system. Unlike a binary software distribution, the source code is compiled locally.
+	* [Funtoo](https://www.funtoo.org/Welcome) - Funtoo Linux is a Linux-based operating system that is a variant of Gentoo Linux.
+	* [Redcore](https://redcorelinux.org) - Redcore Linux is a distribution based on Gentoo Linux that aims to be a very quick way to install a pure Gentoo Linux system without spending hours or days compiling from source code.
+* [Dragora](https://www.dragora.org/) - The Dragora project produces a LIBRE, reliable, UNIX-like GNU/Linux distribution made from scratch!
+* [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring (suckless tools)[https://suckless.org/).
+* [Stali](https://sta.li) - stali is a brand new static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
 
 ## General Commercial Linux Distros ![Open Source][OSS Icon]
 
@@ -92,10 +89,12 @@ A set of computer science principles and open source code that link dozens of op
 
 ## Interesting Linux Distros/Related Projects 
 
+* [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database. ![Open Source][OSS Icon]
 * [Tails](https://tails.boum.org) ![Open Source][OSS Icon]
 * [Bedrock](https://bedrocklinux.org/) ![Open Source][OSS Icon]
 * [QubesOS](https://www.qubes-os.org) ![Open Source][OSS Icon]
 * [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) 💰
+* [oasis](https://github.com/michaelforney/oasis) - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes.
 
 # Other UNIX-Like OSs
 
