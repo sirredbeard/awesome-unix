@@ -40,8 +40,8 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [UnixWare](https://www.xinuos.com) - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
 * [Solaris](https://www.oracle.com/solaris/solaris11/index.html) - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
-### [More macOS](#more-macOS)
-### [More Solaris](##more-solaris)
+### [macOS](#more macOS)
+### [Solaris](#more Solaris)
 
 ## Non-Commercial Descendants of AT&T's UNIX Operating System ![Open Source][OSS Icon]
 
