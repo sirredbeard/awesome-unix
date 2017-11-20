@@ -10,7 +10,7 @@ The greatest operating system ever invented you never knew whose genius design n
 
 A set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) and open source software projects that link dozens of operating systems to form the basis of modern computing, from mobile devices in your pocket to mainframes that power e-commerce giants. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
 
-### UNIX v. UNIX-Like v. Linux: Disambiguation
+### Disambiguation: UNIX v. UNIX-Like v. Linux
 
 #### Commercial UNIX
 
@@ -117,11 +117,11 @@ For a variety of historical and legal reasons, there has also been a massive exp
 ## Interesting Linux Distributions/Related Projects 
 
 * [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database. ![Open Source][OSS Icon]
+* [oasis](https://github.com/michaelforney/oasis) - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes.
 * [Tails](https://tails.boum.org) - Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity ![Open Source][OSS Icon]
 * [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution created with the aim of making most of the (often seemingly mutually-exclusive) benefits of various other Linux distributions available simultaneously and transparently. ![Open Source][OSS Icon]
-* [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation.[6] Virtualization is performed by Xen, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
-* [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables (in ELF format) natively on Windows 10.  💰
-* [oasis](https://github.com/michaelforney/oasis) - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes.
+* [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
+* [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables (in ELF format) natively on Windows 10. 💰
 
 ### [More Linux](#more-linux)
 
