@@ -4,39 +4,39 @@
 
 ###  What was UNIX?
 
-The greatest operating system ever invented you never knew whose genius design now enables everything great you love. [More.](https://en.wikipedia.org/wiki/History_of_Unix).
+The greatest operating system ever invented you never knew whose genius design now enables everything great you love. [More...](https://en.wikipedia.org/wiki/History_of_Unix)
 
 ### What is UNIX today?
 
-A set of computer science principles and open source code that link dozens of operating systems to form the basis of modern computing, from mobile devices to mainframes. [More.](https://en.wikipedia.org/wiki/Unix#Impact).
+A set of computer science principles and open source code that link dozens of operating systems to form the basis of modern computing, from mobile devices to mainframes. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
 
 # Real UNIX
 
 ## Commercial UNIX 💰
 
-* [macOS](https://www.apple.com/macos/) 
-	* [iOS/tvOS](https://www.apple.com/ios/)
-* [AIX](https://www.ibm.com/power/operating-systems/aix)
-* [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html) 
-* [UnixWare](https://www.xinuos.com) 
+* [macOS](https://www.apple.com/macos/) - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's Macintosh computers.
+* [AIX](https://www.ibm.com/power/operating-systems/aix) - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
+* [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html) - HP-UX is  Hewlett Packard Enterprise's proprietary implementation of the Unix operating system, based on UNIX System V.
+* [UnixWare](https://www.xinuos.com) - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
 * [Solaris](https://www.oracle.com/solaris/solaris11/index.html) 
 
 ## Non-Commercial UNIX ![Open Source][OSS Icon]
 
-* [FreeBSD](https://www.freebsd.org) 
-	* [GhostBSD](http://www.ghostbsd.org)
-	* [TrueOS](https://www.trueos.org) 
-	* [FreeNAS](http://www.freenas.org) 
+* [FreeBSD](https://www.freebsd.org) - FreeBSD is a free and open-source Unix-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD)
+	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix-like operating system based on FreeBSD with MATE as its default desktop environment.
+	* [TrueOS](https://www.trueos.org) - TrueOS (formerly PC-BSD or PCBSD) is a Unix-like, desktop-oriented operating system built upon the most recent releases of FreeBSD. Features Lumina desktop environment.
+	* [FreeNAS](http://www.freenas.org) - FreeNAS is a free and open-source network-attached storage (NAS) software based on FreeBSD and the OpenZFS file system.
 	* [pfSense](https://www.pfsense.org)
 	* [RaspBSD](http://www.raspbsd.org) 
-	* [MidnightBSD](http://www.midnightbsd.org) 
+	* [MidnightBSD](http://www.midnightbsd.org)
+	* [Open Server 10](https://www.xinuos.com/menu-products/openserver-10) 💰
 * [NetBSD](https://www.netbsd.org) 
 * [OpenBSD](http://www.openbsd.org) 
 	* [FuguIta](http://fuguita.org/?FuguIta) 
 	* [MirBSD](http://www.mirbsd.org) 
 * [DragonflyBSD](https://www.dragonflybsd.org) 
 
-## UNIX-Certified Linux 💰
+## UNIX-Certified Linux
 
 * [Inspur K-UX](http://www.inspursystems.com/product/32-way-system/) 
 
@@ -132,6 +132,8 @@ A set of computer science principles and open source code that link dozens of op
 # Additional Resources
 
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start)
+* [The Open Group](http://www.opengroup.org)
+	* [The Open Group official register of UNIX Certified Products](https://www.opengroup.org/openbrand/register/)
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software)
 * [Aweseome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 * IRC freenode
