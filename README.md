@@ -40,8 +40,8 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [UnixWare](https://www.xinuos.com) - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
 * [Solaris](https://www.oracle.com/solaris/solaris11/index.html) - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
-### [Get More macOS](#more-macos)
-### [Get More Solaris](#more-Solaris)
+#### [Get More macOS](#more-macos)
+#### [Get More Solaris](#more-solaris)
 
 ## Non-Commercial Descendants of AT&T's UNIX Operating System ![Open Source][OSS Icon]
 
@@ -59,14 +59,14 @@ For a variety of historical and legal reasons, there has also been a massive exp
 	* [MirBSD](http://www.mirbsd.org) - Fork of OpenBSD that tracks OpenBSD base with a number of enhancements and modifications.  
 * [DragonflyBSD](https://www.dragonflybsd.org) - DragonFly BSD is a free and open source Unix-like operating system created as a fork of FreeBSD 4.8.
 
-### [Get More BSD](#more-bsd)
+#### [Get More BSD](#more-bsd)
 
 ## UNIX-Certified Linux-Based Operating Systems
 
 * [K-UX](http://www.inspursystems.com/product/32-way-system/) - K-UX is a Linux distribution based on CentOS produced by Inspur, a Chinese multinational company specializing in information technology. 💰
 * [EulerOS](http://developer.huawei.com/ict/en/site-euleros) -  EulerOS is a Linux distribution based on CentOS produced by Huawei, a Chinese networking and telecommunications equipment and services company. 💰
 
-### [Get More UNIX](#more-unix)
+#### [Get More UNIX](#more-unix)
 
 # Linux (The Most Common *UNIX-Like* Operating System)
 
@@ -146,6 +146,8 @@ Solaris was originally a UNIX operating system developed jointly by Sun Microsys
 	* [OpenIndiana](https://www.openindiana.org) - OpenIndiana is a free and open-source, Unix operating system derived from OpenSolaris and based on illumos. Developers forked OpenSolaris after Oracle Corporation discontinued it.
 	* [DilOS](http://www.dilos.org) - DilOS is an illumos-based platform featuring the Debian package manager (dpkg+apt).
 	* [SmartOS](https://www.joyent.com/smartos) - SmartOS is a free and open-source SVR4 hypervisor, based on the UNIX operating system that combines OpenSolaris technology with Linux's KVM virtualization. Its core kernel contributed to illumos project.
+	
+#### [Get More Solaris](#more-solaris)
 
 ## UNIX-Like Real Time Operating Systems ([RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system))
 
