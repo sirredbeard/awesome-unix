@@ -171,7 +171,7 @@ Solaris was originally a UNIX operating system developed jointly by Sun Microsys
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start)
 * [The Open Group](http://www.opengroup.org)
 	* [The Open Group official register of UNIX Certified Products](https://www.opengroup.org/openbrand/register/)
-	* IRC freenode
+* IRC [freenode](https://webchat.freenode.net)
 	* ##unixlove
 	* ##climagic
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
