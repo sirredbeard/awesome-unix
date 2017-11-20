@@ -66,7 +66,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [K-UX](http://www.inspursystems.com/product/32-way-system/) - K-UX is a Linux distribution based on CentOS produced by Inspur, a Chinese multinational company specializing in information technology. 💰
 * [EulerOS](http://developer.huawei.com/ict/en/site-euleros) -  EulerOS is a Linux distribution based on CentOS produced by Huawei, a Chinese networking and telecommunications equipment and services company. 💰
 
-### [More UNIX](#more-unix)
+### [Get More UNIX](#more-unix)
 
 # Linux (The Most Common *UNIX-Like* Operating System)
 
