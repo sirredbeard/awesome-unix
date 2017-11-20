@@ -12,33 +12,33 @@ A set of computer science principles and open source code that link dozens of op
 
 # Real UNIX
 
-## Commercial UNIX
+## Commercial UNIX 💰
 
-* [macOS](https://www.apple.com/macos/) 💰
+* [macOS](https://www.apple.com/macos/) 
 	* [iOS/tvOS](https://www.apple.com/ios/)
-* [AIX](https://www.ibm.com/power/operating-systems/aix) 💰
-* [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html) 💰
-* [UnixWare](https://www.xinuos.com) 💰
-* [Solaris](https://www.oracle.com/solaris/solaris11/index.html) 💰
+* [AIX](https://www.ibm.com/power/operating-systems/aix)
+* [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html) 
+* [UnixWare](https://www.xinuos.com) 
+* [Solaris](https://www.oracle.com/solaris/solaris11/index.html) 
 
-## Non-Commercial UNIX
+## Non-Commercial UNIX ![Open Source][OSS Icon]
 
-* [FreeBSD](https://www.freebsd.org) ![Open Source][OSS Icon]
-	* [GhostBSD](http://www.ghostbsd.org) ![Open Source][OSS Icon]
-	* [TrueOS](https://www.trueos.org) ![Open Source][OSS Icon]
-	* [FreeNAS](http://www.freenas.org) ![Open Source][OSS Icon]
-	* [pfSense](https://www.pfsense.org) ![Open Source][OSS Icon]
-	* [RaspBSD](http://www.raspbsd.org) ![Open Source][OSS Icon]
-	* [MidnightBSD](http://www.midnightbsd.org) ![Open Source][OSS Icon]
-* [NetBSD](https://www.netbsd.org) ![Open Source][OSS Icon]
-* [OpenBSD](http://www.openbsd.org) ![Open Source][OSS Icon]
-	* [FuguIta](http://fuguita.org/?FuguIta) ![Open Source][OSS Icon]
-	* [MirBSD](http://www.mirbsd.org) ![Open Source][OSS Icon]
-* [DragonflyBSD](https://www.dragonflybsd.org) ![Open Source][OSS Icon]
+* [FreeBSD](https://www.freebsd.org) 
+	* [GhostBSD](http://www.ghostbsd.org)
+	* [TrueOS](https://www.trueos.org) 
+	* [FreeNAS](http://www.freenas.org) 
+	* [pfSense](https://www.pfsense.org)
+	* [RaspBSD](http://www.raspbsd.org) 
+	* [MidnightBSD](http://www.midnightbsd.org) 
+* [NetBSD](https://www.netbsd.org) 
+* [OpenBSD](http://www.openbsd.org) 
+	* [FuguIta](http://fuguita.org/?FuguIta) 
+	* [MirBSD](http://www.mirbsd.org) 
+* [DragonflyBSD](https://www.dragonflybsd.org) 
 
-## UNIX-Certified Linux
+## UNIX-Certified Linux 💰
 
-* [Inspur K-UX](http://www.inspursystems.com/product/32-way-system/) 💰
+* [Inspur K-UX](http://www.inspursystems.com/product/32-way-system/) 
 
 # Linux (UNIX-Like)
 
