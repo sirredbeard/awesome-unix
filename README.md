@@ -14,11 +14,13 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 
 ## Commercial UNIX 💰
 
-* [macOS](https://www.apple.com/macos/) - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's Macintosh computers.
+* [macOS](https://www.apple.com/macos/) - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's personal computers.
 * [AIX](https://www.ibm.com/power/operating-systems/aix) - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
 * [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html) - HP-UX is  Hewlett Packard Enterprise's proprietary implementation of the Unix operating system, based on UNIX System V.
 * [UnixWare](https://www.xinuos.com) - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
 * [Solaris](https://www.oracle.com/solaris/solaris11/index.html) - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
+
+### [More macOS](#more-macOS)
 
 ## Non-Commercial UNIX ![Open Source][OSS Icon]
 
@@ -45,9 +47,9 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 
 ### [More UNIX](#more-unix)
 
-# Linux (UNIX-Like)
+# Linux (Most Common *UNIX-Like* OS)
 
-## Most [UNIX-Like](https://en.wikipedia.org/wiki/Unix_philosophy) Linux Distros ![Open Source][OSS Icon]
+## Most [UNIX-Like](https://en.wikipedia.org/wiki/Unix_philosophy) Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
 
 * [Devuan](https://devuan.org) - Devuan Linux is a fork of Debian without systemd from UNIX veterans with the goal of becoming the new go-to base distribution for Linux. XFCE is default desktop environment.
 	* [heads](https://heads.dyne.org/about.html) - heads is a live CD to connect securely over Tor, unlike Tails it does not rely on systemd or non-free software. awesome is default desktop environment.
@@ -64,7 +66,7 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 * [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring (suckless tools)[https://suckless.org/).
 * [Stali](https://sta.li) - stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
 
-## General Commercial Linux Distros ![Open Source][OSS Icon]
+## General Commercial Linux Distributions ![Open Source][OSS Icon]
 
 * [Red Hat Enterprise Linux](https://www.redhat.com) - Red Hat Enterprise Linux is a Linux distribution developed by Red Hat and targeted toward the commercial market. 💰
 * [Ubuntu](https://ubuntu.com) - Ubuntu is a Debian-based Linux distribution published by Canonical Ltd who offer commercial support for enterprise-class Ubuntu Server variant.
@@ -73,7 +75,7 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 * [Oracle](https://www.oracle.com/linux/) - Oracle Linux is compiled from Red Hat Enterprise Linux source code, replacing Red Hat branding with Oracle's, optimized to run Oracle software. 💰
 * [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer-focused minimalist Linux distro from Linux hardware manufacturer System 76.
 
-## General Non-Commercial Linux Distros ![Open Source][OSS Icon]
+## General Non-Commercial Linux Distributions ![Open Source][OSS Icon]
 
 * [Debian](https://www.debian.org) - Debian is a Unix-like computer operating system that is composed entirely of free software, most of which is under the GNU General Public License and packaged by a group of individuals participating in the Debian Project.
 * [Fedora](https://getfedora.org) - Fedora is an Unix-like operating system based on the Linux kernel and GNU programs (a Linux distribution), developed by the community-supported Fedora Project and sponsored by the Red Hat company.
@@ -85,14 +87,14 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 * [Solus](https://solus-project.com) - Solus is an independent desktop operating system based on the Linux kernel. It is offered as a curated rolling release model under the slogan "Install Today. Updates Forever".
 * [Mint](https://linuxmint.com) - Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use.
 
-## Mobile Linux ![Open Source][OSS Icon]
+## Mobile Linux Distributions ![Open Source][OSS Icon]
 
 * [AOSP](https://source.android.com) - Android is a mobile operating system developed by Google, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
 * [CopperheadOS](https://copperhead.co/android/) - CopperheadOS is a source-available operating system for smartphones and tablet computers, based on the Android mobile platform. It is based on the official releases of the Android Open Source Project by Google, with added privacy and security features.
 * [LineageOS](https://lineageos.org) - LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.
 * [postmarketOS](https://postmarketos.org) - postmarketOS, is a free and open-source operating system under development primarily for smartphones, based on the lightweight Alpine Linux distribution.
 
-## Interesting Linux Distros/Related Projects 
+## Interesting Linux Distributions/Related Projects 
 
 * [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database. ![Open Source][OSS Icon]
 * [Tails](https://tails.boum.org) - Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity ![Open Source][OSS Icon]
@@ -118,23 +120,23 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 * [DilOS](http://www.dilos.org) - DilOS is an illumos-based platform featuring the Debian package manager (dpkg+apt).
 * [SmartOS](https://www.joyent.com/smartos) - SmartOS is a free and open-source SVR4 hypervisor, based on the UNIX operating system that combines OpenSolaris technology with Linux's KVM virtualization. Its core kernel contributed to illumos project.
 
-## RTOS
+## UNIX-Like Real Time Operating Systems ([RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system))
 
-* [QNX](https://blackberry.qnx.com/en)💰
-* [Integrity](https://www.ghs.com/products/rtos/integrity.html)💰
-* [Contiki](http://contiki-os.org) ![Open Source][OSS Icon]
-* [LynxOS](http://www.lynx.com/products/real-time-operating-systems/lynxos-rtos/) 💰
-* [nuttX](http://nuttx.org) ![Open Source][OSS Icon]
+* [QNX](https://blackberry.qnx.com/en) - QNX is a commercial Unix-like real-time operating system, aimed primarily at the embedded systems market. 💰
+* [Integrity](https://www.ghs.com/products/rtos/integrity.html) - Integrity is a real-time operating systems produced and marketed by Green Hills Software. Integrity-178B has a top National Security Agency rating. 💰
+* [Contiki](http://contiki-os.org) - Contiki is an operating system for networked, memory-constrained systems with a focus on low-power wireless Internet of Things devices. ![Open Source][OSS Icon]
+* [LynxOS](http://www.lynx.com/products/real-time-operating-systems/lynxos-rtos/) - The LynxOS RTOS is a Unix-like real-time operating system from Lynx Software Technologies. LynxOS features full POSIX conformance and, more recently, Linux compatibility. 💰
+* [nuttX](http://nuttx.org) - NuttX is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable, the primary focus in NuttX are POSIX and ANSI standards. ![Open Source][OSS Icon]
 
 ## Other ![Open Source][OSS Icon]
 
-* [Redox](https://www.redox-os.org)
+* [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free.
 * [GNUSTEP](http://www.aiei.ch/gnustep/) - GNUSTEP is based on Debian 9. without systemd, and features a free implementation of the OPENSTEP and Cocoa frameworks, a continuation of NeXT OS and a common heritage with macOS.
-* [Minix](http://www.minix3.org)
-* [HaikuOS](https://www.haiku-os.org)
-* [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html)
-* [Akaros](https://github.com/brho/akaros)
-* [Sortix](https://sortix.org) 
+* [Minix](http://www.minix3.org) - Minix is a POSIX-compliant Unix-like computer operating system based on a microkernel architecture.
+* [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS. Its development began in 2001, and the operating system became self-hosting in 2008.
+* [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html) - GNU Hurd is the multiserver microkernel written as part of GNU. It has been under development since 1990 by the GNU Project of the Free Software Foundation, designed as a replacement for the Unix kernel, and released as free software under the GNU General Public License.
+* [Akaros](https://github.com/brho/akaros) - Akaros is an open source, GPL-licensed operating system for manycore architectures. Our goal is to provide support for parallel and high-performance applications and to scale to a large number of cores.
+* [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software. 
 
 # Additional Resources
 
@@ -146,8 +148,16 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 	* IRC freenode
 	* ##unixlove
 	* ##climagic
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+
+## More macOS
+
+* [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line)
 	
 ## More BSD
+
+* [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)
+* [BSD v. Linux](https://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
 	
 ## More Linux
 
@@ -155,7 +165,10 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 * [Aweseome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 
 
+-----
+UNIX® is a registered trademark of [The Open Group](http://www.unix.org/trademark.html).
+Linux® is a registered trademark of [Linus Torvalds](https://github.com/torvalds). 
 
-
+All other trademarks are the property of their respective owners.
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
