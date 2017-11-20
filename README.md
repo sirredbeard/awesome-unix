@@ -1,4 +1,4 @@
-# State of UNIX 2017-2018
+# Awesome UNIX
 
 # FAQ
 
@@ -38,7 +38,8 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 
 ## UNIX-Certified Linux
 
-* [Inspur K-UX](http://www.inspursystems.com/product/32-way-system/) - Inspur K-UX is a Linux distribution based on Red Hat Enterprise Linux produced by Inspur, a Chinese multinational company specializing in information technology. 💰
+* [K-UX](http://www.inspursystems.com/product/32-way-system/) - K-UX is a Linux distribution based on CentOS produced by Inspur, a Chinese multinational company specializing in information technology. 💰
+* [EulerOS](http://developer.huawei.com/ict/en/site-euleros) -  EulerOS is a Linux distribution based on CentOS produced by Huawei, a Chinese networking and telecommunications equipment and services company. 💰
 
 # Linux (UNIX-Like)
 
@@ -96,6 +97,8 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 * [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) 💰
 * [oasis](https://github.com/michaelforney/oasis) - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes.
 
+# [More Linux](#additional-linux)
+
 # Other UNIX-Like OSs
 
 ## Plan 9 ![Open Source][OSS Icon]
@@ -122,6 +125,7 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 ## Other ![Open Source][OSS Icon]
 
 * [Redox](https://www.redox-os.org)
+* [GNUSTEP](http://www.aiei.ch/gnustep/) - GNUSTEP is based on Debian 9. without systemd, and features a free implementation of the OPENSTEP and Cocoa frameworks, a continuation of NeXT OS and a common heritage with macOS.
 * [Minix](http://www.minix3.org)
 * [HaikuOS](https://www.haiku-os.org)
 * [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html)
@@ -130,13 +134,22 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 
 # Additional Resources
 
+## Additional UNIX
+
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start)
 * [The Open Group](http://www.opengroup.org)
 	* [The Open Group official register of UNIX Certified Products](https://www.opengroup.org/openbrand/register/)
-* [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software)
-* [Aweseome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
-* IRC freenode
+	* IRC freenode
 	* ##unixlove
 	* ##climagic
+	
+## Additional Linux
+
+* [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software)
+* [Aweseome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
+
+
+
+
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
