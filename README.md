@@ -41,6 +41,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Solaris](https://www.oracle.com/solaris/solaris11/index.html) - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
 ### [More macOS](#more-macOS)
+### [More Solaris](##more-solaris)
 
 ## Non-Commercial Descendants of AT&T's UNIX Operating System ![Open Source][OSS Icon]
 
@@ -148,13 +149,15 @@ Solaris was originally a UNIX operating system developed jointly by Sun Microsys
 
 ## UNIX-Like Real Time Operating Systems ([RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system))
 
+A real-time operating system (RTOS) is an operating system (OS) intended to serve real-time applications that process data as it comes in, typically without buffer delays. An example of this in QNX which is used widely in cars and trucks.
+
 * [QNX](https://blackberry.qnx.com/en) - QNX is a commercial Unix-like real-time operating system, aimed primarily at the embedded systems market. 💰
 * [Integrity](https://www.ghs.com/products/rtos/integrity.html) - Integrity is a real-time operating systems produced and marketed by Green Hills Software. Integrity-178B has a top National Security Agency rating. 💰
 * [Contiki](http://contiki-os.org) - Contiki is an operating system for networked, memory-constrained systems with a focus on low-power wireless Internet of Things devices. ![Open Source][OSS Icon]
 * [LynxOS](http://www.lynx.com/products/real-time-operating-systems/lynxos-rtos/) - The LynxOS RTOS is a Unix-like real-time operating system from Lynx Software Technologies. LynxOS features full POSIX conformance and, more recently, Linux compatibility. 💰
 * [nuttX](http://nuttx.org) - NuttX is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable, the primary focus in NuttX are POSIX and ANSI standards. ![Open Source][OSS Icon]
 
-## Other ![Open Source][OSS Icon]
+## Other UNIX-Like Operating Systems ![Open Source][OSS Icon]
 
 * [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free.
 * [GNUSTEP](http://www.aiei.ch/gnustep/) - GNUSTEP is based on Debian 9. without systemd, and features a free implementation of the OPENSTEP and Cocoa frameworks, a continuation of NeXT OS and a common heritage with macOS.
@@ -179,6 +182,10 @@ Solaris was originally a UNIX operating system developed jointly by Sun Microsys
 ## More macOS
 
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+## More Solaris
+
+* [Awesome DTrace](https://awesome-dtrace.com) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 	
 ## More BSD
 
@@ -196,6 +203,6 @@ Solaris was originally a UNIX operating system developed jointly by Sun Microsys
 * macOS® is a registered trademark of [Apple, Inc](http://www.apple.com).
 * Linux® is a registered trademark of [Linus Torvalds](https://github.com/torvalds). 
 
-All other trademarks are the property of their respective owners.
+IBM, Ubuntu, Red Hat, Sun, Oracle, QNX, HP, and other trademarks are the property of their respective owners.
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
