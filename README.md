@@ -84,7 +84,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 	* [Funtoo](https://www.funtoo.org/Welcome) - Funtoo Linux is a Linux-based operating system that is a variant of Gentoo Linux.
 	* [Redcore](https://redcorelinux.org) - Redcore Linux is a distribution based on Gentoo Linux that aims to be a very quick way to install a pure Gentoo Linux system without spending hours or days compiling from source code.
 * [Dragora](https://www.dragora.org/) - The Dragora project produces a LIBRE, reliable, UNIX-like GNU/Linux distribution made from scratch!
-* [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring (suckless tools)[https://suckless.org/].
+* [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring suckless tools.
 * [Stali](https://sta.li) - stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
 
 ## General Commercial Linux Distributions ![Open Source][OSS Icon]
