@@ -1,4 +1,4 @@
-# Awesome UNIX
+# Awesome UNIX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # FAQ
 
@@ -8,11 +8,11 @@ The greatest operating system ever invented you never knew whose genius design n
 
 ### What is UNIX today?
 
-A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) and open source code that link dozens of operating systems to form the basis of modern computing, from mobile devices to mainframes. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
+A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) and open source code that link dozens of operating systems to form the basis of modern computing, from mobile devices in your pocket to mainframes that run Amazon. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
 
 # Real UNIX
 
-## Commercial UNIX 💰
+## Commercial Certified UNIX 💰
 
 * [macOS](https://www.apple.com/macos/) - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's personal computers.
 * [AIX](https://www.ibm.com/power/operating-systems/aix) - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
@@ -105,7 +105,7 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 
 ### [More Linux](#more-linux)
 
-# Other UNIX-Like OSs
+# Other UNIX-Like/Derived Operating Systems
 
 ## Plan 9 Derivatives ![Open Source][OSS Icon]
 
@@ -148,25 +148,26 @@ A set of [computer science principles](https://en.wikipedia.org/wiki/Unix_philos
 	* IRC freenode
 	* ##unixlove
 	* ##climagic
-* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## More macOS
 
-* [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line)
+* [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 	
 ## More BSD
 
-* [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)
+* [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [BSD v. Linux](https://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
 	
 ## More Linux
 
-* [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software)
-* [Aweseome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
+* [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Aweseome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 -----
 UNIX® is a registered trademark of [The Open Group](http://www.unix.org/trademark.html).
+macOS® is a registered trademark of [Apple, Inc.](http://www.apple.com).
 Linux® is a registered trademark of [Linus Torvalds](https://github.com/torvalds). 
 
 All other trademarks are the property of their respective owners.
