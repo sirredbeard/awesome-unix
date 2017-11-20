@@ -2,93 +2,93 @@
 
 ## Commercial UNIX
 
-macOS
-iOS/tvOS
-AIX
-HP-UK
-UnixWare
-Solaris
+* macOS
+* iOS/tvOS
+* AIX
+* HP-UK
+* UnixWare
+* Solaris
 
 ## Non-Commercial UNIX
 
-FreeBSD
-  *GhostBSD
-	*TrueOS
-	*FreeNAS
-	*pfSense
-	*RaspBSD
-NetBSD
-OpenBSD
-	*FuguIta
-	*MirBSD
-MidnightBSD
-DragonflyBSD
+* FreeBSD
+* GhostBSD
+* TrueOS
+* FreeNAS
+* pfSense
+* RaspBSD
+* NetBSD
+* OpenBSD
+	* FuguIta
+	* MirBSD
+* MidnightBSD
+* DragonflyBSD
 
 ## Commercial Linux
 
-Red Hat
-Ubuntu
-SUSE Enterprise
-elementaryOS
-Oracle
-Pop_OS!
+* Red Hat
+* Ubuntu
+* SUSE Enterprise
+* elementaryOS
+* Oracle
+* Pop_OS!
 
 ## Non-Commercial Linux
 
-Debian
-Fedora
-Magiea
-OpenSUSE
-Arch
-Manjaro 
+* Debian
+* Fedora
+* Magiea
+* OpenSUSE
+* Arch
+* Manjaro 
 
 ## UNIX-Like Linux
 
-Devuan
-Alpine
-Cucumber
-Slackware
-GuixSD
-Gentoo
-GoboLinux
-Dragora
-Void
-K-UX
-Morpheus Linux
-oasis
+* Devuan
+* Alpine
+* Cucumber
+* Slackware
+* GuixSD
+* Gentoo
+* GoboLinux
+* Dragora
+* Void
+* K-UX
+* Morpheus Linux
+* oasis
 
 ## Interesting Linux
 
-Bedrock
-Qubes
+* Bedrock
+* Qubes
 
 ## Plan 9
 
-9front
-9legacy
-Harvey OS
-Jehanne
-Akaros
+* 9front
+* 9legacy
+* Harvey OS
+* Jehanne
+* Akaros
 
 ## OpenSolaris/illumos
 
-OpenIndiana
-DilOS
-SmartOS
+* OpenIndiana
+* DilOS
+* SmartOS
 
 ## UNIX-Like RTOS
 
-QNX
-Integrity
-Contiki
-LynxOS
-nuttX
+* QNX
+* Integrity
+* Contiki
+* LynxOS
+* nuttX
 
 ## Other
 
-Redox
-Minix
-Haiku
-GNU/Hurd
-Sortix
+* Redox
+* Minix
+* Haiku
+* GNU/Hurd
+* Sortix
 
