@@ -1,11 +1,23 @@
 # State of UNIX 2017
 
+# FAQ
+
+###  What was UNIX?
+
+The greatest operating system ever invented you never knew that powers everything great you love.
+
+### What is UNIX today?
+
+A set of computer science principles and open source code that link dozens of operating systems to form modern computing.
+
+These operating systems are both certified UNIX and UNIX-like, Linux and non-Linux (like macOS, BSD), desktop and mobile (like Android), in production and for research purposes.
+
 # Real UNIX
 
 ## Commercial UNIX
 
 * [macOS](https://www.apple.com/macos/)
-	* iOS/tvOS(https://www.apple.com/ios/)
+	* [iOS/tvOS](https://www.apple.com/ios/)
 * [AIX](https://www.ibm.com/power/operating-systems/aix)
 * [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html)
 * [UnixWare](https://www.xinuos.com)
@@ -57,23 +69,31 @@
 
 ## General Non-Commercial Linux Distros
 
-* Debian
-* Fedora
+* [Debian](https://www.debian.org)
+* [Fedora](https://getfedora.org)
 * Magiea
 * OpenSUSE
 * Arch
 * Manjaro 
 
+## Mobile Linux
+
+* [AOSP](https://source.android.com)
+* [CopperheadOS](https://copperhead.co/android/)
+* [LineageOS](https://lineageos.org)
+* [postmarketOS](https://postmarketos.org)
+
 ## Interesting Linux Distros
 
-* Bedrock
+* [Bedrock](https://bedrocklinux.org/)
 * Qubes
+* Windows Linux Subsystem
 
 # Other UNIX-Like OSs
 
 ## Plan 9
 
-* 9front
+* [9front](http://9front.org)
 * 9legacy
 * Harvey OS
 * Jehanne
@@ -95,9 +115,15 @@
 
 ## Other
 
-* Redox
-* Minix
-* Haiku
-* GNU/Hurd
+* [Redox](https://www.redox-os.org)
+* [Minix](http://www.minix3.org)
+* [HaikuOS](https://www.haiku-os.org)
+* [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html)
 * Sortix
 
+# Additional Resources
+
+* [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start)
+* IRC: freenode
+	* ##unixlove
+	* ##climagic
