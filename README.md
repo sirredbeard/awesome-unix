@@ -12,7 +12,7 @@ A set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_p
 
 ### Disambiguation: UNIX v. UNIX-Like v. Linux
 
-#### Commercial UNIX
+#### Commercial UNIX®
 
 UNIX was originally an operating system developed at AT&T's Bell Labs. It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX) overseen by the (IEEE)[https://en.wikipedia.org/wiki/POSIX], and a certification that can be obtained by companies for their commercial operating systems, through a process administrated by (The Open Group)[https://www.opengroup.org/openbrand/register/]. Among the commercial are massive mainframe operating systems like IBM's AIX as well Apple's macOS desktop operating for their MacBook and iMac lineup.
 
@@ -34,11 +34,11 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ## Commercial Certified UNIX Operating Systems💰
 
-* [macOS](https://www.apple.com/macos/) - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's personal computers.
-* [AIX](https://www.ibm.com/power/operating-systems/aix) - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
-* [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html) - HP-UX is  Hewlett Packard Enterprise's proprietary implementation of the Unix operating system, based on UNIX System V.
-* [UnixWare](https://www.xinuos.com) - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
-* [Solaris](https://www.oracle.com/solaris/solaris11/index.html) - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
+* [macOS](https://www.apple.com/macos/)® - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's personal computers.
+* [AIX](https://www.ibm.com/power/operating-systems/aix)® - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
+* [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html)® - HP-UX is  Hewlett Packard Enterprise's proprietary implementation of the Unix operating system, based on UNIX System V.
+* [UnixWare](https://www.xinuos.com)® - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
+* [Solaris](https://www.oracle.com/solaris/solaris11/index.html)® - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
 #### [Get More macOS](#more-macos)
 #### [Get More Solaris](#more-solaris)
