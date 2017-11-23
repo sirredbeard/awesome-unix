@@ -76,7 +76,8 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 * [Devuan](https://devuan.org) - Devuan Linux is a fork of Debian without systemd from UNIX veterans with the goal of becoming the new go-to base distribution for Linux. XFCE is default desktop environment.
 	* [heads](https://heads.dyne.org/about.html) - heads is a live CD to connect securely over Tor, unlike Tails it does not rely on systemd or non-free software. awesome is default desktop environment.
-	* [Gnuinos](http://gnuinos.org/) - Gnuinos is a lightweight Linux libre distro based on Devuan with no non-free software and featuring OpenBox desktop.
+	* [Gnuinos](http://gnuinos.org/) - Gnuinos is a lightweight Linux libre distro based on Devuan with no non-free software featuring OpenBox desktop.
+	* [Dynebolic Linux](https://www.dyne.org/software/dynebolic/) - Dyne:bolic is a Free Software Foundation-approved Linux libre distro for media activists, artists and creatives. 
 * [Alpine](https://alpinelinux.org) - Alpine Linux is an independent, non-commercial, general purpose Linux distribution designed for power users who appreciate security, simplicity and resource efficiency.
 	* [Adélie](http://adelielinux.org/) - Adélie Linux was created by Gentoo users who combined the power of Alpine with the ease-of-use of a binary package manager. Adélie is notable for supporting x86, PowerPC, MIPS, and ARM platforms.
 * [Void](https://www.voidlinux.eu) - Void is a general purpose operating system, based on the monolithic Linux kernel, Features XBPS packaging system.
@@ -89,7 +90,8 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Dragora](https://www.dragora.org/) - The Dragora project produces a libre, reliable, UNIX-like GNU/Linux distribution made from scratch!
 * [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring suckless tools.
 * [Stali](https://sta.li) - stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
-* [OviOS Linux](http://www.ovios.org) - OviOS is a distribution designed to easily deploy a Linux unified storage server. Written from scratch it is fully compatible with the Linux Standard Base.
+* [OviOS](http://www.ovios.org) - OviOS is a distribution designed to easily deploy a Linux unified storage server. Written from scratch it is fully compatible with the Linux Standard Base.
+* [KNOPPIX](http://www.knopper.net/) - KNOPPIX is a Debian-based distribution that can be run entirely from a CD or USB on computers with minimal hardware specificiations. Replaces systemd in Debian with sysV and systemd-shim.
 
 ## Popular Commercial Linux Distributions ![Open Source][OSS Icon]
 
