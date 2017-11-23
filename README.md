@@ -21,7 +21,9 @@ UNIX was originally a research operating system developed at AT&T's Bell Labs.®
 
 UNIX philosophy is a core set of computer science principles, first implemented in UNIX, now codified in standards set forth by IEEE and The Open Group, and duplicated in dozens of UNIX-like operating systems that emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators, across operating systems and platforms. This enables the rapid spread and development of new and better software. It goes hand in hand with [open source philosophy](https://opensource.org/osd-annotated).
 
-> "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface." - Douglas McIlroy, former head of Bell Labs Computing Sciences Research Center
+> "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface."
+
+				Douglas McIlroy, former head of Bell Labs Computing Sciences Research Center
 
 #### UNIX Direct Descendants, e.g FreeBSD®
 
