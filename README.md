@@ -5,29 +5,29 @@
 
 ###  What was UNIX?
 
-The greatest operating system ever invented you never knew whose genius design now enables everything great you love. [More...](https://en.wikipedia.org/wiki/History_of_Unix)
+The greatest operating system ever invented you have probably never heard about whose genius design ideas now enable everything great you love. [More...](https://en.wikipedia.org/wiki/History_of_Unix)
 
-### What is UNIX today?
+### Why is UNIX relevant today?
 
-A set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) and open source software projects that link dozens of operating systems to form the basis of modern computing, from mobile devices in your pocket to mainframes that power e-commerce giants. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
+The ideas behind UNIX, a research operating system from AT&T in the 1960s, have evolved to form a set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
 
 ### Disambiguation: UNIX v. UNIX-Like v. Linux
 
 #### Commercial UNIX
 
-UNIX was originally an operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the (IEEE®)[https://en.wikipedia.org/wiki/POSIX], and a certification that can be obtained by companies for their commercial operating systems, through a process administrated by (The Open Group®)[https://www.opengroup.org/openbrand/register/]. Among the commercial are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
+UNIX was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the (IEEE®)[https://en.wikipedia.org/wiki/POSIX], and an official certification that can be obtained by companies for their commercial operating systems, this through a process administrated by (The Open Group®)[https://www.opengroup.org/openbrand/register/]. Among the commercial are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
 
 #### UNIX Principles
 
-These core set of standards, set forth by IEEE and The Open Group, allows software to be easily transferred and re-compiled on different operating systems across different hardware. It enables the rapid spread and development of new technology. These principles are generally known as UNIX philosophy. The Unix philosophy emphasizes building simple, short, clear, modular, and extensible software on a common set of libraries that can be easily maintained and repurposed by developers other than its creators. 
+These are core set of computer science principles, first implemented in UNIX, now codified in standards set forth by IEEE and The Open Group, and duplicated in dozens in other UNIX-like operating systems emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators. This enables the rapid spread and development of new and better software.
 
 #### UNIX Direct Descendants
 
-UNIX also encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since [re-implemented AT&T code with code under open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution). The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX certified, they are technically UNIX-like, but share a unique direct link back to AT&T UNIX and newcomers like RedoxOS do not.
+The term UNIX also debatedbly encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since [re-implemented the AT&T code with code under open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution). The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX certified, they are technically UNIX-like, but share a unique direct link back to AT&T UNIX and newcomers like RedoxOS do not.
 
 #### UNIX-Like Operating Systems
 
-For a variety of historical and legal reasons, there has also been a massive explosion of *UNIX-like* operating systems. MINIX, for example, was created as a UNIX-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux was created because Linus Torvalds, a college student, [wanted to run a UNIX-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own Intel PC. Linux has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Google® needed a kernel for their new mobile operating system, they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX standards but do not seek official UNIX certification.
+For a variety of historical and legal reasons, there has also been a massive explosion of *UNIX-like* operating systems. MINIX, for example, was created as a UNIX-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux was created because Linus Torvalds, a college student, [wanted to run a UNIX-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own hardware. Linux has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Google® needed a kernel for their new mobile operating system, Android®, they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX standards and UNIX principles but do not seek official UNIX certification.
 
 ----------
 
@@ -112,7 +112,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ## Popular Mobile Linux Distributions ![Open Source][OSS Icon]
 
-* [AOSP](https://source.android.com) - Android is a mobile operating system developed by Google, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
+* [AOSP](https://source.android.com) - Android® is a mobile operating system developed by Google®, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
 * [CopperheadOS](https://copperhead.co/android/)® - CopperheadOS is a source-available operating system for smartphones and tablet computers, based on the Android mobile platform. It is based on the official releases of the Android Open Source Project by Google, with added privacy and security features.💰
 * [LineageOS](https://lineageos.org) - LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.
 * [postmarketOS](https://postmarketos.org) - postmarketOS, is a free and open-source operating system under development primarily for smartphones, based on the lightweight Alpine Linux distribution.
