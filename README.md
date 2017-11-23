@@ -1,4 +1,5 @@
-# Awesome UNIX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome UNIX® 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # FAQ
 
@@ -12,7 +13,7 @@ A set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_p
 
 ### Disambiguation: UNIX v. UNIX-Like v. Linux
 
-#### Commercial UNIX®
+#### Commercial UNIX
 
 UNIX was originally an operating system developed at AT&T's Bell Labs. It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX) overseen by the (IEEE)[https://en.wikipedia.org/wiki/POSIX], and a certification that can be obtained by companies for their commercial operating systems, through a process administrated by (The Open Group)[https://www.opengroup.org/openbrand/register/]. Among the commercial are massive mainframe operating systems like IBM's AIX as well Apple's macOS desktop operating for their MacBook and iMac lineup.
 
