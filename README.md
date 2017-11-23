@@ -244,9 +244,9 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ### UNIX/Linux-Related Trade Groups
 
-* [USENIX](https://www.usenix.org)
-* [The Open Group](http://opengroup.org/unix)
-* [Linux Foundation](http://opengroup.org/unix)
+* [USENIX](https://www.usenix.org)℠
+* [The Open Group](http://opengroup.org/unix)®
+* [The Linux Foundation](http://opengroup.org/unix)®
 
 ## More macOS
 
@@ -336,6 +336,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Fujistu® is a trademark or registered trademark of Fujitsu Limited.
 * SPARC® is a trademark or registered trademarks of SPARC International, Inc.
 * Lenovo® is a trademark or registered trademark of Lenovo Group Ltd.
+* The Linux Foundation® is a registered trademark of The Linux Foundation.
+* USENIX℠ is a servicemark of the Advanced Computing Systems Association.
 
 All other trademarks mentioned herein are the property of their respective owners.
 
