@@ -254,7 +254,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [System76](https://system76.com)® - Linux laptops and desktops, x86
 * [Purism](https://puri.sm)® - Linux laptops, x86
 * [Entroware](https://www.entroware.com/store/)® - Linux laptops, desktops, and servers, x86
-* HP
+* HP®
 	* [Consumer/Business](http://www8.hp.com/us/en/campaigns/ubuntu/index.html)® - Linux laptops, desktops, and servers
 	* [HP Enterprise](https://www.hpe.com/us/en/servers/hp-ux.html)® - HP-UX servers, x86 and PA-RISC
 * [Oracle](https://www.oracle.com/servers/index.html)® - Linux and Solaris servers, x86 and SPARC
@@ -266,8 +266,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [StationX](https://stationx.rocks) - Linux laptops and desktops, x86
 * [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html)® - Linux and Solaris servers, SPARC®
 * [Inspur](http://www.inspursystems.com/product/32-way-system/)®
-* [Huawei](http://developer.huawei.com/ict/en/site-euleros)®
-* [Ubuntu Certified Hardware](https://certification.ubuntu.com)
+* [Huawei](http://developer.huawei.com/ict/en/site-euleros)™
+* [Ubuntu® Certified Hardware](https://certification.ubuntu.com)
 
 -----
 
@@ -314,6 +314,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * OpenVMS is a trademark or registered trademark of VMS Software, Inc.
 * Fujistu® is a trademark or registered trademark of Fujitsu Limited.
 * SPARC® is a trademark or registered trademarks of SPARC International, Inc.
+* Lenovo® is a trademark or registered trademark of Lenovo Group Ltd.
 
 All other trademarks mentioned herein are the property of their respective owners.
 
