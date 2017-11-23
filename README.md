@@ -53,10 +53,11 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [FreeBSD](https://www.freebsd.org)® - FreeBSD is a free and open-source Unix-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's package availability.
 	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix-like operating system based on FreeBSD with MATE as its default desktop environment.
 	* [TrueOS](https://www.trueos.org)® - TrueOS (formerly PC-BSD or PCBSD) is a Unix-like, desktop-oriented operating system built upon the most recent releases of FreeBSD. Features Lumina desktop environment.
+	* [MidnightBSD](http://www.midnightbsd.org) - MidnightBSD is a free Unix-like, desktop-oriented operating system based on FreeBSD 6.1 and borrowing heavily from the NeXTSTEP graphical user interface.
+	* [PacBSD](https://pacbsd.org) - A lightweight and flexible FreeBSD distribution that implements the Pacman package manager from Arch Linux.
 	* [FreeNAS](http://www.freenas.org)® - FreeNAS is a free and open-source network-attached storage (NAS) software based on FreeBSD and the OpenZFS file system.
 	* [pfSense](https://www.pfsense.org)® - pfSense is an open source firewall/router computer software distribution based on FreeBSD
 	* [RaspBSD](http://www.raspbsd.org) - RaspBSD is a image of FreeBSD  that is preconfigured for Raspberry Pi Computers.
-	* [MidnightBSD](http://www.midnightbsd.org) - MidnightBSD is a free Unix-like, desktop-oriented operating system based on FreeBSD 6.1 and borrowing heavily from the NeXTSTEP graphical user interface.
 	* [Open Server 10](https://www.xinuos.com/menu-products/openserver-10)® - Xinuos® OpenServer 10® is a 64-bit operating system based on the popular FreeBSD and designed to support business applications. 💰
 	* [NAS4Free](https://www.nas4free.org) - NAS4Free is an embedded Open Source NAS (Network-Attached Storage) distribution based on the latest FreeBSD releases.
 * [NetBSD](https://www.netbsd.org)® - NetBSD is a free and open source Unix-like operating system that descends from Berkeley Software Distribution (BSD), a Research Unix derivative developed at the University of California, Berkeley known for it's wideranging platform support.
@@ -248,6 +249,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [USENIX](https://www.usenix.org)℠
 * [The Open Group](http://opengroup.org/unix)®
 * [The Linux Foundation](http://opengroup.org/unix)®
+* [FreeBSD Foundation](https://www.freebsdfoundation.org)
 
 ### Notable Historic UNIX and UNIX-Like Operating Systems
 
