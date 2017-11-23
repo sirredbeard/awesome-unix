@@ -201,10 +201,9 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 ### History
 
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start)
-* [Unix History Repository](https://github.com/dspinellis/unix-history-repo)
-* [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems.
-* [AT&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT&T UNIX.
-* [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) 📼
+* 📼 [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) 
+* 📼 [Computer Chronicles: UNIX](https://archive.org/details/UNIX1985) (1985)
+* 📼 [Computer Chronicles: UNIX](https://archive.org/details/unix_2) (1989)
 
 ### Philosophy
 
@@ -217,6 +216,13 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+### UNIX Code/Emulation
+
+* [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems, including many old UNIX and UNIX-like.
+* [AT&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT&T consumer UNIX.
+* [The UNIX Tree](http://minnie.tuhs.org/cgi-bin/utree.pl) -  Browse the source code and manuals of various old versions of Unix
+* [Unix History Repository](https://github.com/dspinellis/unix-history-repo) - The source code of the original UNIX through it's various versions implemented in git.
 
 ### UNIX/POSIX Technical Standards
 
@@ -235,6 +241,12 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 	* ##climagic
 	* ##kernel
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+### UNIX/Linux-Related Trade Groups
+
+* [USENIX](https://www.usenix.org)
+* [The Open Group](http://opengroup.org/unix)
+* [Linux Foundation](http://opengroup.org/unix)
 
 ## More macOS
 
