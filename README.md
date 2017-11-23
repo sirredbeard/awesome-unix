@@ -17,9 +17,9 @@ The ideas behind UNIX, a research operating system from AT&T in the 1960s, have 
 
 UNIX was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the (IEEE®)[https://en.wikipedia.org/wiki/POSIX], and an official certification that can be obtained by companies for their commercial operating systems, this through a process administrated by (The Open Group®)[https://www.opengroup.org/openbrand/register/]. Among the commercial are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
 
-#### UNIX Principles
+#### UNIX Philosophy
 
-These are core set of computer science principles, first implemented in UNIX, now codified in standards set forth by IEEE and The Open Group, and duplicated in dozens in other UNIX-like operating systems emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators. This enables the rapid spread and development of new and better software.
+UNIX philosophy is a core set of computer science principles, first implemented in UNIX, now codified in standards set forth by IEEE and The Open Group, and duplicated in dozens of UNIX-like operating systems that emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators, across operating systems and platforms. This enables the rapid spread and development of new and better software. It goes hand in hand with [open source philosophy](https://opensource.org/osd-annotated).
 
 #### UNIX Direct Descendants, e.g FreeBSD®
 
