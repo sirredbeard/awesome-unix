@@ -203,6 +203,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 ### History
 
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start) - The Unix Heritage Wiki aims to collect the available historical documents of Unix into one central place so they can be studied by researchers and Unix enthusiasts alike.
+* [Unix History](https://www.levenez.com/unix/) - Éric Lévénez has produced a simplified diagram of UNIX history and collected several useful other UNIX historical resources.
 * [Unix and Multics](http://www.multicians.org/unix.html) - The Multicians web site presents the story of the Multics operating system for people interested in the system's history.
 * [The Evolution of the Unix Time-sharing System](https://www.bell-labs.com/usr/dmr/www/hist.html) - Paper presents a brief history of the early development of the Unix operating system, by Dennis M. Ritchie.
 * [A Quarter Century of Unix](http://wiki.tuhs.org/doku.php?id=publications:quarter_century_of_unix), Peter Salus, Addison-Wesley Professional, June 10, 1994, ISBN 978-0201547771. 📚
@@ -225,7 +226,19 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
+* [The Bash Academy](http://www.bash.academy) - The Bash Academy is an initiative to promote the bash shell language and educate people on its use.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+### Introductory Programming
+
+* [Learn-C.org](http://www.learn-c.org) - [C](https://en.wikipedia.org/wiki/C_(programming_language)) is a general-purpose computer programming language developed at Bell Labs concurrently with UNIX. Most UNIX and NIX operating systems are still written in versions of C, with notable exceptions such as [Haiku](https://en.wikipedia.org/wiki/Haiku_(operating_system)) in [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [Redox](https://en.wikipedia.org/wiki/Redox_(operating_system)) in [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)).
+	* [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Rust Learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust.
+	* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [learning-fortran](https://github.com/pwittchen/learning-fortran) - Repository created in order to learn basics of Fortran, with links to several tutorials.
+	* [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) - A curated list of Fortran libraries. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) - Resources for learning Python.
+	* [Awesome Python](https://github.com/vinta/awesome-python) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### UNIX Code/Emulation
 
@@ -264,7 +277,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Microsoft Xenix](https://en.wikipedia.org/wiki/Xenix) - Xenix is a discontinued version of the Unix operating system for various microcomputer platforms, licensed by Microsoft from AT&T Corporation in the late 1970s.
 * [BSD386](https://en.wikipedia.org/wiki/BSD/OS) - BSD/OS (originally called BSD/386 and sometimes known as BSDi) is a discontinued proprietary version of the BSD operating system developed by Berkeley Software Design, Inc. (BSDi).
 * [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP) - NeXTSTEP is a discontinued object-oriented, multitasking operating system based on UNIX. It was developed by NeXT Computer in the late 1980s and early 1990s and was initially used for its range of proprietary workstation computers such as the NeXTcube.
-* [BeOS](https://en.wikipedia.org/wiki/BeOS) - BeOS is an operating system for personal computers first developed by Be Inc. in 1991 built for digital media work with partial POSIX compatibility.
+* [IRIX](https://en.wikipedia.org/wiki/IRIX) - IRIX is a discontinued operating system developed by Silicon Graphics (SGI) to run natively on their MIPS workstations and servers. It is based on UNIX System V with BSD extensions. SGI's Indigo Magic™ Desktop for IRIX® is still [under active development](http://www.maxxinteractive.com/site/?page_id=2) for IRIX and Linux.
+* [BeOS](https://en.wikipedia.org/wiki/BeOS) - BeOS is an operating system for personal computers first developed by Be Inc. in 1991 built for digital media work with partial POSIX compatibility. An open source replacement, [Haiku](https://www.haiku-os.org), is under active development.
 
 ## More macOS
 
@@ -366,6 +380,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * O'Reilly Media is a trade name of O'Reilly Media, Inc.
 * The OSI logo ![Open Source][OSS Icon] is a trademark of Open Source Initiative and is used [under OSI Trademark Guidelines](https://opensource.org/trademark-guidelines#Noncommercial_and_community_web_sites).
 * Joylent™ is a trademark of Joylent, Inc.
+* IRIX®, SGI®, and Indigo Magic are trademarks or registered trademarks of Silicon Graphics, Inc.
 
 All other trademarks mentioned herein are the property of their respective owners.
 
