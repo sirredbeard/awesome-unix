@@ -269,7 +269,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [OS X for UNIX Users](http://images.apple.com/media/us/osx/2012/docs/OSX_for_UNIX_Users_TB_July2011.pdf) - Apple Technical Brief, July 2011
-* Learning Unix for OS X: Going Deep With the Terminal and Shell, Dave Taylor, O'Reilly Media, 2nd edition (February 12, 2016), ISBN 1491939982 📚
+* Learning Unix for OS X: Going Deep With the Terminal and Shell, Dave Taylor, O'Reilly Media, 2nd edition (February 12, 2016), ISBN 1491939982. 📚
 
 ## More illumos
 
@@ -277,14 +277,14 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Illumos at 6](https://www.youtube.com/watch?v=29yGVdtaN_0) - By Peter Tribble, developer of illumos-based [Tribblix](http://www.tribblix.org), at FLOSSUK8 (2017). 📼
 * [Awesome DTrace](https://awesome-dtrace.com) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [What are SunOS and Solaris?](https://kb.iu.edu/d/agjq)
-* [UNIX Packages](http://unixpackages.com) - Archive of pre-compiled open source applications and packages for Sun Solaris 2.5 through 11.
+* [UNIX Packages](http://unixpackages.com) - Archive of pre-compiled open source applications for Sun Solaris 2.5 through 11.
 	
 ## More BSD
 
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [MeetBSD](https://www.meetbsd.com) - MeetBSD is an annual event gathering of users and developers of the BSD operating systems family.
 * [BSD v. Linux](https://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
-* [Kirk McKusick - A Narrative History of BSD](https://www.youtube.com/watch?v=DEEr6dT-4uQ) - By Kirk McKusick, USENIX Board Member, at MeetBSD California (2014). 📼
+* [A Narrative History of BSD](https://www.youtube.com/watch?v=DEEr6dT-4uQ) - By Kirk McKusick, USENIX℠ Board Member, at MeetBSD California (2014). 📼
 	
 ## More Linux
 
@@ -311,7 +311,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html)® - Linux and Solaris servers, SPARC®
 * [Inspur](http://www.inspursystems.com/product/32-way-system/)® - Linux servers, x86
 * [Huawei](http://developer.huawei.com/ict/en/site-euleros)™ - Linux servers, x86
-* [Ubuntu® Certified Hardware](https://certification.ubuntu.com)
+* [Ubuntu-Certified Hardware](https://certification.ubuntu.com)
 
 -----
 
@@ -344,9 +344,9 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Ubuntu® and Canonical® are registered trademark of Canonical Limited.
 * SUSE® and SUSE Linux Enterprise® are registered trademarks of SUSE.
 * System76® is a registered trademark of System76, Inc.
-* Windows® and Microsoft® are registered trademarks of Microsoft Corporation.
+* Windows®, Microsoft®, and Xenix® are trademarks or registered trademarks of Microsoft Corporation.
 * QNX® is a registered trademark of Blackberry Limited.
-* Huawei is is a trademark or registered trademark of Huawei Technologies Co. Ltd.
+* Huawei™ is is a trademark or registered trademark of Huawei Technologies Co. Ltd.
 * Integrity® and Green Hills Software are registered trademarks of Green Hills Software.
 * LynxOS® is a registered trademark of Lynx Software Technologies, Inc.
 * CopperheadOS® is a registered trademark of Copperhead Limited.
@@ -362,6 +362,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * The Linux Foundation® is a registered trademark of The Linux Foundation.
 * USENIX℠ is a servicemark of the Advanced Computing Systems Association.
 * O'Reilly Media is a trade name of O'Reilly Media, Inc.
+* The OSI logo ![Open Source][OSS Icon] is a trademark of Open Source Initiative and is used [under OSI Trademark Guidelines](https://opensource.org/trademark-guidelines#Noncommercial_and_community_web_sites).
+* Joylent™ is a trademark of Joylent, Inc.
 
 All other trademarks mentioned herein are the property of their respective owners.
 
