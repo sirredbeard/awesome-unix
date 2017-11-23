@@ -63,8 +63,8 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ## UNIX-Certified Linux-Based Operating Systems
 
-* [K-UX](http://www.inspursystems.com/product/32-way-system/) - K-UX is a Linux distribution based on CentOS produced by Inspur, a Chinese multinational company specializing in information technology. 💰
-* [EulerOS](http://developer.huawei.com/ict/en/site-euleros) -  EulerOS is a Linux distribution based on CentOS produced by Huawei, a Chinese networking and telecommunications equipment and services company. 💰
+* [K-UX](http://www.inspursystems.com/product/32-way-system/)® - K-UX is a Linux distribution based on CentOS produced by Inspur®, a Chinese multinational company specializing in information technology. 💰
+* [EulerOS](http://developer.huawei.com/ict/en/site-euleros)® -  EulerOS is a Linux distribution based on CentOS produced by Huawei®, a Chinese networking and telecommunications equipment and services company. 💰
 
 #### [Get More UNIX](#more-unix)
 
@@ -89,12 +89,12 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ## General Commercial Linux Distributions ![Open Source][OSS Icon]
 
-* [Red Hat Enterprise Linux](https://www.redhat.com) - Red Hat Enterprise Linux is a Linux distribution developed by Red Hat and targeted toward the commercial market. 💰
-* [Ubuntu](https://ubuntu.com) - Ubuntu is a Debian-based Linux distribution published by Canonical Ltd who offer commercial support for enterprise-class Ubuntu Server variant.
-* [SUSE Linux Enterprise](https://www.suse.com) - SUSE Linux Enterprise is a Linux-based operating system developed by SUSE. It is designed for servers, mainframes, and workstations. 💰
+* [Red Hat Enterprise Linux](https://www.redhat.com)® - Red Hat Enterprise Linux is a Linux distribution developed by Red Hat® and targeted toward the commercial market. 💰
+* [Ubuntu](https://ubuntu.com)® - Ubuntu is a Debian-based Linux distribution published by Canonical® who offer commercial support for enterprise-class Ubuntu Server variant.
+* [SUSE Linux Enterprise](https://www.suse.com)® - SUSE Linux Enterprise is a Linux-based operating system developed by SUSE®. It is designed for servers, mainframes, and workstations. 💰
 * [elementaryOS](https://elementary.io) - elementary OS is a consumer-oriented Linux distribution based on Ubuntu. It is the flagship distribution to showcase the Pantheon desktop environment.
-* [Oracle](https://www.oracle.com/linux/) - Oracle Linux is compiled from Red Hat Enterprise Linux source code, replacing Red Hat branding with Oracle's, optimized to run Oracle software. 💰
-* [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer-focused minimalist Linux distro from Linux hardware manufacturer System 76.
+* [Oracle](https://www.oracle.com/linux/)® - Oracle Linux® is compiled from Red Hat Enterprise Linux source code, replacing Red Hat branding with Oracle's, optimized to run Oracle software. 💰
+* [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer-focused minimalist Linux distro from Linux hardware manufacturer System 76®.
 
 ## General Non-Commercial Linux Distributions ![Open Source][OSS Icon]
 
@@ -135,7 +135,7 @@ Plan 9 was developed by Bell Labs as the successor to UNIX and incorporated nove
 * [9front](http://9front.org) - 9front is a fork of Plan 9 from Bell Labs by the People's Front of Cat-V. It is a next generation mushroom cloud computing platform for the 20th century. 
 * [9legacy](http://9legacy.org) - 9legacy is an experimental patch queue for Plan 9 from Bell Labs.
 * [Harvey OS](https://harvey-os.org) - Harvey is an effort to provide a modern, distributed, 64 bit operating system. A different environment for researching and finding new lines of work. It can be built with gcc and clang and has an ANSI/POSIX compliant subsystem.
-* [Inferno](http://www.vitanuova.com/inferno/) - Inferno was an effort to commercialize Plan 9 as networking software, however like Plan 9 it remained obscure while it's ideas permeated into current operating systems. 
+* [Inferno](http://www.vitanuova.com/inferno/)® - Inferno was an effort to commercialize Plan 9 as networking software, however like Plan 9 it remained obscure while it's ideas permeated into current operating systems. 
 * [Jehanne](http://jehanne.io) - Jehanne is a new distributed operating system designed for programmers. The core values that lead the development are simplicity and security. Jehanne is a fork of Harvey.
 
 ## OpenSolaris/illumos ![Open Source][OSS Icon]
@@ -153,11 +153,11 @@ Solaris was originally a UNIX operating system developed jointly by Sun Microsys
 
 A real-time operating system (RTOS) is an operating system (OS) intended to serve real-time applications that process data as it comes in, typically without buffer delays. An example of this in QNX which is used widely in cars and trucks.
 
-* [QNX](https://blackberry.qnx.com/en) - QNX is a commercial Unix-like real-time operating system, aimed primarily at the embedded systems market. 💰
-* [Integrity](https://www.ghs.com/products/rtos/integrity.html) - Integrity is a real-time operating systems produced and marketed by Green Hills Software. Integrity-178B has a top National Security Agency rating. 💰
+* [QNX](https://blackberry.qnx.com/en)® - QNX is a commercial Unix-like real-time operating system, aimed primarily at the embedded systems market. 💰
+* [Integrity](https://www.ghs.com/products/rtos/integrity.html)® - Integrity is a real-time operating systems produced and marketed by Green Hills Software. Integrity-178B has a top National Security Agency rating. 💰
 * [Contiki](http://contiki-os.org) - Contiki is an operating system for networked, memory-constrained systems with a focus on low-power wireless Internet of Things devices. ![Open Source][OSS Icon]
-* [LynxOS](http://www.lynx.com/products/real-time-operating-systems/lynxos-rtos/) - The LynxOS RTOS is a Unix-like real-time operating system from Lynx Software Technologies. LynxOS features full POSIX conformance and, more recently, Linux compatibility. 💰
-* [nuttX](http://nuttx.org) - NuttX is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable, the primary focus in NuttX are POSIX and ANSI standards. ![Open Source][OSS Icon]
+* [LynxOS](http://www.lynx.com/products/real-time-operating-systems/lynxos-rtos/)® - The LynxOS RTOS is a Unix-like real-time operating system from Lynx Software Technologies. LynxOS features full POSIX conformance and, more recently, Linux compatibility. 💰
+* [nuttX](http://nuttx.org)® - NuttX is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable, the primary focus in NuttX are POSIX and ANSI standards. ![Open Source][OSS Icon]
 
 ## Other UNIX-Like Operating Systems ![Open Source][OSS Icon]
 
@@ -201,10 +201,26 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 
 -----
-* UNIX® is a registered trademark of [The Open Group](http://www.unix.org/trademark.html).
-* macOS® is a registered trademark of [Apple, Inc](http://www.apple.com).
-* Linux® is a registered trademark of [Linus Torvalds](https://github.com/torvalds). 
-
-IBM, Ubuntu, Red Hat, Sun, Oracle, QNX, HP, and other trademarks are the property of their respective owners.
+UNIX® and UnixWare® are registered trademarks of The Open Group, Inc.
+Apple® and macOS® are registered trademarks of Apple, Inc.
+Bell Labs is a registered trademark of Nokia.
+Linux® is a registered trademark of Linus Torvalds.
+AIX® and IBM® are registered trademarks of IBM Corporation.
+HP® and HP-UX® are registered trademarks of HP Hewlett Packard Group, LLC.
+Xinuos® is a registered trademark of Xinuos, Inc.
+Solaris® and Oracle® are registered trademarks of Oracle Corporation.
+K-UX® and Inspur® are registered trademarks of Inspur Technologies Co., Ltd.
+EulerOS® and Huwaei® is a registered trademarks of Huawei Technologies Co., Ltd.
+Inferno® is a registered trademark of Vita Nuova Holdings Ltd.
+Red Hat® and Red Hat Enterprise Linux® are registered trademarks of Red Hat, Inc.
+Ubuntu® and Canonical® are registered trademark of Canonical Limited.
+SUSE® and SUSE Linux Enterprise® are registered trademarks of SUSE.
+System76® is a registered trademark of System76, Inc.
+Windows® and Microsoft® are registered trademarks of Microsoft Corporation.
+QNX® is a registered trademark of Blackberry Limited.
+Integrity® and Green Hills Software are registered trademarks of Green Hills Software.
+LynxOS® is a registered trademark of Lynx Software Technologies, Inc.
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+
+Portions of the descriptions above are from Wikipedia and used under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
