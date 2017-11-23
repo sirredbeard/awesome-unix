@@ -186,6 +186,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 ### History
 
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start)
+* [Unix History Repository](https://github.com/dspinellis/unix-history-repo)
 * [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems.
 * [AT&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT&T UNIX.
 
