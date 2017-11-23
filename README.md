@@ -13,7 +13,7 @@ The ideas behind UNIX, a research operating system from AT&T in the 1960s, have 
 
 ### Disambiguation: UNIX, UNIX-Like, and Linux
 
-![Venn Diagram](https://raw.githubusercontent.com/sirredbeard/Awesome-UNIX/master/venn_diagram.png)
+![Venn Diagram](https://raw.githubusercontent.com/sirredbeard/Awesome-UNIX/3ef2937aba294a942c108d01b299201abfbb329b/venn_diagram.png)
 
 #### Commercial UNIX
 
