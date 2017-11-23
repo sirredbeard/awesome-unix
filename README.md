@@ -25,7 +25,7 @@ These are core set of computer science principles, first implemented in UNIX, no
 
 The term UNIX also debatedbly encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since [re-implemented the AT&T code with code under open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution). The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX certified, they are technically UNIX-like, but share a unique direct link back to AT&T UNIX and newcomers like RedoxOS do not.
 
-#### UNIX-Like Operating Systems
+#### UNIX-Like Operating Systems, e.g. Linux®
 
 For a variety of historical and legal reasons, there has also been a massive explosion of *UNIX-like* operating systems. MINIX, for example, was created as a UNIX-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux was created because Linus Torvalds, a college student, [wanted to run a UNIX-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own hardware. Linux has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Google® needed a kernel for their new mobile operating system, Android®, they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX standards and UNIX principles but do not seek official UNIX certification.
 
