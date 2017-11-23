@@ -197,14 +197,17 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * IRC [freenode](https://webchat.freenode.net)
 	* ##unixlove
 	* ##climagic
+	* ##kernel
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## More macOS
 
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## More Solaris
 
+* [What are SunOS and Solaris?](https://kb.iu.edu/d/agjq)
 * [Awesome DTrace](https://awesome-dtrace.com) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 	
 ## More BSD
@@ -215,7 +218,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 ## More Linux
 
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-* [Aweseome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 -----
 
