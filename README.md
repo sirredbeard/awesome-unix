@@ -314,6 +314,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 # UNIX and UNIX-Like Hardware Vendors
 
 * [Apple](https://apple.com)® - macOS laptops and desktops, x86
+* [iXsystems](https://www.ixsystems.com/servers/)® - FreeBSD servers from company that develops [TrueOS](https://www.trueos.org) and [FreeNAS](http://www.freenas.org), x86
 * [System76](https://system76.com)® - Linux laptops and desktops, x86
 * [Purism](https://puri.sm)® - Linux laptops, x86
 * [Entroware](https://www.entroware.com/store/)® - Linux laptops, desktops, and servers, x86
