@@ -248,7 +248,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX. 
 
-## UNIX and UNIX-Like Hardware Vendors
+# UNIX and UNIX-Like Hardware Vendors
 
 * [Apple](https://apple.com)® - macOS laptops and desktops, x86
 * [System76](https://system76.com)® - Linux laptops and desktops, x86
@@ -260,12 +260,14 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Oracle](https://www.oracle.com/servers/index.html)® - Linux and Solaris servers, x86 and SPARC
 * [Dell](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us)® - Linux laptops, desktops, and servers; x86
 * [IBM](https://www.ibm.com/linuxone)® - Linux and AIX servers, x86 and RISC
+* [Lenovo](https://support.lenovo.com/us/en/solutions/pd031426) - Linux laptops, desktops, and servers; x86
 * [Raptor Engineering](https://raptorcs.com/TALOSII/)® - Linux PowerPC® workstation
 * [PowerPC Notebook](https://www.powerpc-notebook.org/) - Linux laptop with PowerPC architecture
 * [StationX](https://stationx.rocks) - Linux laptops and desktops, x86
 * [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html)® - Linux and Solaris servers, SPARC®
 * [Inspur](http://www.inspursystems.com/product/32-way-system/)®
 * [Huawei](http://developer.huawei.com/ict/en/site-euleros)®
+* [Ubuntu Certified Hardware](https://certification.ubuntu.com)
 
 -----
 
