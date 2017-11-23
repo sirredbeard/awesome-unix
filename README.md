@@ -197,15 +197,18 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 ### Disambiguation
 
 * [Differentiating UNIX and Linux](https://www.ibm.com/developerworks/aix/library/au-unix-difflinux.html)
-* [What, a real UNIX®?](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/what-a-real-unix.html)
+* [What, a real UNIX®?](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/what-a-real-unix.html) - Excerpt from [Explaining BSD](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/index.html).
 * [10 differences between Linux and BSD](https://www.techrepublic.com/blog/10-things/10-differences-between-linux-and-bsd/) 📰
 	
 ### History
 
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start) - The Unix Heritage Wiki aims to collect the available historical documents of Unix into one central place so they can be studied by researchers and Unix enthusiasts alike.
+* [A Quarter Century of Unix](http://wiki.tuhs.org/doku.php?id=publications:quarter_century_of_unix), Peter Salus, Addison-Wesley Professional, June 10, 1994, ISBN 978-0201547771. 📚
+* [The C Programming Language](https://ia801303.us.archive.org/1/items/TheCProgrammingLanguageFirstEdition/The%20C%20Programming%20Language%20First%20Edition%20%5BUA-07%5D.pdf), Brian Kernighan and Dennis Ritchie, Bell Telephone Laboratories, 1978, ISBN 0131101633. 📚
 * [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) 📼
 * [Computer Chronicles: UNIX](https://archive.org/details/UNIX1985) (1985) 📼
 * [Computer Chronicles: UNIX](https://archive.org/details/unix_2) (1989) 📼
+* [C and Unix at Bell Labs - Brian Kernighan](https://www.youtube.com/watch?v=TUWt_StXKsY) (2016) 📼
 
 ### Philosophy
 
@@ -277,6 +280,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [BSD v. Linux](https://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
+* [Kirk McKusick - A Narrative History of BSD](https://www.youtube.com/watch?v=DEEr6dT-4uQ) (2014) 📼
 	
 ## More Linux
 
