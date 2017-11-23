@@ -232,6 +232,18 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX. 
 
+## UNIX and UNIX-Like Hardware Vendors
+
+* [System76](https://system76.com)®
+* [Purism](https://puri.sm)®
+* [Entroware[(https://www.entroware.com/store/)®
+* [HP](http://www8.hp.com/us/en/campaigns/ubuntu/index.html)®
+* [Dell](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us)®
+* [IBM](https://www.ibm.com/linuxone)®
+* [Raptor Engineering](https://raptorcs.com/TALOSII/)®
+* [PowerPC Notebook](https://www.powerpc-notebook.org/)
+* [StationX](https://stationx.rocks)
+
 -----
 
 ### Intellectual Property Notices
@@ -252,7 +264,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Solaris®, Oracle®, and Sun Microsystems® are registered trademarks of Oracle Corporation.
 * Slackware is a trademark of Patrick Volkerding.
 * Google® and Android® are registered trademarks of Alphabet, Inc.
-* TrueOS® and FreenNAS® are registered trademarks of IXsystems, Inc.
+* TrueOS® and FreeNAS® are registered trademarks of IXsystems, Inc.
 * BeOS® is a registered trademark of ACCESS Systems Americas, Inc. 
 * Xen® is a registered trademark of the Linux Foundation.
 * K-UX® and Inspur® are registered trademarks of Inspur Technologies Co., Ltd.
@@ -270,6 +282,9 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * CopperheadOS® is a registered trademark of Copperhead Limited.
 * MINIX® is a registered trademark of Pearson Education, Inc. in the United States.
 * Gentoo® is a registered trademark of Gentoo Foundation, Inc.
+* Dell® is a registered trademark of Dell, Inc.
+* Entroware® is a trademark of Entroware, a UK company.
+* Raptor Computing Systems® is a registered trademark ofTimothy Pearson.
 
 This document is licensed under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
