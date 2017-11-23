@@ -196,9 +196,9 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ### Disambiguation
 
-* [Differentiating UNIX and Linux](https://www.ibm.com/developerworks/aix/library/au-unix-difflinux.html)
+* [Differentiating UNIX and Linux](https://www.ibm.com/developerworks/aix/library/au-unix-difflinux.html) - From IBM
 * [What, a real UNIX®?](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/what-a-real-unix.html) - Excerpt from [Explaining BSD](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/index.html).
-* [10 differences between Linux and BSD](https://www.techrepublic.com/blog/10-things/10-differences-between-linux-and-bsd/) 📰
+* [10 differences between Linux and BSD](https://www.techrepublic.com/blog/10-things/10-differences-between-linux-and-bsd/) - From Tech Republic 📰
 	
 ### History
 
@@ -206,14 +206,17 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [A Quarter Century of Unix](http://wiki.tuhs.org/doku.php?id=publications:quarter_century_of_unix), Peter Salus, Addison-Wesley Professional, June 10, 1994, ISBN 978-0201547771. 📚
 * [The C Programming Language](https://ia801303.us.archive.org/1/items/TheCProgrammingLanguageFirstEdition/The%20C%20Programming%20Language%20First%20Edition%20%5BUA-07%5D.pdf), Brian Kernighan and Dennis Ritchie, Bell Telephone Laboratories, 1978, ISBN 0131101633. 📚
 * [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) 📼
-* [Computer Chronicles: UNIX](https://archive.org/details/UNIX1985) (1985) 📼
-* [Computer Chronicles: UNIX](https://archive.org/details/unix_2) (1989) 📼
-* [C and Unix at Bell Labs - Brian Kernighan](https://www.youtube.com/watch?v=TUWt_StXKsY) (2016) 📼
+* [UNIX](https://archive.org/details/UNIX1985) - From "Computer Chronicles" TV Series (1985). 📼
+* [UNIX](https://archive.org/details/unix_2) - From "Computer Chronicles" TV Series (1989). 📼
+* [C and Unix at Bell Labs](https://www.youtube.com/watch?v=TUWt_StXKsY) - By Brian Kernighan at Vintage Computer Federation East 10 (2016). 📼
 
 ### Philosophy
 
-* [Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
+* [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/), Eric Steven Raymond, Thyrsus Enterprises, 2003. 📚
+	* [Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
+	* [The Unix Philosophy in One Lesson](http://www.catb.org/~esr/writings/taoup/html/ch01s07.html)
 * [Program Design in the UNIX Environment](https://nymity.ch/sybilhunting/pdf/Pike1983a.pdf) 📄
+* [Bringing the Unix Philosophy to Big Data](https://www.youtube.com/watch?v=S0mviKhVmBI) - By Bryan Cantrill, CTO of Joylent, developer of illumos-based SmartOS, at FutureStack13 (2013). 📼
 * [Do one thing, and do it well: 40 years of UNIX](https://techcrunch.com/2009/08/21/do-one-thing-and-do-it-well-40-years-of-unix/) 📰
 
 ### Introductory UNIX Skills
@@ -270,8 +273,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ## More illumos
 
-* [Fork Yeah! The Rise and Development of illumos](https://www.youtube.com/watch?v=-zRN7XLCRhc) (2012) 📼
-* [Illumos at 6](https://www.youtube.com/watch?v=29yGVdtaN_0) (2017) 📼
+* [Fork Yeah! The Rise and Development of illumos](https://www.youtube.com/watch?v=-zRN7XLCRhc) - By Bryan Cantrill, CTO of Joylent, developer of illumos-based [SmartOS](https://www.joyent.com/smartos), at USENEX LISA '11 (2011). 📼
+* [Illumos at 6](https://www.youtube.com/watch?v=29yGVdtaN_0) - By Peter Tribble, developer of illumos-based [Tribblix](http://www.tribblix.org), at FLOSSUK8 (2017). 📼
 * [Awesome DTrace](https://awesome-dtrace.com) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [What are SunOS and Solaris?](https://kb.iu.edu/d/agjq)
 * [UNIX Packages](http://unixpackages.com) - Archive of pre-compiled open source applications and packages for Sun Solaris 2.5 through 11.
@@ -279,8 +282,9 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 ## More BSD
 
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [MeetBSD](https://www.meetbsd.com) - MeetBSD is an annual event gathering of users and developers of the BSD operating systems family.
 * [BSD v. Linux](https://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
-* [Kirk McKusick - A Narrative History of BSD](https://www.youtube.com/watch?v=DEEr6dT-4uQ) (2014) 📼
+* [Kirk McKusick - A Narrative History of BSD](https://www.youtube.com/watch?v=DEEr6dT-4uQ) - By Kirk McKusick, USENIX Board Member, at MeetBSD California (2014). 📼
 	
 ## More Linux
 
