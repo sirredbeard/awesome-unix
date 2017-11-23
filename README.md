@@ -23,7 +23,7 @@ UNIX philosophy is a core set of computer science principles, first implemented 
 
 > "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface." - *Douglas McIlroy, former head of Bell Labs Computing Sciences Research Center*
 
-#### UNIX Direct Descendants, e.g FreeBSD®
+#### AT&T UNIX-Derived Descendants, e.g FreeBSD®
 
 The term UNIX also debatedbly encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since [re-implemented the AT&T code with code under open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution). The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX certified, they are technically UNIX-like, but share a unique direct link back to AT&T UNIX and newcomers like RedoxOS do not.
 
@@ -46,7 +46,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 #### [Get More macOS](#more-macos)
 #### [Get More Solaris](#more-solaris)
 
-## UNIX-Dervied Operating Systems ![Open Source][OSS Icon]
+## AT&T UNIX-Derived Operating Systems ![Open Source][OSS Icon]
 
 * [FreeBSD](https://www.freebsd.org)® - FreeBSD is a free and open-source Unix-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's package availability.
 	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix-like operating system based on FreeBSD with MATE as its default desktop environment.
@@ -256,14 +256,16 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Entroware](https://www.entroware.com/store/)® - Linux laptops, desktops, and servers, x86
 * HP
 	* [Consumer/Business](http://www8.hp.com/us/en/campaigns/ubuntu/index.html)® - Linux laptops, desktops, and servers
-	* [HP Enterprise](https://www.hpe.com/us/en/servers/hp-ux.html) - HP-UX servers, x86 and RISC
-* [Oracle](https://www.oracle.com/servers/index.html) - Linux and Solaris servers, x86 and SPARC
+	* [HP Enterprise](https://www.hpe.com/us/en/servers/hp-ux.html)® - HP-UX servers, x86 and PA-RISC
+* [Oracle](https://www.oracle.com/servers/index.html)® - Linux and Solaris servers, x86 and SPARC
 * [Dell](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us)® - Linux laptops, desktops, and servers; x86
 * [IBM](https://www.ibm.com/linuxone)® - Linux and AIX servers, x86 and RISC
-* [Raptor Engineering](https://raptorcs.com/TALOSII/)® - Linux PowerPC workstation
+* [Raptor Engineering](https://raptorcs.com/TALOSII/)® - Linux PowerPC® workstation
 * [PowerPC Notebook](https://www.powerpc-notebook.org/) - Linux laptop with PowerPC architecture
 * [StationX](https://stationx.rocks) - Linux laptops and desktops, x86
-* [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html)® - Linux and Solaris servers, SPARC
+* [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html)® - Linux and Solaris servers, SPARC®
+* [Inspur](http://www.inspursystems.com/product/32-way-system/)®
+* [Huawei](http://developer.huawei.com/ict/en/site-euleros)®
 
 -----
 
@@ -274,11 +276,11 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * NetBSD® is a registered trademark of The NetBSD Foundation, Inc.
 * Apple®, MacBook®, iMac®, and macOS® are registered trademarks of Apple, Inc.
 * Debian® is a registered trademark of Software in the Public Interest, Inc.
-* IEEE® and POSIX® are registered trademarks of The Institute of Electrical and Electronics Engineers, Inc.
+* IEEE®, IEEE Standard 1003.1, and POSIX® are trademarks or registered trademarks of The Institute of Electrical and Electronics Engineers, Inc.
 * Bell Labs® and Plan 9® are registered trademarks of Alcatel-Lucent USA, Inc.
 * Linux® is a registered trademark of Linus Torvalds.
 * AT&T® is a registered trademark of AT&T Intellectual Property II, LLC.
-* AIX® and IBM® are trademarks or registered trademarks of IBM Corporation.
+* AIX®, PowerPC®, and IBM® are trademarks or registered trademarks of IBM Corporation.
 * HP® and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC.
 * Illumos® is a registered trademark of Garrett D'Amore.
 * Xinuos® is a registered trademark of Xinuos, Inc.
@@ -296,8 +298,9 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Ubuntu® and Canonical® are registered trademark of Canonical Limited.
 * SUSE® and SUSE Linux Enterprise® are registered trademarks of SUSE.
 * System76® is a registered trademark of System76, Inc.
-* Windows® and and Microsoft® are registered trademarks of Microsoft Corporation.
+* Windows® and Microsoft® are registered trademarks of Microsoft Corporation.
 * QNX® is a registered trademark of Blackberry Limited.
+* Huawei is is a trademark or registered trademark of Huawei Technologies Co. Ltd.
 * Integrity® and Green Hills Software are registered trademarks of Green Hills Software.
 * LynxOS® is a registered trademark of Lynx Software Technologies, Inc.
 * CopperheadOS® is a registered trademark of Copperhead Limited.
