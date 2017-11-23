@@ -184,8 +184,6 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software.
 * [OpenVMS](http://www.vmssoftware.com)™ - OpenVMS is a enterprise operating system known for it's reliability. It is the successor to the VMS Operating System and runs on DEC Alpha systems. POSIX compatibility was added in 1991.
 
-OpenVMS is a computer operating system for use in general-purpose computing. It is the successor to the VMS Operating System
-
 -----
 
 # Additional Resources
@@ -265,7 +263,7 @@ OpenVMS is a computer operating system for use in general-purpose computing. It 
 * [Raptor Engineering](https://raptorcs.com/TALOSII/)® - Linux PowerPC workstation
 * [PowerPC Notebook](https://www.powerpc-notebook.org/) - Linux laptop with PowerPC architecture
 * [StationX](https://stationx.rocks) - Linux laptops and desktops, x86
-* [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html) - Linux and Solaris servers, SPARC
+* [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html)® - Linux and Solaris servers, SPARC
 
 -----
 
@@ -280,11 +278,11 @@ OpenVMS is a computer operating system for use in general-purpose computing. It 
 * Bell Labs® and Plan 9® are registered trademarks of Alcatel-Lucent USA, Inc.
 * Linux® is a registered trademark of Linus Torvalds.
 * AT&T® is a registered trademark of AT&T Intellectual Property II, LLC.
-* AIX® and IBM® are registered trademarks of IBM Corporation.
-* HP® and HP-UX® are registered trademarks of HP Hewlett Packard Group, LLC.
+* AIX® and IBM® are trademarks or registered trademarks of IBM Corporation.
+* HP® and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC.
 * Illumos® is a registered trademark of Garrett D'Amore.
 * Xinuos® is a registered trademark of Xinuos, Inc.
-* Solaris®, Oracle®, and Sun Microsystems® are registered trademarks of Oracle Corporation.
+* Solaris®, Oracle®, and Sun Microsystems® are trademarks or registered trademarks of Oracle Corporation.
 * Slackware is a trademark of Patrick Volkerding.
 * Google® and Android® are registered trademarks of Alphabet, Inc.
 * TrueOS® and FreeNAS® are registered trademarks of IXsystems, Inc.
@@ -294,7 +292,7 @@ OpenVMS is a computer operating system for use in general-purpose computing. It 
 * EulerOS® and Huwaei® is a registered trademarks of Huawei Technologies Co., Ltd.
 * pfSense® is a registered trademark of Electric Sheep Fencing, LLC.
 * Inferno® is a registered trademark of Vita Nuova Holdings Ltd.
-* Red Hat®, Fedora®, and Red Hat Enterprise Linux® are registered trademarks of Red Hat, Inc.
+* Red Hat®, Fedora®, and Red Hat Enterprise Linux® are trademarks or registered trademarks of Red Hat, Inc.
 * Ubuntu® and Canonical® are registered trademark of Canonical Limited.
 * SUSE® and SUSE Linux Enterprise® are registered trademarks of SUSE.
 * System76® is a registered trademark of System76, Inc.
@@ -303,12 +301,16 @@ OpenVMS is a computer operating system for use in general-purpose computing. It 
 * Integrity® and Green Hills Software are registered trademarks of Green Hills Software.
 * LynxOS® is a registered trademark of Lynx Software Technologies, Inc.
 * CopperheadOS® is a registered trademark of Copperhead Limited.
-* MINIX® is a registered trademark of Pearson Education, Inc. in the United States.
+* MINIX® is a trademark or registered trademark of Pearson Education, Inc. in the United States.
 * Gentoo® is a registered trademark of Gentoo Foundation, Inc.
-* Dell® is a registered trademark of Dell, Inc.
+* Dell® is a trademark or registered trademark of Dell, Inc.
 * Entroware® is a trademark of Entroware, a UK company.
 * Raptor Computing Systems® is a registered trademark of Timothy Pearson.
-* OpenVMS is a trademark of VMS Software, Inc.
+* OpenVMS is a trademark or registered trademark of VMS Software, Inc.
+* Fujistu® is a trademark or registered trademark of Fujitsu Limited.
+* SPARC® is a trademark or registered trademarks of SPARC International, Inc.
+
+All other trademarks mentioned herein are the property of their respective owners.
 
 This document is licensed under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
