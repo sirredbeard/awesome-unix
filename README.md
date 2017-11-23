@@ -98,9 +98,9 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ## Popular Commercial Linux Distributions ![Open Source][OSS Icon]
 
-* [Red Hat Enterprise Linux](https://www.redhat.com)® - Red Hat Enterprise Linux is a Linux distribution developed by Red Hat® and targeted toward the commercial market. 💰
+* [Red Hat Enterprise](https://www.redhat.com)® - Red Hat Enterprise Linux is a Linux distribution developed by Red Hat® and targeted toward the commercial market. 💰
 * [Ubuntu](https://ubuntu.com)® - Ubuntu is a Debian-based Linux distribution published by Canonical® who offer commercial support for enterprise-class Ubuntu Server variant.
-* [SUSE Linux Enterprise](https://www.suse.com)® - SUSE Linux Enterprise is a Linux-based operating system developed by SUSE®. It is designed for servers, mainframes, and workstations. 💰
+* [SUSE Linux Enterprise](https://www.suse.com)® - SUSE Linux Enterprise workstation/server is a Linux-based operating system developed by SUSE®. It is designed for servers, mainframes, and workstations. 💰
 * [elementaryOS](https://elementary.io) - elementary OS is a consumer-oriented Linux distribution based on Ubuntu. It is the flagship distribution to showcase the Pantheon desktop environment.💰
 * [Oracle](https://www.oracle.com/linux/)® - Oracle Linux® is compiled from Red Hat Enterprise Linux source code, replacing Red Hat branding with Oracle's, optimized to run Oracle software. 💰
 * [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer-focused minimalist Linux distro from Linux hardware manufacturer System 76®.
@@ -271,7 +271,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ### Intellectual Property Notices
 
-* UNIX® and UnixWare® are registered trademarks of The Open Group, Inc.
+* UNIX®, The Open Group®,, and UnixWare® are registered trademarks of The Open Group, Inc.
 * FreeBSD® is a registered trademark of The FreeBSD Foundation.
 * NetBSD® is a registered trademark of The NetBSD Foundation, Inc.
 * Apple®, MacBook®, iMac®, and macOS® are registered trademarks of Apple, Inc.
