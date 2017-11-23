@@ -7,9 +7,9 @@
 
 The greatest operating system ever invented you have probably never heard about whose genius design ideas now enable everything great you love. [More...](https://en.wikipedia.org/wiki/History_of_Unix)
 
-### Why is UNIX relevant today?
+### What is UNIX today?
 
-The ideas behind UNIX, a research operating system from AT&T in the 1960s, have evolved to form a set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
+The ideas behind UNIX, a research operating system from AT&T in the 1960s, have evolved to form a set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. They exist on a continuum that includes certified UNIX, projects descendanted from the original UNIX, and UNIX-like projects designed to be UNIX-compatible. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
 
 ### Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX-Like, and Linux
 
