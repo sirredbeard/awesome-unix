@@ -204,7 +204,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Unix History Repository](https://github.com/dspinellis/unix-history-repo)
 * [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems.
 * [AT&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT&T UNIX.
-* [[YouTube] AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) 📼
+* [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) 📼
 
 ### Philosophy
 
@@ -212,7 +212,13 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Program Design in the UNIX Environment](https://nymity.ch/sybilhunting/pdf/Pike1983a.pdf) [PDF]
 * [Do one thing, and do it well: 40 years of UNIX](https://techcrunch.com/2009/08/21/do-one-thing-and-do-it-well-40-years-of-unix/) 📰
 
-### Technical Standards
+### Introductory UNIX Skills
+
+* [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+* [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+### UNIX/POSIX Technical Standards
 
 * [The Open Group](http://www.opengroup.org)®
 	* [UNIX Certified Products](https://www.opengroup.org/openbrand/register/)
@@ -221,8 +227,9 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ### Community
 
-* [nixCraft](https://www.cyberciti.biz)
-* [DistroWatch](http://distrowatch.com)
+* [nixCraft](https://www.cyberciti.biz) - NixCraft is an online community of new and seasoned Linux / Unix users.
+* [LWN](https://lwn.net) - LWN is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. 
+* [DistroWatch](http://distrowatch.com) - DistroWatch is a website which provides news, popularity rankings, and other general information about various Linux distributions and Unix-like operating systems.
 * IRC [freenode](https://webchat.freenode.net)
 	* ##unixlove
 	* ##climagic
@@ -267,8 +274,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [PowerPC Notebook](https://www.powerpc-notebook.org/) - Linux laptop with PowerPC architecture
 * [StationX](https://stationx.rocks) - Linux laptops and desktops, x86
 * [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html)® - Linux and Solaris servers, SPARC®
-* [Inspur](http://www.inspursystems.com/product/32-way-system/)®
-* [Huawei](http://developer.huawei.com/ict/en/site-euleros)™
+* [Inspur](http://www.inspursystems.com/product/32-way-system/)® - Linux servers, x86
+* [Huawei](http://developer.huawei.com/ict/en/site-euleros)™ - Linux servers, x86
 * [Ubuntu® Certified Hardware](https://certification.ubuntu.com)
 
 -----
