@@ -236,7 +236,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Xinuos® is a registered trademark of Xinuos, Inc.
 * Solaris®, Oracle®, and Sun Microsystems® are registered trademarks of Oracle Corporation.
 * Slackware is a trademark of Patrick Volkerding.
-* Google® is a registered trademark of Alphabet, Inc.
+* Google® and Android® are registered trademarks of Alphabet, Inc.
 * TrueOS® and FreenNAS® are registered trademarks of IXsystems, Inc.
 * BeOS® is a registered trademark of ACCESS Systems Americas, Inc. 
 * Xen® is a registered trademark of the Linux Foundation.
