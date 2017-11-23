@@ -13,7 +13,7 @@ The ideas behind UNIX, a research operating system from AT&T in the 1960s, have 
 
 ### Disambiguation: UNIX, UNIX-Like, and Linux
 
-![Venn Diagram](https://raw.githubusercontent.com/sirredbeard/Awesome-UNIX/3ef2937aba294a942c108d01b299201abfbb329b/venn_diagram.png)
+<a href="https://raw.githubusercontent.com/sirredbeard/Awesome-UNIX/master/venn_diagram.png"><img src="https://raw.githubusercontent.com/sirredbeard/Awesome-UNIX/master/venn_diagram.png" alt="Venn Diagram" width="600" height="500"></a>
 
 #### Commercial UNIX
 
@@ -77,7 +77,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 # Linux (The Most Popular *UNIX-Like* Operating System)
 
-## Most [UNIX-Like](https://en.wikipedia.org/wiki/Unix_philosophy) Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
+## Most UNIX-Like Designed Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
 
 * [Devuan](https://devuan.org) - Devuan Linux is a fork of Debian without systemd from UNIX veterans with the goal of becoming the new go-to base distribution for Linux. XFCE is default desktop environment.
 	* [heads](https://heads.dyne.org/about.html) - heads is a live CD to connect securely over Tor, unlike Tails it does not rely on systemd or non-free software. awesome is default desktop environment.
