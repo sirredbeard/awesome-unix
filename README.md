@@ -249,6 +249,13 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [The Open Group](http://opengroup.org/unix)®
 * [The Linux Foundation](http://opengroup.org/unix)®
 
+### Notable Historic UNIX and UNIX-Like Operating Systems
+
+* [Microsoft Xenix](https://en.wikipedia.org/wiki/Xenix) - Xenix is a discontinued version of the Unix operating system for various microcomputer platforms, licensed by Microsoft from AT&T Corporation in the late 1970s.
+* [BSD386](https://en.wikipedia.org/wiki/BSD/OS) - BSD/OS (originally called BSD/386 and sometimes known as BSDi) is a discontinued proprietary version of the BSD operating system developed by Berkeley Software Design, Inc. (BSDi).
+* [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP) - NeXTSTEP is a discontinued object-oriented, multitasking operating system based on UNIX. It was developed by NeXT Computer in the late 1980s and early 1990s and was initially used for its range of proprietary workstation computers such as the NeXTcube.
+* [BeOS](https://en.wikipedia.org/wiki/BeOS) - BeOS is an operating system for personal computers first developed by Be Inc. in 1991 built for digital media work with partial POSIX compatibility.
+
 ## More macOS
 
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -273,7 +280,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-* [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX. 
+* [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX.
 
 # UNIX and UNIX-Like Hardware Vendors
 
