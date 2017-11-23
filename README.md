@@ -172,6 +172,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ## Other UNIX-Like Operating Systems ![Open Source][OSS Icon]
 
+* [Minoca OS](https://github.com/minoca/os) - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
 * [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free.
 * [GNUSTEP](http://www.aiei.ch/gnustep/) - GNUSTEP is based on Debian 9. without systemd, and features a free implementation of the OPENSTEP and Cocoa frameworks, a continuation of NeXT OS and a common heritage with macOS.
 * [Minix](http://www.minix3.org)® - Minix is a POSIX-compliant Unix-like computer operating system based on a microkernel architecture.
