@@ -11,7 +11,7 @@ The greatest operating system ever invented you have probably never heard about 
 
 The ideas behind UNIX, a research operating system from AT&T in the 1960s, have evolved to form a set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
 
-### Disambiguation: UNIX v. UNIX-Like v. Linux
+### Disambiguation: UNIX, UNIX-Like, and Linux
 
 #### Commercial UNIX
 
@@ -21,7 +21,7 @@ UNIX was originally a research operating system developed at AT&T's Bell Labs.®
 
 These are core set of computer science principles, first implemented in UNIX, now codified in standards set forth by IEEE and The Open Group, and duplicated in dozens in other UNIX-like operating systems emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators. This enables the rapid spread and development of new and better software.
 
-#### UNIX Direct Descendants
+#### UNIX Direct Descendants, e.g FreeBSD®
 
 The term UNIX also debatedbly encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since [re-implemented the AT&T code with code under open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution). The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX certified, they are technically UNIX-like, but share a unique direct link back to AT&T UNIX and newcomers like RedoxOS do not.
 
