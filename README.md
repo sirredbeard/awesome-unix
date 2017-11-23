@@ -13,6 +13,8 @@ The ideas behind UNIX, a research operating system from AT&T in the 1960s, have 
 
 ### Disambiguation: UNIX, UNIX-Like, and Linux
 
+![Venn Diagram](https://raw.githubusercontent.com/sirredbeard/Awesome-UNIX/master/venn_diagram.png)
+
 #### Commercial UNIX
 
 UNIX was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the (IEEE®)[https://en.wikipedia.org/wiki/POSIX], and an official certification that can be obtained by companies for their commercial operating systems, this through a process administrated by (The Open Group®)[https://www.opengroup.org/openbrand/register/]. Among the commercial are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
@@ -33,9 +35,9 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ----------
 
-# Real UNIX
+# "UNIX"
 
-## Certified UNIX Operating Systems💰
+## Certified UNIX® Operating Systems💰
 
 * [macOS](https://www.apple.com/macos/)® - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's personal computers.
 * [AIX](https://www.ibm.com/power/operating-systems/aix)® - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
