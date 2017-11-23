@@ -15,11 +15,11 @@ A set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_p
 
 #### Commercial UNIX
 
-UNIX was originally an operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the (IEEE)[https://en.wikipedia.org/wiki/POSIX]®, and a certification that can be obtained by companies for their commercial operating systems, through a process administrated by (The Open Group)[https://www.opengroup.org/openbrand/register/]®. Among the commercial are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook and iMac lineup.
+UNIX was originally an operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the (IEEE®)[https://en.wikipedia.org/wiki/POSIX], and a certification that can be obtained by companies for their commercial operating systems, through a process administrated by (The Open Group®)[https://www.opengroup.org/openbrand/register/]. Among the commercial are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
 
 #### UNIX Principles
 
-These core set of standards, set forth by IEEE and The Open Group, allows software to be easily transferred and re-compiled on different operating systems across different hardware. It enables the rapid spread and development of new technology. These principles are generally known as UNIX philosophy. The Unix philosophy emphasizes building simple, short, clear, modular, and extensible software that can be easily maintained and repurposed by developers other than its creators. 
+These core set of standards, set forth by IEEE and The Open Group, allows software to be easily transferred and re-compiled on different operating systems across different hardware. It enables the rapid spread and development of new technology. These principles are generally known as UNIX philosophy. The Unix philosophy emphasizes building simple, short, clear, modular, and extensible software on a common set of libraries that can be easily maintained and repurposed by developers other than its creators. 
 
 #### UNIX Direct Descendants
 
@@ -27,13 +27,13 @@ UNIX also encompasses operating systems that are direct descendants of the origi
 
 #### UNIX-Like Operating Systems
 
-For a variety of historical and legal reasons, there has also been a massive explosion of *UNIX-like* operating systems. MINIX, for example, was created as a UNIX-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux was created because Linus Torvalds, a college student, [wanted to run a UNIX-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own Intel PC. Linux has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Google needed a kernel for their new mobile operating system, they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX standards but do not seek official UNIX certification.
+For a variety of historical and legal reasons, there has also been a massive explosion of *UNIX-like* operating systems. MINIX, for example, was created as a UNIX-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux was created because Linus Torvalds, a college student, [wanted to run a UNIX-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own Intel PC. Linux has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Google® needed a kernel for their new mobile operating system, they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX standards but do not seek official UNIX certification.
 
 ----------
 
 # Real UNIX
 
-## Commercial Certified UNIX Operating Systems💰
+## Certified UNIX Operating Systems💰
 
 * [macOS](https://www.apple.com/macos/)® - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's personal computers.
 * [AIX](https://www.ibm.com/power/operating-systems/aix)® - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
@@ -44,7 +44,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 #### [Get More macOS](#more-macos)
 #### [Get More Solaris](#more-solaris)
 
-## Non-Commercial Descendants of AT&T's UNIX Operating System ![Open Source][OSS Icon]
+## Other UNIX Operating Systems ![Open Source][OSS Icon]
 
 * [FreeBSD](https://www.freebsd.org)® - FreeBSD is a free and open-source Unix-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's package availability.
 	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix-like operating system based on FreeBSD with MATE as its default desktop environment.
@@ -59,6 +59,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 	* [FuguIta](http://fuguita.org/?FuguIta) - FuguIta is an OpenBSD live CD featuring portable workplace, low hardware requirements, additional software, and partial support for Japanese. 
 	* [MirBSD](http://www.mirbsd.org) - Fork of OpenBSD that tracks OpenBSD base with a number of enhancements and modifications.  
 * [DragonflyBSD](https://www.dragonflybsd.org) - DragonFly BSD is a free and open source Unix-like operating system created as a fork of FreeBSD 4.8.
+* [PureDarwin](http://www.puredarwin.org) - PureDarwin is a operating system based on the open-source components of Apple's macOS operating system, principally code derived from NeXTSTEP, BSD, Mach, and other software projects released under free software licenses.
 
 #### [Get More BSD](#more-bsd)
 
@@ -69,7 +70,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 #### [Get More UNIX](#more-unix)
 
-# Linux (The Most Common *UNIX-Like* Operating System)
+# Linux (The Most Popular *UNIX-Like* Operating System)
 
 ## Most [UNIX-Like](https://en.wikipedia.org/wiki/Unix_philosophy) Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
 
@@ -88,7 +89,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring suckless tools.
 * [Stali](https://sta.li) - stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
 
-## General Commercial Linux Distributions ![Open Source][OSS Icon]
+## Popular Commercial Linux Distributions ![Open Source][OSS Icon]
 
 * [Red Hat Enterprise Linux](https://www.redhat.com)® - Red Hat Enterprise Linux is a Linux distribution developed by Red Hat® and targeted toward the commercial market. 💰
 * [Ubuntu](https://ubuntu.com)® - Ubuntu is a Debian-based Linux distribution published by Canonical® who offer commercial support for enterprise-class Ubuntu Server variant.
@@ -97,7 +98,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Oracle](https://www.oracle.com/linux/)® - Oracle Linux® is compiled from Red Hat Enterprise Linux source code, replacing Red Hat branding with Oracle's, optimized to run Oracle software. 💰
 * [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer-focused minimalist Linux distro from Linux hardware manufacturer System 76®.
 
-## General Non-Commercial Linux Distributions ![Open Source][OSS Icon]
+## Popular Non-Commercial Linux Distributions ![Open Source][OSS Icon]
 
 * [Debian](https://www.debian.org)® - Debian is a Unix-like computer operating system that is composed entirely of free software, most of which is under the GNU General Public License and packaged by a group of individuals participating in the Debian Project.
 * [Fedora](https://getfedora.org)® - Fedora is an Unix-like operating system based on the Linux kernel and GNU programs (a Linux distribution), developed by the community-supported Fedora Project and sponsored by the Red Hat company.
@@ -109,7 +110,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Solus](https://solus-project.com) - Solus is an independent desktop operating system based on the Linux kernel. It is offered as a curated rolling release model under the slogan "Install Today. Updates Forever".
 * [Mint](https://linuxmint.com) - Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use.
 
-## Mobile Linux Distributions ![Open Source][OSS Icon]
+## Popular Mobile Linux Distributions ![Open Source][OSS Icon]
 
 * [AOSP](https://source.android.com) - Android is a mobile operating system developed by Google, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
 * [CopperheadOS](https://copperhead.co/android/)® - CopperheadOS is a source-available operating system for smartphones and tablet computers, based on the Android mobile platform. It is based on the official releases of the Android Open Source Project by Google, with added privacy and security features.💰
@@ -122,12 +123,12 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [oasis](https://github.com/michaelforney/oasis) - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes.
 * [Tails](https://tails.boum.org) - Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity ![Open Source][OSS Icon]
 * [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution created with the aim of making most of the (often seemingly mutually-exclusive) benefits of various other Linux distributions available simultaneously and transparently. ![Open Source][OSS Icon]
-* [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
+* [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen®, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
 * [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows® Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables (in ELF format) natively on Windows 10.® 💰
 
 ### [Get more Linux](#more-linux)
 
-# Other UNIX-Like/Derived Operating Systems
+# Other UNIX-Like/Related Operating Systems
 
 ## Plan 9® Derivatives ![Open Source][OSS Icon]
 
@@ -164,10 +165,10 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 * [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free.
 * [GNUSTEP](http://www.aiei.ch/gnustep/) - GNUSTEP is based on Debian 9. without systemd, and features a free implementation of the OPENSTEP and Cocoa frameworks, a continuation of NeXT OS and a common heritage with macOS.
-* [Minix](http://www.minix3.org) - Minix is a POSIX-compliant Unix-like computer operating system based on a microkernel architecture.
+* [Minix](http://www.minix3.org)® - Minix is a POSIX-compliant Unix-like computer operating system based on a microkernel architecture.
 * [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008.
 * [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html) - GNU Hurd is the multiserver microkernel written as part of GNU. It has been under development since 1990 by the GNU Project of the Free Software Foundation, designed as a replacement for the Unix kernel, and released as free software under the GNU General Public License.
-* [Akaros](https://github.com/brho/akaros) - Akaros is an open source, GPL-licensed operating system for manycore architectures. Our goal is to provide support for parallel and high-performance applications and to scale to a large number of cores.
+* [Akaros](https://github.com/brho/akaros) - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores.
 * [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software. 
 
 -----
@@ -175,17 +176,19 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 # Additional Resources
 
 ## More UNIX
-
-### Standards
-
-* [The Open Group](http://www.opengroup.org)
-	* [The Open Group official register of UNIX Certified Products](https://www.opengroup.org/openbrand/register/)
 	
 ### History
 
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start)
 * [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems.
 * [AT&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT&T UNIX.
+
+### Technical Standards
+
+* [The Open Group](http://www.opengroup.org)®
+	* [UNIX Certified Products](https://www.opengroup.org/openbrand/register/)
+	* [POSIX Certification Register](http://get.posixcertified.ieee.org/register.html)
+* [IEEE Standard 1003.1™-2008](http://pubs.opengroup.org/onlinepubs/9699919799/)
 
 ### Community
 
@@ -221,10 +224,10 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * UNIX® and UnixWare® are registered trademarks of The Open Group, Inc.
 * FreeBSD® is a registered trademark of The FreeBSD Foundation.
 * NetBSD® is a registered trademark of The NetBSD Foundation, Inc.
-* Apple® and macOS® are registered trademarks of Apple, Inc.
+* Apple®, MacBook®, iMac®, and macOS® are registered trademarks of Apple, Inc.
 * Debian® is a registered trademark of Software in the Public Interest, Inc.
 * IEEE® and POSIX® are registered trademarks of The Institute of Electrical and Electronics Engineers, Inc.
-* Bell® Labs and Plan 9® are registered trademarks of Alcatel-Lucent USA, Inc.
+* Bell Labs® and Plan 9® are registered trademarks of Alcatel-Lucent USA, Inc.
 * Linux® is a registered trademark of Linus Torvalds.
 * AT&T® is a registered trademark of AT&T Intellectual Property II, LLC.
 * AIX® and IBM® are registered trademarks of IBM Corporation.
@@ -233,8 +236,10 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Xinuos® is a registered trademark of Xinuos, Inc.
 * Solaris®, Oracle®, and Sun Microsystems® are registered trademarks of Oracle Corporation.
 * Slackware is a trademark of Patrick Volkerding.
+* Google® is a registered trademark of Alphabet, Inc.
 * TrueOS® and FreenNAS® are registered trademarks of IXsystems, Inc.
 * BeOS® is a registered trademark of ACCESS Systems Americas, Inc. 
+* Xen® is a registered trademark of the Linux Foundation.
 * K-UX® and Inspur® are registered trademarks of Inspur Technologies Co., Ltd.
 * EulerOS® and Huwaei® is a registered trademarks of Huawei Technologies Co., Ltd.
 * pfSense® is a registered trademark of Electric Sheep Fencing, LLC.
