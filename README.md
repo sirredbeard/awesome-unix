@@ -124,7 +124,8 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ## Popular Mobile Linux Distributions ![Open Source][OSS Icon]
 
-* [AOSP](https://source.android.com) - Android® is a mobile operating system developed by Google®, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
+* [Android](https://source.android.com) - Android® is a mobile operating system developed by Google®, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
+* [Chrome OS](https://en.wikipedia.org/wiki/Chrome_OS) - Chrome OS is an operating system designed by Google that is based on the Linux kernel and uses the Google Chrome web browser as its principal user interface.
 * [CopperheadOS](https://copperhead.co/android/)® - CopperheadOS is a source-available operating system for smartphones and tablet computers, based on the Android mobile platform. It is based on the official releases of the Android Open Source Project by Google, with added privacy and security features.💰
 * [LineageOS](https://lineageos.org) - LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.
 * [postmarketOS](https://postmarketos.org) - postmarketOS, is a free and open-source operating system under development primarily for smartphones, based on the lightweight Alpine Linux distribution.
