@@ -124,8 +124,8 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ## Popular Mobile Linux Distributions ![Open Source][OSS Icon]
 
-* [Android](https://source.android.com) - Android® is a mobile operating system developed by Google®, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
-* [Chrome OS](https://en.wikipedia.org/wiki/Chrome_OS) - Chrome OS is an operating system designed by Google that is based on the Linux kernel and uses the Google Chrome web browser as its principal user interface.
+* [Android](https://source.android.com)™ - Android is a mobile operating system developed by Google®, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
+* [Chrome OS](https://en.wikipedia.org/wiki/Chrome_OS)™ - Chrome OS is an operating system designed by Google that is based on the Linux kernel and uses the Google Chrome web browser as its principal user interface.
 * [CopperheadOS](https://copperhead.co/android/)® - CopperheadOS is a source-available operating system for smartphones and tablet computers, based on the Android mobile platform. It is based on the official releases of the Android Open Source Project by Google, with added privacy and security features.💰
 * [LineageOS](https://lineageos.org) - LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.
 * [postmarketOS](https://postmarketos.org) - postmarketOS, is a free and open-source operating system under development primarily for smartphones, based on the lightweight Alpine Linux distribution.
@@ -353,8 +353,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Xinuos® is a registered trademark of Xinuos, Inc.
 * Solaris, Oracle, and Sun Microsystems are trademarks or registered trademarks of Oracle Corporation.
 * Slackware is a trademark of Patrick Volkerding.
-* Google® and Android® are registered trademarks of Alphabet, Inc.
-* TrueOS® and FreeNAS® are registered trademarks of IXsystems, Inc.
+* Google®, Chrome OS™, and Android™ are registered trademarks of Alphabet, Inc.
+* IXsystems®, TrueOS® and FreeNAS® are registered trademarks of IXsystems, Inc.
 * BeOS® is a trademark or registered trademark of ACCESS Systems Americas, Inc. 
 * Xen® is a registered trademark of the Linux Foundation.
 * K-UX® and Inspur® are registered trademarks of Inspur Technologies Co., Ltd.
