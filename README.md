@@ -17,7 +17,7 @@ The ideas behind UNIX, a research operating system from AT&T in the 1960s, have 
 
 #### Commercial UNIX®
 
-UNIX was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the (IEEE®)[https://en.wikipedia.org/wiki/POSIX], and an official certification that can be obtained by companies for their commercial operating systems, this through a process administrated by (The Open Group®)[https://www.opengroup.org/openbrand/register/]. Among the commercial are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
+UNIX was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the [IEEE®](https://en.wikipedia.org/wiki/POSIX), and an official certification that can be obtained by companies for their commercial operating systems, this through a process administrated by [The Open Group®](https://www.opengroup.org/openbrand/register/). Among the commercial are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
 
 #### UNIX Philosophy
 
@@ -45,7 +45,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [UnixWare](https://www.xinuos.com)® - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
 * [Solaris](https://www..com/solaris/solaris11/index.html)® - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
-#### [Get More macOS](#more-macos)
+#### [Get More macOS](#more-macos) <br>
 #### [Get More Solaris](#more-solaris)
 
 ## AT&T UNIX-Derived Operating Systems ![Open Source][OSS Icon]
@@ -150,7 +150,7 @@ Plan 9 was developed by Bell Labs as the successor to UNIX and incorporated nove
 * [Inferno](http://www.vitanuova.com/inferno/)® - Inferno was an effort to commercialize Plan 9 as networking software, however like Plan 9 it remained obscure while it's ideas permeated into current operating systems. 
 * [Jehanne](http://jehanne.io) - Jehanne is a new distributed operating system designed for programmers. The core values that lead the development are simplicity and security. Jehanne is a fork of Harvey.
 
-## OpenSolaris/illumos® ![Open Source][OSS Icon]
+## illumos® ![Open Source][OSS Icon]
 
 Solaris® was originally a UNIX operating system developed jointly by Sun Microsystems® and AT&T® as a version of AT&T's UNIX System V Release 4. Sun continued development on Solaris and later obtained UNIX certification for Solaris. In 2004 Sun open-sourced much of the Solaris code base as OpenSolaris. Sun was acquired by Oracle in 2010 who discontinued formal support of the OpenSolaris project. OpenSolaris was forked and lives on as illumos.
 
@@ -161,7 +161,7 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 	* [Tribblix](http://tribblix.org) - Tribblix is an operating system created by Peter Tribble. Derived from OpenSolaris, OpenIndiana, and illumos, it blends a retro style with modern components.
 	* [XStreamOS](http://www.sonicle.com/index.jsp?pagename=xstreamos&parent=products) - XStreamOS is an  effort to mantain a distribution of the illumos kernel, featuring a customized text install, the ZFS fileystem, advanced features, and a starting point to contribute and develop the illumos kernel.
 	
-#### [Get More Solaris](#more-solaris)
+#### [Get More illumos](#more-illumos)
 
 ## UNIX-Like Real Time Operating Systems ([RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system))
 
@@ -200,21 +200,21 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 	
 ### History
 
-* [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start)
-* 📼 [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) 
-* 📼 [Computer Chronicles: UNIX](https://archive.org/details/UNIX1985) (1985)
-* 📼 [Computer Chronicles: UNIX](https://archive.org/details/unix_2) (1989)
+* [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start) - The Unix Heritage Wiki aims to collect the available historical documents of Unix into one central place so they can be studied by researchers and Unix enthusiasts alike.
+* [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) 📼
+* [Computer Chronicles: UNIX](https://archive.org/details/UNIX1985) (1985) 📼
+* [Computer Chronicles: UNIX](https://archive.org/details/unix_2) (1989) 📼
 
 ### Philosophy
 
 * [Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
-* [Program Design in the UNIX Environment](https://nymity.ch/sybilhunting/pdf/Pike1983a.pdf) [PDF]
+* [Program Design in the UNIX Environment](https://nymity.ch/sybilhunting/pdf/Pike1983a.pdf) 📄
 * [Do one thing, and do it well: 40 years of UNIX](https://techcrunch.com/2009/08/21/do-one-thing-and-do-it-well-40-years-of-unix/) 📰
 
 ### Introductory UNIX Skills
 
-* [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+* [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### UNIX Code/Emulation
@@ -252,11 +252,16 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [OS X for UNIX Users](http://images.apple.com/media/us/osx/2012/docs/OSX_for_UNIX_Users_TB_July2011.pdf) - Apple Technical Brief, July 2011
+* Learning Unix for OS X: Going Deep With the Terminal and Shell, Dave Taylor, O'Reilly Media, 2nd edition (February 12, 2016), ISBN 1491939982 📚
 
-## More Solaris
+## More illumos
 
-* [What are SunOS and Solaris?](https://kb.iu.edu/d/agjq)
+* [Fork Yeah! The Rise and Development of illumos](https://www.youtube.com/watch?v=-zRN7XLCRhc) (2012) 📼
+* [Illumos at 6](https://www.youtube.com/watch?v=29yGVdtaN_0) (2017) 📼
 * [Awesome DTrace](https://awesome-dtrace.com) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [What are SunOS and Solaris?](https://kb.iu.edu/d/agjq)
+* [UNIX Packages](http://unixpackages.com) - Archive of pre-compiled open source applications and packages for Sun Solaris 2.5 through 11.
 	
 ## More BSD
 
@@ -338,6 +343,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Lenovo® is a trademark or registered trademark of Lenovo Group Ltd.
 * The Linux Foundation® is a registered trademark of The Linux Foundation.
 * USENIX℠ is a servicemark of the Advanced Computing Systems Association.
+* O'Reilly Media is a trade name of O'Reilly Media, Inc.
 
 All other trademarks mentioned herein are the property of their respective owners.
 
