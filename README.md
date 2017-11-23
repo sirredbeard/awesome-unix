@@ -44,7 +44,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 #### [Get More macOS](#more-macos)
 #### [Get More Solaris](#more-solaris)
 
-## Other UNIX Operating Systems ![Open Source][OSS Icon]
+## UNIX-Dervied Operating Systems ![Open Source][OSS Icon]
 
 * [FreeBSD](https://www.freebsd.org)® - FreeBSD is a free and open-source Unix-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's package availability.
 	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix-like operating system based on FreeBSD with MATE as its default desktop environment.
