@@ -43,7 +43,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [AIX](https://www.ibm.com/power/operating-systems/aix)® - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
 * [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html)® - HP-UX is  Hewlett Packard Enterprise's proprietary implementation of the Unix operating system, based on UNIX System V.
 * [UnixWare](https://www.xinuos.com)® - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
-* [Solaris](https://www.oracle.com/solaris/solaris11/index.html)® - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
+* [Solaris](https://www..com/solaris/solaris11/index.html)® - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
 #### [Get More macOS](#more-macos)
 #### [Get More Solaris](#more-solaris)
@@ -275,24 +275,24 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ### Intellectual Property Notices
 
-* UNIX®, The Open Group®,, and UnixWare® are registered trademarks of The Open Group, Inc.
+* UNIX®, The Open Group®, and UnixWare® are registered trademarks of The Open Group, Inc.
 * FreeBSD® is a registered trademark of The FreeBSD Foundation.
 * NetBSD® is a registered trademark of The NetBSD Foundation, Inc.
 * Apple®, MacBook®, iMac®, and macOS® are registered trademarks of Apple, Inc.
 * Debian® is a registered trademark of Software in the Public Interest, Inc.
 * IEEE®, IEEE Standard 1003.1, and POSIX® are trademarks or registered trademarks of The Institute of Electrical and Electronics Engineers, Inc.
-* Bell Labs® and Plan 9® are registered trademarks of Alcatel-Lucent USA, Inc.
+* Bell Labs® and Plan 9® are reademarks or registered trademarks of Alcatel-Lucent USA, Inc.
 * Linux® is a registered trademark of Linus Torvalds.
 * AT&T® is a registered trademark of AT&T Intellectual Property II, LLC.
 * AIX®, PowerPC®, and IBM® are trademarks or registered trademarks of IBM Corporation.
 * HP® and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC.
 * Illumos® is a registered trademark of Garrett D'Amore.
 * Xinuos® is a registered trademark of Xinuos, Inc.
-* Solaris®, Oracle®, and Sun Microsystems® are trademarks or registered trademarks of Oracle Corporation.
+* Solaris, Oracle, and Sun Microsystems are trademarks or registered trademarks of Oracle Corporation.
 * Slackware is a trademark of Patrick Volkerding.
 * Google® and Android® are registered trademarks of Alphabet, Inc.
 * TrueOS® and FreeNAS® are registered trademarks of IXsystems, Inc.
-* BeOS® is a registered trademark of ACCESS Systems Americas, Inc. 
+* BeOS® is a trademark or registered trademark of ACCESS Systems Americas, Inc. 
 * Xen® is a registered trademark of the Linux Foundation.
 * K-UX® and Inspur® are registered trademarks of Inspur Technologies Co., Ltd.
 * EulerOS® and Huwaei® is a registered trademarks of Huawei Technologies Co., Ltd.
