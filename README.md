@@ -21,6 +21,8 @@ UNIX was originally a research operating system developed at AT&T's Bell Labs.®
 
 UNIX philosophy is a core set of computer science principles, first implemented in UNIX, now codified in standards set forth by IEEE and The Open Group, and duplicated in dozens of UNIX-like operating systems that emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators, across operating systems and platforms. This enables the rapid spread and development of new and better software. It goes hand in hand with [open source philosophy](https://opensource.org/osd-annotated).
 
+> "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface." - Douglas McIlroy, former head of Bell Labs Computing Sciences Research Center
+
 #### UNIX Direct Descendants, e.g FreeBSD®
 
 The term UNIX also debatedbly encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since [re-implemented the AT&T code with code under open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution). The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX certified, they are technically UNIX-like, but share a unique direct link back to AT&T UNIX and newcomers like RedoxOS do not.
@@ -179,13 +181,22 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008.
 * [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html) - GNU Hurd is the multiserver microkernel written as part of GNU. It has been under development since 1990 by the GNU Project of the Free Software Foundation, designed as a replacement for the Unix kernel, and released as free software under the GNU General Public License.
 * [Akaros](https://github.com/brho/akaros) - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores.
-* [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software. 
+* [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software.
+* [OpenVMS](http://www.vmssoftware.com)™ - OpenVMS is a enterprise operating system known for it's reliability. It is the successor to the VMS Operating System and runs on DEC Alpha systems. POSIX compatibility was added in 1991.
+
+OpenVMS is a computer operating system for use in general-purpose computing. It is the successor to the VMS Operating System
 
 -----
 
 # Additional Resources
 
 ## More UNIX
+
+### Disambiguation
+
+* [Differentiating UNIX and Linux](https://www.ibm.com/developerworks/aix/library/au-unix-difflinux.html)
+* [What, a real UNIX®?](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/what-a-real-unix.html)
+* [10 differences between Linux and BSD](https://www.techrepublic.com/blog/10-things/10-differences-between-linux-and-bsd/) 📰
 	
 ### History
 
@@ -193,6 +204,13 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Unix History Repository](https://github.com/dspinellis/unix-history-repo)
 * [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems.
 * [AT&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT&T UNIX.
+* [[YouTube] AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) 📼
+
+### Philosophy
+
+* [Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
+* [Program Design in the UNIX Environment](https://nymity.ch/sybilhunting/pdf/Pike1983a.pdf) [PDF]
+* [Do one thing, and do it well: 40 years of UNIX](https://techcrunch.com/2009/08/21/do-one-thing-and-do-it-well-40-years-of-unix/) 📰
 
 ### Technical Standards
 
@@ -234,15 +252,20 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ## UNIX and UNIX-Like Hardware Vendors
 
-* [System76](https://system76.com)®
-* [Purism](https://puri.sm)®
-* [Entroware[(https://www.entroware.com/store/)®
-* [HP](http://www8.hp.com/us/en/campaigns/ubuntu/index.html)®
-* [Dell](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us)®
-* [IBM](https://www.ibm.com/linuxone)®
-* [Raptor Engineering](https://raptorcs.com/TALOSII/)®
-* [PowerPC Notebook](https://www.powerpc-notebook.org/)
-* [StationX](https://stationx.rocks)
+* [Apple](https://apple.com)® - macOS laptops and desktops, x86
+* [System76](https://system76.com)® - Linux laptops and desktops, x86
+* [Purism](https://puri.sm)® - Linux laptops, x86
+* [Entroware](https://www.entroware.com/store/)® - Linux laptops, desktops, and servers, x86
+* HP
+	* [Consumer/Business](http://www8.hp.com/us/en/campaigns/ubuntu/index.html)® - Linux laptops, desktops, and servers
+	* [HP Enterprise](https://www.hpe.com/us/en/servers/hp-ux.html) - HP-UX servers, x86 and RISC
+* [Oracle](https://www.oracle.com/servers/index.html) - Linux and Solaris servers, x86 and SPARC
+* [Dell](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us)® - Linux laptops, desktops, and servers; x86
+* [IBM](https://www.ibm.com/linuxone)® - Linux and AIX servers, x86 and RISC
+* [Raptor Engineering](https://raptorcs.com/TALOSII/)® - Linux PowerPC workstation
+* [PowerPC Notebook](https://www.powerpc-notebook.org/) - Linux laptop with PowerPC architecture
+* [StationX](https://stationx.rocks) - Linux laptops and desktops, x86
+* [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html) - Linux and Solaris servers, SPARC
 
 -----
 
@@ -284,7 +307,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Gentoo® is a registered trademark of Gentoo Foundation, Inc.
 * Dell® is a registered trademark of Dell, Inc.
 * Entroware® is a trademark of Entroware, a UK company.
-* Raptor Computing Systems® is a registered trademark ofTimothy Pearson.
+* Raptor Computing Systems® is a registered trademark of Timothy Pearson.
+* OpenVMS is a trademark of VMS Software, Inc.
 
 This document is licensed under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
