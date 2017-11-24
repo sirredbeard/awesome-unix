@@ -3,25 +3,25 @@
 
 # FAQ
 
-###  What is UNIX?
+###  What is UNIX?®
 
 The greatest operating system ever invented you have probably never heard about whose genius design ideas now enable everything great you love. [More...](https://en.wikipedia.org/wiki/History_of_Unix)
 
-### Why is UNIX relevant today?
+### Why is UNIX® relevant today?
 
-The ideas behind UNIX, a research operating system from AT&T in the 1960s, have evolved to form a set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. They exist on a continuum that includes certified UNIX, projects descendanted from the original UNIX, and UNIX-like projects designed to be UNIX-compatible. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
+The ideas behind UNIX®, a research operating system from AT&T in the 1960s, have evolved to form a set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. They exist on a continuum that includes certified UNIX®, projects descendanted from the original UNIX®, and UNIX®-like projects designed to be UNIX-compatible. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
 
-### Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX-Like, and Linux
+### Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX®-Like, and Linux
 
 <a href="https://raw.githubusercontent.com/sirredbeard/Awesome-UNIX/master/venn_diagram.png"><img src="https://raw.githubusercontent.com/sirredbeard/Awesome-UNIX/master/venn_diagram.png" alt="Venn Diagram" width="600" height="500"></a>
 
 #### Commercial UNIX®
 
-UNIX was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the [IEEE®](https://en.wikipedia.org/wiki/POSIX), and an official certification that can be obtained by companies for their commercial operating systems, this through a process administrated by [The Open Group®](https://www.opengroup.org/openbrand/register/). Among the commercial are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
+UNIX® was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the [IEEE®](https://en.wikipedia.org/wiki/POSIX), and an official certification that can be obtained by companies for their commercial operating systems, this through a process administrated by [The Open Group®](https://www.opengroup.org/openbrand/register/). Among the commercial are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
 
-#### UNIX Philosophy
+#### "Unix Philosophy"
 
-UNIX philosophy is a core set of computer science principles, first implemented in UNIX, now codified in standards set forth by IEEE and The Open Group, and duplicated in dozens of UNIX-like operating systems that emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators, across operating systems and platforms. This enables the rapid spread and development of new and better software. It goes hand in hand with [open source philosophy](https://opensource.org/osd-annotated).
+"Unix philosophy" is a core set of computer science principles, first implemented in UNIX®, now codified in standards set forth by IEEE® and The Open Group®, and duplicated in dozens of UNIX®-like operating systems that emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators, across operating systems and platforms. This enables the rapid spread and development of new and better software. It goes hand in hand with [open source philosophy](https://opensource.org/osd-annotated).
 
 > "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface." - *Douglas McIlroy, former head of Bell Labs Computing Sciences Research Center*
 
@@ -31,7 +31,7 @@ The term UNIX also debatedbly encompasses operating systems that are direct desc
 
 #### UNIX-Like Operating Systems, e.g. Linux®
 
-For a variety of historical and legal reasons, there has also been a massive explosion of *UNIX-like* operating systems. MINIX, for example, was created as a UNIX-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux was created because Linus Torvalds, a college student, [wanted to run a UNIX-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own hardware. Linux has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Android, Inc. needed a kernel for their new namesake mobile operating system they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX standards and UNIX principles but do not seek official UNIX certification.
+For a variety of historical and legal reasons, there has also been a massive explosion of *UNIX-like* operating systems. MINIX®, for example, was created as a UNIX-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux® was created because Linus Torvalds, a college student, [wanted to run a UNIX-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own hardware. Linux® has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Android, Inc.® needed a kernel for their new namesake mobile operating system they borrowed one from Linux. Unix®-like operating systems implement some degree of the POSIX® standards and UNIX® principles but do not seek official UNIX® certification.
 
 ----------
 
@@ -374,7 +374,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ### Intellectual Property Notices
 
-* UNIX®, The Open Group®, and UnixWare® are registered trademarks of The Open Group, Inc. in the United States and/or other countries.
+* The Open Group® is not affiliated with and has not endorsed or sponsored this page.
+* UNIX®, The Open Group®, and UnixWare® are trademarks of The Open Group. Use of The Open Group trademarks are authorized by The Open Group [Trademark Guidelines](http://www.opengroup.org/legal/trademark) as "Editorial or Articles, but not Advertising" and/or permitted by trademark fair use under United States law.
 * FreeBSD® is a registered trademark of The FreeBSD Foundation. in the United States and/or other countries.
 * NetBSD® is a registered trademark of The NetBSD Foundation, Inc. in the United States and/or other countries.
 * Apple®, MacBook®, iMac®, and macOS® are registered trademarks of Apple, Inc. in the United States and/or other countries.
