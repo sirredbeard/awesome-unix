@@ -146,6 +146,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [oasis](https://github.com/michaelforney/oasis) - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes.
 * [Tails](https://tails.boum.org) - Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity ![Open Source][OSS Icon]
 * [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution created with the aim of making most of the (often seemingly mutually-exclusive) benefits of various other Linux distributions available simultaneously and transparently. ![Open Source][OSS Icon]
+* [RancherOS](https://rancher.com/rancher-os/) - A simplified Linux distribution built from containers, for containers. Everything in RancherOS is a container managed by Docker.
 * [Red Star OS](https://en.wikipedia.org/wiki/Red_Star_OS) - Red Star OS is a North Korean Linux operating system developed for use in North Korea that computer researches have [noted](https://www.reuters.com/article/northkorea-computers/paranoid-north-koreas-computer-operating-system-mirrors-its-political-one-idUSKBN0UA0GF20151227) watermarks every document and media file on a computer or on any USB stick connected to it.
 * [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows® Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables (in ELF format) natively on Windows 10.® 💰
 
@@ -232,7 +233,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [UNIX](https://archive.org/details/unix_2) - From "Computer Chronicles" TV Series (1989). 📼
 * [C and Unix at Bell Labs](https://www.youtube.com/watch?v=TUWt_StXKsY) - By Brian Kernighan at Vintage Computer Federation East 10 (2016). 📼
 
-### Philosophy
+### UNIX Philosophy
 
 * [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/), Eric Steven Raymond, Thyrsus Enterprises, 2003. 📚
 	* [Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
@@ -277,19 +278,35 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 * [nixCraft](https://www.cyberciti.biz) - NixCraft is an online community of new and seasoned Linux / Unix users.
 * [LWN](https://lwn.net) - LWN is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. 
+* [/r/unixporn](https://www.reddit.com/r/unixporn/) - A subreddit dedicated to NIX customization.
 * [DistroWatch](http://distrowatch.com) - DistroWatch is a website which provides news, popularity rankings, and other general information about various Linux distributions and Unix-like operating systems.
-* IRC [freenode](https://webchat.freenode.net)
+* IRC [freenode](https://webchat.freenode.net), see [#irchelp](http://www.irchelp.org) for more on IRC
 	* ##unixlove
 	* ##climagic
 	* ##kernel
+	* #debian
+	* ##linux
+	* #macosx
+	* #devuan
+* IRC [Snoonet](https://kiwiirc.com/nextclient/?settings=wnuYl5a8fLp)
+	* #linuxmasterrace
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+### Free Software and Open Source
+
+* [Free Software Foundation](https://www.fsf.org) - The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.
+	* [Philosophy of the GNU Project](https://www.gnu.org/philosophy/philosophy.html)
+	* [What is free software and why is it so important for society?](https://www.fsf.org/about/what-is-free-software)
+* [Open Source Initiative](https://opensource.org) - The Open Source Initiative (OSI) protects and promotes open source software, development and communities, championing software freedom in society.
+	* [The Open Source Definition](https://opensource.org/definition)
+* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/), by Eric S. Raymond.
 
 ### UNIX/Linux-Related Trade Groups
 
-* [USENIX](https://www.usenix.org)℠
-* [The Open Group](http://opengroup.org/unix)®
-* [The Linux Foundation](http://opengroup.org/unix)®
-* [FreeBSD Foundation](https://www.freebsdfoundation.org)
+* [USENIX](https://www.usenix.org)℠ - The USENIX Association is the Advanced Computing Systems Association. It was founded in 1975 under the name "Unix Users Group," focusing primarily on the study and development of Unix and similar systems.
+* [The Open Group](http://opengroup.org/unix)® - The Open Group is a vendor- and technology-neutral industry consortium and is the certifying body for the UNIX trademark and publishes the Single UNIX Specification technical standard,[3] which extends the POSIX standards.
+* [The Linux Foundation](https://www.linuxfoundation.org)® - The Linux Foundation (LF) is dedicated to building sustainable ecosystems around open source projects to accelerate technology development and commercial adoption. The largest open source non-profit organization, it works to promote, protect, and advance Linux and collaborative development.
+* [FreeBSD Foundation](https://www.freebsdfoundation.org) - The FreeBSD Foundation is a non-profit organization dedicated to supporting and building the FreeBSD Project and community worldwide.
 
 ### Notable Historic UNIX and UNIX-Like Operating Systems
 
@@ -298,7 +315,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP) - NeXTSTEP is a discontinued object-oriented, multitasking operating system based on UNIX. It was developed by NeXT Computer in the late 1980s and early 1990s and was initially used for its range of proprietary workstation computers such as the NeXTcube.
 * [IRIX](https://en.wikipedia.org/wiki/IRIX) - IRIX is a discontinued operating system developed by Silicon Graphics (SGI) to run natively on their MIPS workstations and servers. It is based on UNIX System V with BSD extensions. SGI's Indigo Magic™ Desktop for IRIX® is still [under active development](http://www.maxxinteractive.com/site/?page_id=2) for IRIX and Linux.
 * [BeOS](https://en.wikipedia.org/wiki/BeOS) - BeOS is an operating system for personal computers first developed by Be Inc. in 1991 built for digital media work with partial POSIX compatibility. An open source replacement, [Haiku](https://www.haiku-os.org), is under active development.
-* [MkLinux](https://en.wikipedia.org/wiki/MkLinux) - MkLinux is an open source computer operating system started by the Open Group and Apple in 1996 to port Linux to Macintosh computers. It's last release was in 2002.
+* [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)) - Darwin is an open-source Unix operating system released by Apple, Inc. It is composed of code developed by Apple, as well as code derived from NeXTSTEP, BSD, Mach, and other free software projects.
+* [MkLinux](https://en.wikipedia.org/wiki/MkLinux) - MkLinux is an open source computer operating system started by the Open Group and Apple in 1996 to port Linux to Macintosh computers. Its last release was in 2002.
 * [CoLinux](https://en.wikipedia.org/wiki/Cooperative_Linux) - Cooperative Linux, abbreviated coLinux, was software which allowed Microsoft Windows and the Linux kernel to run simultaneously in parallel on the same machine.
 
 ## More macOS
@@ -325,6 +343,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 	
 ## More Linux
 
+* [Revolution OS](https://www.youtube.com/watch?v=k84FMc1GF8M) - Revolution OS is a 2001 documentary which traces the history of GNU, Linux, and the open source and free software movements. (2001). 📼
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX.
@@ -355,56 +374,56 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ### Intellectual Property Notices
 
-* UNIX®, The Open Group®, and UnixWare® are registered trademarks of The Open Group, Inc.
-* FreeBSD® is a registered trademark of The FreeBSD Foundation.
-* NetBSD® is a registered trademark of The NetBSD Foundation, Inc.
-* Apple®, MacBook®, iMac®, and macOS® are registered trademarks of Apple, Inc.
-* Debian® is a registered trademark of Software in the Public Interest, Inc.
-* IEEE®, IEEE Standard 1003.1, and POSIX® are trademarks or registered trademarks of The Institute of Electrical and Electronics Engineers, Inc.
-* Bell Labs® and Plan 9® are reademarks or registered trademarks of Alcatel-Lucent USA, Inc.
-* Linux® is a registered trademark of Linus Torvalds.
-* AT&T® is a registered trademark of AT&T Intellectual Property II, LLC.
-* AIX®, PowerPC®, and IBM® are trademarks or registered trademarks of IBM Corporation.
-* HP® and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC.
-* Illumos® is a registered trademark of Garrett D'Amore.
-* Xinuos® is a registered trademark of Xinuos, Inc.
-* Solaris, Oracle, and Sun Microsystems are trademarks or registered trademarks of Oracle Corporation.
-* Slackware is a trademark of Patrick Volkerding.
-* Google®, Chrome OS™, and Android™ are registered trademarks of Alphabet, Inc.
-* IXsystems®, TrueOS® and FreeNAS® are registered trademarks of IXsystems, Inc.
-* BeOS® is a trademark or registered trademark of ACCESS Systems Americas, Inc. 
-* Linux Foundation, Xen®, MeeGo, Tizen, and Yocto Project™ are trademarks or registered trademarks of the Linux Foundation.
-* K-UX® and Inspur® are registered trademarks of Inspur Technologies Co., Ltd.
-* EulerOS® and Huwaei® is a registered trademarks of Huawei Technologies Co., Ltd.
-* pfSense® is a registered trademark of Electric Sheep Fencing, LLC.
-* Inferno® is a registered trademark of Vita Nuova Holdings Ltd.
-* Red Hat®, Fedora®, and Red Hat Enterprise Linux® are trademarks or registered trademarks of Red Hat, Inc.
-* Ubuntu® and Canonical® are registered trademark of Canonical Limited.
-* SUSE® and SUSE Linux Enterprise® are registered trademarks of SUSE.
-* System76® is a registered trademark of System76, Inc.
-* Windows®, Microsoft®, Skype®, and Xenix® are trademarks or registered trademarks of Microsoft Corporation.
-* QNX® is a registered trademark of Blackberry Limited.
-* Huawei™ is is a trademark or registered trademark of Huawei Technologies Co. Ltd.
-* Integrity® and Green Hills Software are registered trademarks of Green Hills Software.
-* LynxOS® is a registered trademark of Lynx Software Technologies, Inc.
-* CopperheadOS® is a registered trademark of Copperhead Limited.
-* MINIX® is a trademark or registered trademark of Pearson Education, Inc. in the United States.
-* Gentoo® is a registered trademark of Gentoo Foundation, Inc.
-* Dell® is a trademark or registered trademark of Dell, Inc.
-* Entroware® is a trademark of Entroware, a UK company.
-* Raptor Computing Systems® is a registered trademark of Timothy Pearson.
-* OpenVMS is a trademark or registered trademark of VMS Software, Inc.
-* Fujistu® is a trademark or registered trademark of Fujitsu Limited.
-* SPARC® is a trademark or registered trademarks of SPARC International, Inc.
-* Lenovo® is a trademark or registered trademark of Lenovo Group Ltd.
-* USENIX℠ is a servicemark of the Advanced Computing Systems Association.
-* O'Reilly Media is a trade name of O'Reilly Media, Inc.
+* UNIX®, The Open Group®, and UnixWare® are registered trademarks of The Open Group, Inc. in the United States and/or other countries.
+* FreeBSD® is a registered trademark of The FreeBSD Foundation. in the United States and/or other countries.
+* NetBSD® is a registered trademark of The NetBSD Foundation, Inc. in the United States and/or other countries.
+* Apple®, MacBook®, iMac®, and macOS® are registered trademarks of Apple, Inc. in the United States and/or other countries.
+* Debian® is a registered trademark of Software in the Public Interest, Inc. in the United States and/or other countries.
+* IEEE®, IEEE Standard 1003.1, and POSIX® are trademarks or registered trademarks of The Institute of Electrical and Electronics Engineers, Inc. in the United States and/or other countries.
+* Bell Labs® and Plan 9® are reademarks or registered trademarks of Alcatel-Lucent USA, Inc. in the United States and/or other countries.
+* Linux® is a registered trademark of Linus Torvalds in the United States and/or other countries.
+* AT&T® is a registered trademark of AT&T Intellectual Property II, LLC in the United States and/or other countries.
+* AIX®, PowerPC®, and IBM® are trademarks or registered trademarks of IBM Corporation in the United States and/or other countries.
+* HP® and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC in the United States and/or other countries.
+* Illumos® is a registered trademark of Garrett D'Amore in the United States and/or other countries.
+* Xinuos® is a registered trademark of Xinuos, Inc. in the United States and/or other countries.
+* Solaris, Oracle, and Sun Microsystems are trademarks or registered trademarks of Oracle Corporation in the United States and/or other countries.
+* Slackware is a trademark of Patrick Volkerding in the United States and/or other countries.
+* Google®, Chrome OS™, and Android™ are registered trademarks of Alphabet, Inc. in the United States and/or other countries.
+* IXsystems®, TrueOS® and FreeNAS® are registered trademarks of IXsystems, Inc. in the United States and/or other countries.
+* BeOS® is a trademark or registered trademark of ACCESS Systems Americas, Inc. in the United States and/or other countries.
+* Linux Foundation, Xen®, MeeGo, Tizen, and Yocto Project™ are trademarks or registered trademarks of the Linux Foundation in the United States and/or other countries.
+* K-UX® and Inspur® are registered trademarks of Inspur Technologies Co., Ltd. in the United States and/or other countries.
+* EulerOS® and Huwaei® is a registered trademarks of Huawei Technologies Co., Ltd. in the United States and/or other countries.
+* pfSense® is a registered trademark of Electric Sheep Fencing, LLC in the United States and/or other countries.
+* Inferno® is a registered trademark of Vita Nuova Holdings Ltd. in the United States and/or other countries.
+* Red Hat®, Fedora®, and Red Hat Enterprise Linux® are trademarks or registered trademarks of Red Hat, Inc. in the United States and/or other countries.
+* Ubuntu® and Canonical® are registered trademark of Canonical Limited in the United States and/or other countries.
+* SUSE® and SUSE Linux Enterprise® are registered trademarks of SUSE in the United States and/or other countries.
+* System76® is a registered trademark of System76, Inc. in the United States and/or other countries.
+* Windows®, Microsoft®, Skype®, and Xenix® are trademarks or registered trademarks of Microsoft Corporation in the United States and/or other countries.
+* QNX® is a registered trademark of Blackberry Limited in the United States and/or other countries.
+* Huawei™ is is a trademark or registered trademark of Huawei Technologies Co. Ltd. in the United States and/or other countries.
+* Integrity® and Green Hills Software are registered trademarks of Green Hills Software in the United States and/or other countries.
+* LynxOS® is a registered trademark of Lynx Software Technologies, Inc. in the United States and/or other countries.
+* CopperheadOS® is a registered trademark of Copperhead Limited in the United States and/or other countries.
+* MINIX® is a trademark or registered trademark of Pearson Education, Inc. in the United States and/or other countries.
+* Gentoo® is a registered trademark of Gentoo Foundation, Inc. in the United States and/or other countries.
+* Dell® is a trademark or registered trademark of Dell, Inc. in the United States and/or other countries.
+* Entroware® is a trademark of Entroware, a UK company, in the United States and/or other countries.
+* Raptor Computing Systems® is a registered trademark of Timothy Pearson in the United States and/or other countries.
+* OpenVMS is a trademark or registered trademark of VMS Software, Inc. in the United States and/or other countries.
+* Fujistu® is a trademark or registered trademark of Fujitsu Limited. in the United States and/or other countries.
+* SPARC® is a trademark or registered trademarks of SPARC International, Inc. in the United States and/or other countries.
+* Lenovo® is a trademark or registered trademark of Lenovo Group Ltd. in the United States and/or other countries.
+* USENIX℠ is a servicemark of the Advanced Computing Systems Association in the United States and/or other countries.
+* O'Reilly Media is a trade name of O'Reilly Media, Inc. in the United States and/or other countries.
 * The OSI logo ![Open Source][OSS Icon] is a trademark of Open Source Initiative and is used [under OSI Trademark Guidelines](https://opensource.org/trademark-guidelines#Noncommercial_and_community_web_sites).
-* Joylent™ is a trademark of Joylent, Inc.
-* IRIX®, SGI®, and Indigo Magic are trademarks or registered trademarks of Silicon Graphics, Inc.
-* Deepin is a trademark of Wuhan Deepin Technology Co., Ltd.
+* Joylent™ is a trademark of Joylent, Inc. in the United States and/or other countries
+* IRIX®, SGI®, and Indigo Magic are trademarks or registered trademarks of Silicon Graphics, Inc. in the United States and/or other countries.
+* Docker® is a trademark or registered trademark of Docker, Inc. in the United States and/or other countries.
 
-All other trademarks mentioned herein are the property of their respective owners.
+All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
 
 This document is licensed under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
