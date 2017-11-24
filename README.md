@@ -47,7 +47,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [UnixWare](https://www.xinuos.com)® - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
 * [Solaris](https://www..com/solaris/solaris11/index.html)® - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
-#### [Get More macOS](#more-macos) <br>
+#### [Get More macOS](#more-macos)
 #### [Get More illumos](#more-illumos)
 
 ## AT&T UNIX®-Derived Operating Systems ![Open Source][OSS Icon]
@@ -104,7 +104,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [GuixSD](https://www.gnu.org/software/guix/) - GuixSD is an advanced distribution of the GNU operating system developed by the GNU Project —which respects the freedom of computer users.
 * [Linux From Scratch](http://www.linuxfromscratch.org/lfs/) - Linux From Scratch is a way to install a working Linux system by building all components of it manually. 
 * [Dragora](https://www.dragora.org/) - The Dragora project produces a libre, reliable, Unix-like GNU/Linux distribution made from scratch.
-* [Trisquel](https://trisquel.info) - Trisquel GNU/Linux is a fully free operating system for home users, small enterprises and educational centers.
+* [Trisquel](https://trisquel.info) - Trisquel GNU/Linux is a fully free operating system for home users, small enterprises, and educational centers.
 * [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring suckless tools.
 * [Stali](https://sta.li) - stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
 * [OviOS](http://www.ovios.org) - OviOS is a distribution designed to easily deploy a Linux unified storage server. Written from scratch it is fully compatible with the Linux Standard Base.
@@ -251,6 +251,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Program Design in the UNIX Environment](https://nymity.ch/sybilhunting/pdf/Pike1983a.pdf) 📄
 * [Bringing the Unix Philosophy to Big Data](https://www.youtube.com/watch?v=S0mviKhVmBI) - By Bryan Cantrill, CTO of Joylent, developer of illumos-based SmartOS, at FutureStack13 (2013). 📼
 * [Do one thing, and do it well: 40 years of UNIX](https://techcrunch.com/2009/08/21/do-one-thing-and-do-it-well-40-years-of-unix/) 📰
+* [suckless Philosophy](https://suckless.org/philosophy) - suckless is the home of dwm, dmenu, and other quality software with a focus on simplicity, clarity, and frugality.
 
 ### Introductory UNIX® Skills
 
@@ -311,7 +312,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 	* #linuxmasterrace
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### Free Software and Open Source
+### Free Software and Open Source Movements
 
 * [Free Software Foundation](https://www.fsf.org) - The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.
 	* [GNU Project](https://www.gnu.org/gnu/thegnuproject.en.html)
