@@ -343,6 +343,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Microsoft Xenix](https://en.wikipedia.org/wiki/Xenix)® - Xenix is a discontinued version of the Unix operating system for various microcomputer platforms, licensed by Microsoft® from AT&T in the late 1970s.
 * [BSD386](https://en.wikipedia.org/wiki/BSD/OS) - BSD/OS (originally called BSD/386 and sometimes known as BSDi) is a discontinued proprietary version of the BSD operating system developed by Berkeley Software Design, Inc. (BSDi).
 * [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP) - NeXTSTEP is a discontinued object-oriented, multitasking operating system based on UNIX. It was developed by NeXT Computer in the late 1980s and early 1990s and was initially used for its range of proprietary workstation computers such as the NeXTcube.
+* [Project Athena](https://en.wikipedia.org/wiki/Project_Athena) - Project Athena was a joint project of MIT, Digital Equipment Corporation, and IBM to produce a campus-wide distributed computing environment for educational use. The project spawned many technologies that are widely used today, such as the [X Window System](https://en.wikipedia.org/wiki/X_Window_System) and [Kerberos](https://en.wikipedia.org/wiki/Kerberos_(protocol)). Athena was originally based on BSD, followed by IRIX, and then Linux. The Athena tools live in an MIT student project, [Debathena](https://debathena.mit.edu).
 * [IRIX](https://en.wikipedia.org/wiki/IRIX)® - IRIX is a discontinued operating system developed by Silicon Graphics (SGI) to run natively on their MIPS workstations and servers. It is based on UNIX System V with BSD extensions. SGI's Indigo Magic™ Desktop for IRIX® is still [under active development](http://www.maxxinteractive.com/site/?page_id=2) for IRIX and Linux.
 * [BeOS](https://en.wikipedia.org/wiki/BeOS)® - BeOS is an operating system for personal computers first developed by Be Inc. in 1991 built for digital media work with partial POSIX® compatibility. An open source replacement, [Haiku](https://www.haiku-os.org), is under active development.
 * [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)) - Darwin is an open-source Unix operating system released by Apple, Inc. It is composed of code developed by Apple, as well as code derived from NeXTSTEP, BSD, Mach, and other free software projects.
@@ -458,7 +459,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Docker® is a trademark or registered trademark of Docker, Inc. in the United States and/or other countries.
 * Rust™ is a trademark of the Mozilla Foundation, Inc.
 * IOS is a trademark or registered trademark of Cisco in the United States and other countries and is used by Apple, Inc. under license.
-* X Window System™ is a trademark of the Massachusetts Institute of Technology.
+* X Window System™, Project Athena™, Athena™, and Kerbos™ are trademarks of the Massachusetts Institute of Technology.
 * DEC™, PDP-11™, DECnet™, DECstations™, VMS™, ULTRIX™, Digital™, VAX™ are trademarks of Digital Equipment Corporation.
 * OPNsense® is a trademark or registered trademark of Deciso B.V.
 
