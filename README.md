@@ -59,6 +59,7 @@ These operating systems, with the exception of Open Server 10, are not UNIX® ce
 	* [TrueOS](https://www.trueos.org)® - TrueOS (formerly PC-BSD or PCBSD) is a Unix-like, desktop-oriented operating system built upon the most recent releases of FreeBSD. Features Lumina desktop environment.
 	* [MidnightBSD](http://www.midnightbsd.org) - MidnightBSD is a free Unix-like, desktop-oriented operating system based on FreeBSD 6.1 and borrowing heavily from the NeXTSTEP graphical user interface.
 	* [PacBSD](https://pacbsd.org) - A lightweight and flexible FreeBSD distribution that implements the Pacman package manager from Arch Linux.
+	* [HardendedBSD](https://hardenedbsd.org) - HardenedBSD is a security-enhanced fork of FreeBSD. The HardenedBSD Project is implementing many exploit mitigation and security technologies on top of FreeBSD.
 	* [FreeNAS](http://www.freenas.org)® - FreeNAS is a free and open-source network-attached storage (NAS) software based on FreeBSD and the OpenZFS file system.
 	* [pfSense](https://www.pfsense.org)® - pfSense is an open source firewall/router computer software distribution based on FreeBSD.
 		* [OPNsense](https://opnsense.org)® - OPNsense is a fork of pfSense created in 2014 over technical differences between developers of pfSense.
