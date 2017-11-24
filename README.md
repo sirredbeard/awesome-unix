@@ -186,7 +186,7 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 	
 #### [Get More illumos](#more-illumos)
 
-## Other Unix-Like Operating Systems ![Open Source][OSS Icon]
+## More Unix-Like Operating Systems ![Open Source][OSS Icon]
 
 * [Minix](http://www.minix3.org)® - Minix is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture.
 * [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008.
