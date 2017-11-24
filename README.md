@@ -246,13 +246,13 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 ### Introductory Programming
 
 * [Learn-C.org](http://www.learn-c.org) - [C](https://en.wikipedia.org/wiki/C_(programming_language)) is a general-purpose computer programming language developed at Bell Labs concurrently with UNIX. Most UNIX and NIX operating systems are still written in versions of C, with notable exceptions such as [Haiku](https://en.wikipedia.org/wiki/Haiku_(operating_system)) in [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [Redox](https://en.wikipedia.org/wiki/Redox_(operating_system)) in [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)).
-	* [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust.
-	* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [learning-fortran](https://github.com/pwittchen/learning-fortran) - Repository created in order to learn basics of Fortran, with links to several tutorials.
-	* [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) - A curated list of Fortran libraries. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) - A curated list of Fortran libraries. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) - Resources for learning Python.
-	* [Awesome Python](https://github.com/vinta/awesome-python) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Awesome Python](https://github.com/vinta/awesome-python) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### UNIX Code/Emulation
 
@@ -327,7 +327,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 # UNIX and UNIX-Like Hardware Vendors
 
 * [Apple](https://apple.com)® - macOS laptops and desktops, x86
-* [iXsystems](https://www.ixsystems.com/servers/)® - FreeBSD servers from company that develops [TrueOS](https://www.trueos.org) and [FreeNAS](http://www.freenas.org), x86
+* [iXsystems](https://www.ixsystems.com/servers/)® - FreeBSD servers from the company that develops [TrueOS](https://www.trueos.org) and [FreeNAS](http://www.freenas.org), x86
 * [System76](https://system76.com)® - Linux laptops and desktops, x86
 * [Purism](https://puri.sm)® - Linux laptops, x86
 * [Entroware](https://www.entroware.com/store/)® - Linux laptops, desktops, and servers, x86
@@ -368,7 +368,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Google®, Chrome OS™, and Android™ are registered trademarks of Alphabet, Inc.
 * IXsystems®, TrueOS® and FreeNAS® are registered trademarks of IXsystems, Inc.
 * BeOS® is a trademark or registered trademark of ACCESS Systems Americas, Inc. 
-* Linux Foundation, Xen®, Tizen, and Yocto Project™ are trademarks or registered trademarks of the Linux Foundation.
+* Linux Foundation, Xen®, MeeGo, Tizen, and Yocto Project™ are trademarks or registered trademarks of the Linux Foundation.
 * K-UX® and Inspur® are registered trademarks of Inspur Technologies Co., Ltd.
 * EulerOS® and Huwaei® is a registered trademarks of Huawei Technologies Co., Ltd.
 * pfSense® is a registered trademark of Electric Sheep Fencing, LLC.
