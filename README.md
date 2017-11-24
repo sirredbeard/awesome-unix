@@ -109,6 +109,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [elementaryOS](https://elementary.io) - elementary OS is a consumer-oriented Linux distribution based on Ubuntu. It is the flagship distribution to showcase the Pantheon desktop environment.💰
 * [Oracle](https://www.oracle.com/linux/)® - Oracle Linux® is compiled from Red Hat Enterprise Linux source code, replacing Red Hat branding with Oracle's, optimized to run Oracle software. 💰
 * [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer-focused minimalist Linux distro from Linux hardware manufacturer System 76®.
+* [Deepin](https://www.deepin.org) - Deepin is a popular Chinese Linux distribution based on Debian with a focus on being a user-friendly desktop Linux distribution. It includes a number of pre-installed proprietary applications.
 
 ## Popular Non-Commercial Linux Distributions ![Open Source][OSS Icon]
 
@@ -138,6 +139,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Tails](https://tails.boum.org) - Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity ![Open Source][OSS Icon]
 * [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution created with the aim of making most of the (often seemingly mutually-exclusive) benefits of various other Linux distributions available simultaneously and transparently. ![Open Source][OSS Icon]
 * [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen®, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
+* [Red Star OS](https://en.wikipedia.org/wiki/Red_Star_OS) - Red Star OS is a North Korean Linux operating system developed for use in North Korea that computer researches have [noted](https://www.reuters.com/article/northkorea-computers/paranoid-north-koreas-computer-operating-system-mirrors-its-political-one-idUSKBN0UA0GF20151227) watermarks every document and media file on a computer or on any USB stick connected to it.
 * [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows® Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables (in ELF format) natively on Windows 10.® 💰
 
 ### [Get more Linux](#more-linux)
@@ -168,7 +170,7 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 * [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html) - GNU Hurd is the multiserver microkernel written as part of GNU. It has been under development since 1990 by the GNU Project of the Free Software Foundation, designed as a replacement for the Unix kernel, and released as free software under the GNU General Public License.
 * [Akaros](https://github.com/brho/akaros) - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores.
 * [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software.
-* [OpenVMS](http://www.vmssoftware.com)™ - OpenVMS is a enterprise operating system known for it's reliability. It is the successor to the VMS Operating System and runs on DEC Alpha systems. POSIX compatibility was added in 1991.
+* [OpenVMS](http://www.vmssoftware.com)™ - OpenVMS is a enterprise operating system known for it's reliability. It is the successor to the VMS Operating System and runs on DEC Alpha systems. OpenVMS has it's own software lineage that predates UNIX and [includes Windows NT](http://www.itprotoday.com/windows-client/windows-nt-and-vms-rest-story) but POSIX compatibility was added to OpenVMS in 1991.
 
 ## Plan 9® Derivatives ![Open Source][OSS Icon]
 
@@ -366,7 +368,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Ubuntu® and Canonical® are registered trademark of Canonical Limited.
 * SUSE® and SUSE Linux Enterprise® are registered trademarks of SUSE.
 * System76® is a registered trademark of System76, Inc.
-* Windows®, Microsoft®, and Xenix® are trademarks or registered trademarks of Microsoft Corporation.
+* Windows®, Microsoft®, Skype®, and Xenix® are trademarks or registered trademarks of Microsoft Corporation.
 * QNX® is a registered trademark of Blackberry Limited.
 * Huawei™ is is a trademark or registered trademark of Huawei Technologies Co. Ltd.
 * Integrity® and Green Hills Software are registered trademarks of Green Hills Software.
@@ -387,6 +389,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * The OSI logo ![Open Source][OSS Icon] is a trademark of Open Source Initiative and is used [under OSI Trademark Guidelines](https://opensource.org/trademark-guidelines#Noncommercial_and_community_web_sites).
 * Joylent™ is a trademark of Joylent, Inc.
 * IRIX®, SGI®, and Indigo Magic are trademarks or registered trademarks of Silicon Graphics, Inc.
+* Deepin is a trademark of Wuhan Deepin Technology Co., Ltd.
 
 All other trademarks mentioned herein are the property of their respective owners.
 
