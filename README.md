@@ -99,7 +99,6 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Stali](https://sta.li) - stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
 * [OviOS](http://www.ovios.org) - OviOS is a distribution designed to easily deploy a Linux unified storage server. Written from scratch it is fully compatible with the Linux Standard Base.
 * [KNOPPIX](http://www.knopper.net/) - KNOPPIX is a Debian-based distribution that can be run entirely from a CD or USB on computers with minimal hardware specificiations. Replaces systemd in Debian with sysV and systemd-shim.
-* [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt) - OpenWrt is an open source project for an embedded operating system based on Linux, primarily used on embedded devices to route network traffic.
 
 ## Popular Commercial Linux Distributions ![Open Source][OSS Icon]
 
@@ -124,23 +123,34 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Solus](https://solus-project.com) - Solus is an independent desktop operating system based on the Linux kernel. It is offered as a curated rolling release model under the slogan "Install Today. Updates Forever".
 * [Mint](https://linuxmint.com) - Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use.
 
-## Popular Mobile Linux Distributions ![Open Source][OSS Icon]
+## Mobile Linux Distributions ![Open Source][OSS Icon]
 
 * [Android](https://source.android.com)™ - Android is a mobile operating system developed by Google®, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
 * [Chrome OS](https://en.wikipedia.org/wiki/Chrome_OS)™ - Chrome OS is an operating system designed by Google that is based on the Linux kernel and uses the Google Chrome web browser as its principal user interface.
 * [CopperheadOS](https://copperhead.co/android/)® - CopperheadOS is a source-available operating system for smartphones and tablet computers, based on the Android mobile platform. It is based on the official releases of the Android Open Source Project by Google, with added privacy and security features.💰
 * [LineageOS](https://lineageos.org) - LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.
 * [postmarketOS](https://postmarketos.org) - postmarketOS, is a free and open-source operating system under development primarily for smartphones, based on the lightweight Alpine Linux distribution.
+* [Mer](http://merproject.org) - Mer is a free and open-source software distribution, targeted at hardware vendors to serve as a middleware for Linux kernel-based mobile-oriented operating systems. It is a fork of [MeeGo](https://en.wikipedia.org/wiki/MeeGo).
+* [Sailfish OS](https://sailfishos.org) - Sailfish OS is a general purpose Linux used commonly as mobile operating system combining the Linux kernel, the open-source Mer core stack of middleware, a proprietary UI, and other third-party components.
+* [Tizen](https://www.tizen.org)™ - Tizen is an open source, standards-based software platform for multiple device categories, including smartphones, tablets, TVs, netbooks and automotive infotainment platforms.
 
-## Interesting Linux Distributions/Related Projects 
+## Novel Linux Distributions/Related Projects 
 
+* [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen®, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
 * [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database. ![Open Source][OSS Icon]
+* [GNUSTEP](http://www.aiei.ch/gnustep/) - GNUSTEP is a Linux live CD distribution based on Debian that prominently features the [GNUstep](https://en.wikipedia.org/wiki/GNUstep) application frameworks, a free software re-implementation of the OPENSTEP and Cocoa frameworks originally developed by NeXT with Sun Microsystems.
 * [oasis](https://github.com/michaelforney/oasis) - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes.
 * [Tails](https://tails.boum.org) - Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity ![Open Source][OSS Icon]
 * [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution created with the aim of making most of the (often seemingly mutually-exclusive) benefits of various other Linux distributions available simultaneously and transparently. ![Open Source][OSS Icon]
-* [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen®, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
 * [Red Star OS](https://en.wikipedia.org/wiki/Red_Star_OS) - Red Star OS is a North Korean Linux operating system developed for use in North Korea that computer researches have [noted](https://www.reuters.com/article/northkorea-computers/paranoid-north-koreas-computer-operating-system-mirrors-its-political-one-idUSKBN0UA0GF20151227) watermarks every document and media file on a computer or on any USB stick connected to it.
 * [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows® Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables (in ELF format) natively on Windows 10.® 💰
+
+## Embedded/IoT-Focused Linux Distributions
+
+* [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt) - OpenWrt is an open source project for an embedded operating system based on Linux, primarily used on embedded devices to route network traffic.
+* [Ångström](http://angstrom-distribution.org) - Ångström is a Linux distribution for a variety of embedded devices. The distribution is the result of work by developers from the OpenZaurus, OpenEmbedded, and OpenSIMpad projects.
+* [Poky](https://www.yoctoproject.org/tools-resources/projects/poky) - Poky is a reference distribution for the Yocto Project™, an open source project that provides templates, tools, and methods to create custom Linux-based systems for embedded devices.
+* [Ubuntu Core](https://www.ubuntu.com/core) - Ubuntu Core is a tiny, transactional version of Ubuntu for IoT devices and large container deployments.
 
 ### [Get more Linux](#more-linux)
 
@@ -166,7 +176,6 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 * [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008.
 * [Minoca OS](https://github.com/minoca/os) - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
 * [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free.
-* [GNUSTEP](http://www.aiei.ch/gnustep/) - GNUSTEP is a Linux live CD distribution based on Debian that prominently features the [GNUstep](https://en.wikipedia.org/wiki/GNUstep) application frameworks, a free software re-implementation of the OPENSTEP and Cocoa frameworks originally developed by NeXT with Sun Microsystems.
 * [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html) - GNU Hurd is the multiserver microkernel written as part of GNU. It has been under development since 1990 by the GNU Project of the Free Software Foundation, designed as a replacement for the Unix kernel, and released as free software under the GNU General Public License.
 * [Akaros](https://github.com/brho/akaros) - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores.
 * [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software.
@@ -359,7 +368,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Google®, Chrome OS™, and Android™ are registered trademarks of Alphabet, Inc.
 * IXsystems®, TrueOS® and FreeNAS® are registered trademarks of IXsystems, Inc.
 * BeOS® is a trademark or registered trademark of ACCESS Systems Americas, Inc. 
-* Xen® is a registered trademark of the Linux Foundation.
+* Linux Foundation, Xen®, Tizen, and Yocto Project™ are trademarks or registered trademarks of the Linux Foundation.
 * K-UX® and Inspur® are registered trademarks of Inspur Technologies Co., Ltd.
 * EulerOS® and Huwaei® is a registered trademarks of Huawei Technologies Co., Ltd.
 * pfSense® is a registered trademark of Electric Sheep Fencing, LLC.
@@ -383,7 +392,6 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Fujistu® is a trademark or registered trademark of Fujitsu Limited.
 * SPARC® is a trademark or registered trademarks of SPARC International, Inc.
 * Lenovo® is a trademark or registered trademark of Lenovo Group Ltd.
-* The Linux Foundation® is a registered trademark of The Linux Foundation.
 * USENIX℠ is a servicemark of the Advanced Computing Systems Association.
 * O'Reilly Media is a trade name of O'Reilly Media, Inc.
 * The OSI logo ![Open Source][OSS Icon] is a trademark of Open Source Initiative and is used [under OSI Trademark Guidelines](https://opensource.org/trademark-guidelines#Noncommercial_and_community_web_sites).
