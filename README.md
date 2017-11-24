@@ -33,7 +33,7 @@ The term UNIX also debatedbly encompasses operating systems that are direct desc
 
 #### Unix-Like Operating Systems, e.g. Linux®
 
-For a variety of historical and legal reasons, there has also been a massive explosion of *Unix-like* operating systems. MINIX®, for example, was created as a Unix-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux® was created because Linus Torvalds, a college student, [wanted to run a Unix-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own hardware. Linux® has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Android, Inc.® needed a kernel for their new namesake mobile operating system they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX® standards and Unix philosophy but do not seek official UNIX® certification.
+For a variety of historical and legal reasons, there has also been a massive explosion of *Unix-like* operating systems. MINIX®, for example, was created as a Unix-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux® was created because Linus Torvalds, a college student, [wanted to run a Unix-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own hardware. Linux® has since gone on to become the most popular Unix-like operating system. Twenty years later, when Android, Inc.® needed a kernel for their new namesake mobile operating system they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX® standards and Unix philosophy but do not seek official UNIX® certification.
 
 ----------
 
