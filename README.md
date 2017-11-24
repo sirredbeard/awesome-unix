@@ -119,7 +119,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [elementaryOS](https://elementary.io) - elementary OS is a consumer-oriented Linux distribution based on Ubuntu. It is the flagship distribution to showcase the Pantheon desktop environment.💰
 * [Oracle](https://www.oracle.com/linux/)® - Oracle Linux® is compiled from Red Hat Enterprise Linux source code, replacing Red Hat branding with Oracle's, optimized to run Oracle software. 💰
 * [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer-focused minimalist Linux distro from Linux hardware manufacturer System 76®.
-* [Deepin](https://www.deepin.org) - Deepin is a popular Chinese Linux distribution based on Debian with a focus on being a user-friendly desktop Linux distribution. It includes a number of pre-installed proprietary applications.
+* [Deepin](https://www.deepin.org) - Deepin is a popular Chinese Linux distribution based on Debian with a focus on being a user-friendly desktop Linux distribution. It includes a number of pre-installed proprietary applications, such as Skype.
 
 ## Popular Non-Commercial Linux Distributions ![Open Source][OSS Icon]
 
@@ -412,7 +412,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Ubuntu® and Canonical® are registered trademark of Canonical Limited in the United States and/or other countries.
 * SUSE® and SUSE Linux Enterprise® are registered trademarks of SUSE in the United States and/or other countries.
 * System76® is a registered trademark of System76, Inc. in the United States and/or other countries.
-* Windows®, Microsoft®, Skype®, and Xenix® are trademarks or registered trademarks of Microsoft Corporation in the United States and/or other countries.
+* Windows®, Microsoft®, Skype®, Windows NT®, and Xenix® are trademarks or registered trademarks of Microsoft Corporation in the United States and/or other countries.
 * QNX® is a registered trademark of Blackberry Limited in the United States and/or other countries.
 * Huawei™ is is a trademark or registered trademark of Huawei Technologies Co. Ltd. in the United States and/or other countries.
 * Integrity® and Green Hills Software are registered trademarks of Green Hills Software in the United States and/or other countries.
