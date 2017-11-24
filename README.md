@@ -37,7 +37,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ----------
 
-# "UNIX"
+# *NIXes
 
 ## Certified UNIX® Operating Systems💰
 
@@ -73,16 +73,16 @@ These operating systems, with the exception of Open Server 10, are not UNIX® ce
 
 #### [Get More BSD](#more-bsd)
 
-## UNIX-Certified Linux-Based Operating Systems
+## UNIX®-Certified Linux-Based Operating Systems
 
 While the vast majority of Linux distributions are not UNIX® certified by The Open Group, two actually are:
 
 * [K-UX](http://www.inspursystems.com/product/32-way-system/)® - K-UX is a Linux distribution based on CentOS produced by Inspur®, a Chinese multinational company specializing in information technology. 💰
 * [EulerOS](http://developer.huawei.com/ict/en/site-euleros)® -  EulerOS is a Linux distribution based on CentOS produced by Huawei®, a Chinese networking and telecommunications equipment and services company. 💰
 
-#### [Get More UNIX](#more-unix)
+#### [Get More UNIX®](#more-unix)
 
-# Linux
+# Linux®
 <big>The Most Popular *Unix-Like* Operating System</big>
 
 These operating systems are not UNIX® certified by The Open Group.
@@ -111,7 +111,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [KNOPPIX](http://www.knopper.net/) - KNOPPIX is a Debian-based distribution that can be run entirely from a CD or USB on computers with minimal hardware specificiations. Replaces systemd in Debian with sysV and systemd-shim.
 * [Tiny Core Linux](https://en.wikipedia.org/wiki/Tiny_Core_Linux) - Tiny Core Linux (TCL) is a minimal Linux operating system focusing on providing a base system using BusyBox and FLTK, developed by Robert Shingledecker.
 
-## Popular Commercial Linux Distributions ![Open Source][OSS Icon]
+## Popular Commercial Linux® Distributions ![Open Source][OSS Icon]
 
 * [Red Hat Enterprise](https://www.redhat.com)® - Red Hat Enterprise Linux is a Linux distribution developed by Red Hat® and targeted toward the commercial market. 💰
 * [Ubuntu](https://ubuntu.com)® - Ubuntu is a Debian-based Linux distribution published by Canonical® who offer commercial support for enterprise-class Ubuntu Server variant.
@@ -121,7 +121,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer-focused minimalist Linux distro from Linux hardware manufacturer System 76®.
 * [Deepin](https://www.deepin.org) - Deepin is a popular Chinese Linux distribution based on Debian with a focus on being a user-friendly desktop Linux distribution. It includes a number of pre-installed proprietary applications, such as Skype.
 
-## Popular Non-Commercial Linux Distributions ![Open Source][OSS Icon]
+## Popular Non-Commercial Linux® Distributions ![Open Source][OSS Icon]
 
 * [Debian](https://www.debian.org)® - Debian is a Unix-like computer operating system that is composed entirely of free software, most of which is under the GNU General Public License and packaged by a group of individuals participating in the Debian Project.
 * [Fedora](https://getfedora.org)® - Fedora is an Unix-like operating system based on the Linux kernel and GNU programs (a Linux distribution), developed by the community-supported Fedora Project and sponsored by the Red Hat company.
@@ -135,7 +135,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Solus](https://solus-project.com) - Solus is an independent desktop operating system based on the Linux kernel. It is offered as a curated rolling release model under the slogan "Install Today. Updates Forever".
 * [Mint](https://linuxmint.com) - Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use.
 
-## Mobile Linux Distributions ![Open Source][OSS Icon]
+## Mobile Linux® Distributions ![Open Source][OSS Icon]
 
 * [Android](https://source.android.com)™ - Android is a mobile operating system developed by Google®, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
 * [Chrome OS](https://en.wikipedia.org/wiki/Chrome_OS)™ - Chrome OS is an operating system designed by Google that is based on the Linux kernel and uses the Google Chrome web browser as its principal user interface.
@@ -146,7 +146,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Sailfish OS](https://sailfishos.org) - Sailfish OS is a general purpose Linux used commonly as mobile operating system combining the Linux kernel, the open-source Mer core stack of middleware, a proprietary UI, and other third-party components.
 * [Tizen](https://www.tizen.org)™ - Tizen is an open source, standards-based software platform for multiple device categories, including smartphones, tablets, TVs, netbooks and automotive infotainment platforms.
 
-## Novel Linux Distributions/Related Projects 
+## Novel Linux® Distributions/Related Projects 
 
 * [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen®, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
 * [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database. ![Open Source][OSS Icon]
@@ -158,7 +158,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Red Star OS](https://en.wikipedia.org/wiki/Red_Star_OS) - Red Star OS is a North Korean Linux operating system developed for use in North Korea that computer researches have [noted](https://www.reuters.com/article/northkorea-computers/paranoid-north-koreas-computer-operating-system-mirrors-its-political-one-idUSKBN0UA0GF20151227) watermarks every document and media file on a computer or on any USB stick connected to it.
 * [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows® Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables (in ELF format) natively on Windows 10.® 💰
 
-## Embedded/IoT-Focused Linux Distributions
+## Embedded/IoT-Focused Linux® Distributions
 
 * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt) - OpenWrt is an open source project for an embedded operating system based on Linux, primarily used on embedded devices to route network traffic.
 * [Ångström](http://angstrom-distribution.org) - Ångström is a Linux distribution for a variety of embedded devices. The distribution is the result of work by developers from the OpenZaurus, OpenEmbedded, and OpenSIMpad projects.
@@ -224,13 +224,13 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ## More UNIX®
 
-### Disambiguation
+### UNIX® v. Unix/*NIX Disambiguation
 
 * [Differentiating UNIX and Linux](https://www.ibm.com/developerworks/aix/library/au-unix-difflinux.html) - From IBM
 * [What, a real UNIX®?](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/what-a-real-unix.html) - Excerpt from [Explaining BSD](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/index.html).
 * [10 differences between Linux and BSD](https://www.techrepublic.com/blog/10-things/10-differences-between-linux-and-bsd/) - From Tech Republic 📰
 	
-### History
+### UNIX® History
 
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start) - The Unix Heritage Wiki aims to collect the available historical documents of Unix into one central place so they can be studied by researchers and Unix enthusiasts alike.
 * [Unix History](https://www.levenez.com/unix/) - Éric Lévénez has produced a simplified diagram of UNIX history and collected several useful other UNIX historical resources.
@@ -243,7 +243,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [UNIX](https://archive.org/details/unix_2) - From "Computer Chronicles" TV Series (1989). 📼
 * [C and Unix at Bell Labs](https://www.youtube.com/watch?v=TUWt_StXKsY) - By Brian Kernighan at Vintage Computer Federation East 10 (2016). 📼
 
-### UNIX Philosophy
+### "Unix Philosophy"
 
 * [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/), Eric Steven Raymond, Thyrsus Enterprises, 2003. 📚
 	* [Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
@@ -252,16 +252,16 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Bringing the Unix Philosophy to Big Data](https://www.youtube.com/watch?v=S0mviKhVmBI) - By Bryan Cantrill, CTO of Joylent, developer of illumos-based SmartOS, at FutureStack13 (2013). 📼
 * [Do one thing, and do it well: 40 years of UNIX](https://techcrunch.com/2009/08/21/do-one-thing-and-do-it-well-40-years-of-unix/) 📰
 
-### Introductory UNIX Skills
+### Introductory UNIX® Skills
 
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 * [The Bash Academy](http://www.bash.academy) - The Bash Academy is an initiative to promote the bash shell language and educate people on its use.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### Introductory Programming
+### Introductory Programming Skills
 
-#### C and Derivatives
+#### C Language and Derivatives
 
 * [Learn-C.org](http://www.learn-c.org) - [C](https://en.wikipedia.org/wiki/C_(programming_language)) is a general-purpose computer programming language developed at Bell Labs concurrently with UNIX. Most UNIX and NIX operating systems are still written in versions of C, with notable exceptions such as [Haiku](https://en.wikipedia.org/wiki/Haiku_(operating_system)) in [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [Redox](https://en.wikipedia.org/wiki/Redox_(operating_system)) in [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)).
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -270,7 +270,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### Other Programming Languages
+#### Other Programming Languages
 
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -279,14 +279,14 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) - Resources for learning Python.
 * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software, and resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### UNIX Code/Emulation
+### UNIX® Code/Emulation
 
 * [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems, including many old UNIX and Unix-like.
-* [AT&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT&T consumer UNIX.
+* [AT&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT&T UNIX.
 * [The UNIX Tree](http://minnie.tuhs.org/cgi-bin/utree.pl) -  Browse the source code and manuals of various old versions of Unix
 * [Unix History Repository](https://github.com/dspinellis/unix-history-repo) - The source code of the original UNIX through it's various versions implemented in git.
 
-### UNIX/POSIX Technical Standards
+### UNIX®/POSIX® Technical Standards
 
 * [The Open Group](http://www.opengroup.org)®
 	* [UNIX Certified Products](https://www.opengroup.org/openbrand/register/)
@@ -321,16 +321,16 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 	* [The Open Source Definition](https://opensource.org/definition)
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/), by Eric S. Raymond.
 
-### UNIX/Linux-Related Trade Groups
+### UNIX®/Linux®-Related Trade Groups
 
 * [USENIX](https://www.usenix.org)℠ - The USENIX Association is the Advanced Computing Systems Association. It was founded in 1975 under the name "Unix Users Group," focusing primarily on the study and development of Unix and similar systems.
 * [The Open Group](http://opengroup.org/unix)® - The Open Group is a vendor- and technology-neutral industry consortium and is the certifying body for the UNIX trademark and publishes the Single UNIX Specification technical standard,[3] which extends the POSIX standards.
 * [The Linux Foundation](https://www.linuxfoundation.org)® - The Linux Foundation (LF) is dedicated to building sustainable ecosystems around open source projects to accelerate technology development and commercial adoption. The largest open source non-profit organization, it works to promote, protect, and advance Linux and collaborative development.
 * [FreeBSD Foundation](https://www.freebsdfoundation.org) - The FreeBSD Foundation is a non-profit organization dedicated to supporting and building the FreeBSD Project and community worldwide.
 
-### Notable Historic UNIX and Unix-like Operating Systems
+### Notable Historic UNIX® and Unix-like Operating Systems
 
-* [Microsoft Xenix](https://en.wikipedia.org/wiki/Xenix) - Xenix is a discontinued version of the Unix operating system for various microcomputer platforms, licensed by Microsoft from AT&T Corporation in the late 1970s.
+* [Microsoft Xenix](https://en.wikipedia.org/wiki/Xenix)® - Xenix is a discontinued version of the Unix operating system for various microcomputer platforms, licensed by Microsoft® from AT&T in the late 1970s.
 * [BSD386](https://en.wikipedia.org/wiki/BSD/OS) - BSD/OS (originally called BSD/386 and sometimes known as BSDi) is a discontinued proprietary version of the BSD operating system developed by Berkeley Software Design, Inc. (BSDi).
 * [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP) - NeXTSTEP is a discontinued object-oriented, multitasking operating system based on UNIX. It was developed by NeXT Computer in the late 1980s and early 1990s and was initially used for its range of proprietary workstation computers such as the NeXTcube.
 * [IRIX](https://en.wikipedia.org/wiki/IRIX) - IRIX is a discontinued operating system developed by Silicon Graphics (SGI) to run natively on their MIPS workstations and servers. It is based on UNIX System V with BSD extensions. SGI's Indigo Magic™ Desktop for IRIX® is still [under active development](http://www.maxxinteractive.com/site/?page_id=2) for IRIX and Linux.
@@ -339,14 +339,14 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [MkLinux](https://en.wikipedia.org/wiki/MkLinux) - MkLinux is an open source computer operating system started by the Open Group and Apple in 1996 to port Linux to Macintosh computers. Its last release was in 2002.
 * [CoLinux](https://en.wikipedia.org/wiki/Cooperative_Linux) - Cooperative Linux, abbreviated coLinux, was software which allowed Microsoft Windows and the Linux kernel to run simultaneously in parallel on the same machine.
 
-## More macOS
+## More macOS®
 
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [OS X for UNIX Users](http://images.apple.com/media/us/osx/2012/docs/OSX_for_UNIX_Users_TB_July2011.pdf) - Apple Technical Brief, July 2011
 * Learning Unix for OS X: Going Deep With the Terminal and Shell, Dave Taylor, O'Reilly Media, 2nd edition (February 12, 2016), ISBN 1491939982. 📚
 
-## More illumos
+## More illumos®
 
 * [Fork Yeah! The Rise and Development of illumos](https://www.youtube.com/watch?v=-zRN7XLCRhc) - By Bryan Cantrill, CTO of Joylent, developer of illumos-based [SmartOS](https://www.joyent.com/smartos), at USENEX LISA '11 (2011). 📼
 * [Illumos at 6](https://www.youtube.com/watch?v=29yGVdtaN_0) - By Peter Tribble, developer of illumos-based [Tribblix](http://www.tribblix.org), at FLOSSUK8 (2017). 📼
@@ -361,22 +361,22 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [BSD v. Linux](https://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
 * [A Narrative History of BSD](https://www.youtube.com/watch?v=DEEr6dT-4uQ) - By Kirk McKusick, USENIX℠ Board Member, at MeetBSD California (2014). 📼
 	
-## More Linux
+## More Linux®
 
 * [Revolution OS](https://www.youtube.com/watch?v=k84FMc1GF8M) - Revolution OS is a 2001 documentary which traces the history of GNU, Linux, and the open source and free software movements. (2001). 📼
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX.
 
-# UNIX and Unix-Like Hardware Vendors
+# UNIX® and Unix®-Like Hardware Vendors
 
 * [Apple](https://apple.com)® - macOS laptops and desktops, x86
 * [iXsystems](https://www.ixsystems.com/servers/)® - FreeBSD servers from the company that develops [TrueOS](https://www.trueos.org) and [FreeNAS](http://www.freenas.org), x86
 * [System76](https://system76.com)® - Linux laptops and desktops, x86
-* [Purism](https://puri.sm)® - Linux laptops, x86
+* [Purism](https://puri.sm) - Linux laptops, x86
 * [Entroware](https://www.entroware.com/store/)® - Linux laptops, desktops, and servers, x86
 * HP®
-	* [Consumer/Business](http://www8.hp.com/us/en/campaigns/ubuntu/index.html)® - Linux laptops, desktops, and servers
+	* [Consumer/Small Business](http://www8.hp.com/us/en/campaigns/ubuntu/index.html)® - Linux laptops, desktops, and servers
 	* [HP Enterprise](https://www.hpe.com/us/en/servers/hp-ux.html)® - HP-UX servers, x86 and PA-RISC
 * [Oracle](https://www.oracle.com/servers/index.html)® - Linux and Solaris servers, x86 and SPARC
 * [Dell](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us)® - Linux laptops, desktops, and servers; x86
@@ -408,10 +408,10 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * HP® and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC in the United States and/or other countries.
 * Illumos® is a registered trademark of Garrett D'Amore in the United States and/or other countries.
 * Xinuos® is a registered trademark of Xinuos, Inc. in the United States and/or other countries.
-* Solaris, Oracle, and Sun Microsystems are trademarks or registered trademarks of Oracle Corporation in the United States and/or other countries.
+* Oracle, Solaris, and Sun Microsystems are trademarks or registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners
 * Slackware is a trademark of Patrick Volkerding in the United States and/or other countries.
 * Google®, Chrome OS™, and Android™ are registered trademarks of Alphabet, Inc. in the United States and/or other countries.
-* IXsystems®, TrueOS® and FreeNAS® are registered trademarks of IXsystems, Inc. in the United States and/or other countries.
+* IXsystems®, TrueOS®, BSDi, Berkeley Software Design, Inc., and FreeNAS® are trademarks or registered trademarks of IXsystems, Inc. in the United States and/or other countries.
 * BeOS® is a trademark or registered trademark of ACCESS Systems Americas, Inc. in the United States and/or other countries.
 * Linux Foundation, Xen®, MeeGo, Tizen, and Yocto Project™ are trademarks or registered trademarks of the Linux Foundation in the United States and/or other countries.
 * K-UX® and Inspur® are registered trademarks of Inspur Technologies Co., Ltd. in the United States and/or other countries.
