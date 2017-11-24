@@ -261,14 +261,23 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ### Introductory Programming
 
+#### C and Derivatives
+
 * [Learn-C.org](http://www.learn-c.org) - [C](https://en.wikipedia.org/wiki/C_(programming_language)) is a general-purpose computer programming language developed at Bell Labs concurrently with UNIX. Most UNIX and NIX operating systems are still written in versions of C, with notable exceptions such as [Haiku](https://en.wikipedia.org/wiki/Haiku_(operating_system)) in [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [Redox](https://en.wikipedia.org/wiki/Redox_(operating_system)) in [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)).
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust.
 * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+### Other Programming Languages
+
+* [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [learning-fortran](https://github.com/pwittchen/learning-fortran) - Repository created in order to learn basics of Fortran, with links to several tutorials.
 * [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) - A curated list of Fortran libraries. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) - Resources for learning Python.
-* [Awesome Python](https://github.com/vinta/awesome-python) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software, and resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### UNIX Code/Emulation
 
@@ -305,6 +314,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 ### Free Software and Open Source
 
 * [Free Software Foundation](https://www.fsf.org) - The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.
+	* [GNU Project](https://www.gnu.org/gnu/thegnuproject.en.html)
 	* [Philosophy of the GNU Project](https://www.gnu.org/philosophy/philosophy.html)
 	* [What is free software and why is it so important for society?](https://www.fsf.org/about/what-is-free-software)
 * [Open Source Initiative](https://opensource.org) - The Open Source Initiative (OSI) protects and promotes open source software, development and communities, championing software freedom in society.
