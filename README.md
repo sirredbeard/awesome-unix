@@ -338,6 +338,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)) - Darwin is an open-source Unix operating system released by Apple, Inc. It is composed of code developed by Apple, as well as code derived from NeXTSTEP, BSD, Mach, and other free software projects.
 * [MkLinux](https://en.wikipedia.org/wiki/MkLinux) - MkLinux is an open source computer operating system started by the Open Group and Apple in 1996 to port Linux to Macintosh computers. Its last release was in 2002.
 * [CoLinux](https://en.wikipedia.org/wiki/Cooperative_Linux) - Cooperative Linux, abbreviated coLinux, was software which allowed Microsoft Windows and the Linux kernel to run simultaneously in parallel on the same machine.
+* [ULTRIX](https://en.wikipedia.org/wiki/Ultrix) - ULTRIX is the brand name of Digital Equipment Corporation's discontinued native Unix operating systems for the PDP-11, VAX, and DECstations.
 
 ## More macOS®
 
@@ -405,7 +406,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Linux® is a registered trademark of Linus Torvalds in the United States and/or other countries.
 * AT&T, the AT&T logo, AT&T slogans and other AT&T product/service names and logos are trademarks and service marks of AT&T Intellectual Property or AT&T affiliated company ("AT&T Marks").
 * AIX®, PowerPC®, and IBM® are trademarks or registered trademarks of IBM Corporation in the United States and/or other countries.
-* HP® and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC in the United States and/or other countries.
+* HP®, HP-UX®, ULTRIX, Digital, are trademarks or registered trademarks of HP Hewlett Packard Group, LLC in the United States and/or other countries.
 * Illumos® is a registered trademark of Garrett D'Amore in the United States and/or other countries.
 * Xinuos® is a registered trademark of Xinuos, Inc. in the United States and/or other countries.
 * Oracle, Solaris, and Sun Microsystems are trademarks or registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners
