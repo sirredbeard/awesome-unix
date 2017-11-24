@@ -60,7 +60,8 @@ These operating systems, with the exception of Open Server 10, are not UNIX® ce
 	* [MidnightBSD](http://www.midnightbsd.org) - MidnightBSD is a free Unix-like, desktop-oriented operating system based on FreeBSD 6.1 and borrowing heavily from the NeXTSTEP graphical user interface.
 	* [PacBSD](https://pacbsd.org) - A lightweight and flexible FreeBSD distribution that implements the Pacman package manager from Arch Linux.
 	* [FreeNAS](http://www.freenas.org)® - FreeNAS is a free and open-source network-attached storage (NAS) software based on FreeBSD and the OpenZFS file system.
-	* [pfSense](https://www.pfsense.org)® - pfSense is an open source firewall/router computer software distribution based on FreeBSD
+	* [pfSense](https://www.pfsense.org)® - pfSense is an open source firewall/router computer software distribution based on FreeBSD.
+		* [OPNsense](https://opnsense.org)® - OPNsense is a fork of pfSense created in 2014 over technical differences between developers of pfSense.
 	* [RaspBSD](http://www.raspbsd.org) - RaspBSD is a image of FreeBSD  that is preconfigured for Raspberry Pi Computers.
 	* [Open Server 10](https://www.xinuos.com/menu-products/openserver-10)® - Xinuos® OpenServer 10® is a 64-bit operating system based on the popular FreeBSD and designed to support business applications. 💰
 	* [NAS4Free](https://www.nas4free.org) - NAS4Free is an embedded Open Source NAS (Network-Attached Storage) distribution based on the latest FreeBSD releases.
@@ -456,6 +457,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * IOS is a trademark or registered trademark of Cisco in the United States and other countries and is used by Apple, Inc. under license.
 * X Window System™ is a trademark of the Massachusetts Institute of Technology.
 * DEC™, PDP-11™, DECnet™, DECstations™, VMS™, ULTRIX™, Digital™, VAX™ are trademarks of Digital Equipment Corporation.
+* OPNsense® is a trademark or registered trademark of Deciso B.V.
 
 All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
 
