@@ -9,9 +9,9 @@ The greatest operating system ever invented you have probably never heard about 
 
 ### Why is UNIX® relevant today?
 
-The ideas behind UNIX®, a research operating system from AT&T in the 1960s, have evolved to form a set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. They exist on a continuum that includes certified UNIX®, projects descendanted from the original UNIX®, and UNIX®-like projects designed to be UNIX-compatible. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
+The ideas behind UNIX®, a research operating system from AT&T in the 1960s, have evolved to form a set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. They exist on a continuum that includes certified UNIX®, projects descendanted from the original UNIX®, and Unix-like projects designed to be Unix-compatible. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
 
-### Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX®-Like, and Linux
+### Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX®-Like, and Linux®
 
 <a href="https://raw.githubusercontent.com/sirredbeard/Awesome-UNIX/master/venn_diagram.png"><img src="https://raw.githubusercontent.com/sirredbeard/Awesome-UNIX/master/venn_diagram.png" alt="Venn Diagram" width="600" height="500"></a>
 
@@ -27,11 +27,11 @@ UNIX® was originally a research operating system developed at AT&T's Bell Labs.
 
 #### AT&T UNIX-Derived Descendants, e.g FreeBSD®
 
-The term UNIX also debatedbly encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since [re-implemented the AT&T code with code under open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution). The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX certified, they are technically UNIX-like, but share a unique direct link back to AT&T UNIX and newcomers like RedoxOS do not.
+The term UNIX also debatedbly encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since [re-implemented the AT&T code with code under open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution). The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX certified, they are technically Unix-like, but share a unique direct link back to AT&T UNIX and newcomers like RedoxOS do not.
 
-#### UNIX-Like Operating Systems, e.g. Linux®
+#### Unix-Like Operating Systems, e.g. Linux®
 
-For a variety of historical and legal reasons, there has also been a massive explosion of *UNIX-like* operating systems. MINIX®, for example, was created as a UNIX-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux® was created because Linus Torvalds, a college student, [wanted to run a UNIX-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own hardware. Linux® has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Android, Inc.® needed a kernel for their new namesake mobile operating system they borrowed one from Linux. Unix®-like operating systems implement some degree of the POSIX® standards and UNIX® principles but do not seek official UNIX® certification.
+For a variety of historical and legal reasons, there has also been a massive explosion of *Unix-like* operating systems. MINIX®, for example, was created as a Unix-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux® was created because Linus Torvalds, a college student, [wanted to run a Unix-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own hardware. Linux® has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Android, Inc.® needed a kernel for their new namesake mobile operating system they borrowed one from Linux. Unix®-like operating systems implement some degree of the POSIX® standards and UNIX® principles but do not seek official UNIX® certification.
 
 ----------
 
@@ -46,7 +46,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Solaris](https://www..com/solaris/solaris11/index.html)® - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
 #### [Get More macOS](#more-macos) <br>
-#### [Get More Solaris](#more-solaris)
+#### [Get More illumos](#more-illumos)
 
 ## AT&T UNIX-Derived Operating Systems ![Open Source][OSS Icon]
 
@@ -77,9 +77,9 @@ For a variety of historical and legal reasons, there has also been a massive exp
 #### [Get More UNIX](#more-unix)
 
 # Linux
-<big>The Most Popular *UNIX-Like* Operating System</big>
+<big>The Most Popular *Unix-Like* Operating System</big>
 
-## Most UNIX-Like Designed Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
+## Most Unix-Like Designed Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
 
 * [Devuan](https://devuan.org) - Devuan Linux is a fork of Debian without systemd from UNIX veterans with the goal of becoming the new go-to base distribution for Linux. XFCE is default desktop environment.
 	* [heads](https://heads.dyne.org/about.html) - heads is a live CD to connect securely over Tor, unlike Tails it does not rely on systemd or non-free software. awesome is default desktop environment.
@@ -95,7 +95,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Slackware](http://www.slackware.com) - Slackware is a Linux distribution created by Patrick Volkerding in 1993. Slackware aims for design stability and simplicity and to be the most "Unix-like" Linux distribution
 * [GuixSD](https://www.gnu.org/software/guix/) - GuixSD is an advanced distribution of the GNU operating system developed by the GNU Project —which respects the freedom of computer users.
 * [Linux From Scratch](http://www.linuxfromscratch.org/lfs/) - Linux From Scratch is a way to install a working Linux system by building all components of it manually. 
-* [Dragora](https://www.dragora.org/) - The Dragora project produces a libre, reliable, UNIX-like GNU/Linux distribution made from scratch.
+* [Dragora](https://www.dragora.org/) - The Dragora project produces a libre, reliable, Unix-like GNU/Linux distribution made from scratch.
 * [Trisquel](https://trisquel.info) - Trisquel GNU/Linux is a fully free operating system for home users, small enterprises and educational centers.
 * [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring suckless tools.
 * [Stali](https://sta.li) - stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
@@ -160,7 +160,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ### [Get more Linux](#more-linux)
 
-# Other UNIX-Like/Related Operating Systems
+# Other Unix-Like Operating Systems
 
 ## illumos® ![Open Source][OSS Icon]
 
@@ -168,7 +168,7 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 
 * [illumos](https://wiki.illumos.org/display/illumos/illumos+Home) - illumos is a free and open-source Unix operating system. It derives from OpenSolaris, which in turn derives from SVR4 UNIX and Berkeley Software Distribution (BSD). 
 	* [OpenIndiana](https://www.openindiana.org) - OpenIndiana is a free and open-source, Unix operating system derived from OpenSolaris and based on illumos. Developers forked OpenSolaris after Oracle Corporation discontinued it.
-	* [SmartOS](https://www.joyent.com/smartos) - SmartOS is a free and open-source SVR4 hypervisor, based on the UNIX operating system that combines OpenSolaris technology with Linux's KVM virtualization. Its core kernel contributed to illumos project.
+	* [SmartOS](https://www.joyent.com/smartos) - SmartOS is a free and open-source SVR4 hypervisor, based on the illumos operating system that combines OpenSolaris technology with Linux's KVM virtualization.
 	* [OmniOS](https://omniosce.org) - OmniOS builds on Illumos to make a complete operating system and provide users with a familiar, installable operating system with a minimal package set to ease regulatory compliance.
 	* [DilOS](http://www.dilos.org) - DilOS is an illumos-based platform featuring the Debian package manager (dpkg+apt).
 	* [Tribblix](http://tribblix.org) - Tribblix is an operating system created by Peter Tribble. Derived from OpenSolaris, OpenIndiana, and illumos, it blends a retro style with modern components.
@@ -176,9 +176,9 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 	
 #### [Get More illumos](#more-illumos)
 
-## Other UNIX-Like Operating Systems ![Open Source][OSS Icon]
+## Other Unix-Like Operating Systems ![Open Source][OSS Icon]
 
-* [Minix](http://www.minix3.org)® - Minix is a POSIX-compliant Unix-like computer operating system based on a microkernel architecture.
+* [Minix](http://www.minix3.org)® - Minix is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture.
 * [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008.
 * [Minoca OS](https://github.com/minoca/os) - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
 * [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free.
@@ -197,7 +197,7 @@ Plan 9 was developed by Bell Labs as the successor to UNIX and incorporated nove
 * [Inferno](http://www.vitanuova.com/inferno/)® - Inferno was an effort to commercialize Plan 9 as networking software, however like Plan 9 it remained obscure while it's ideas permeated into current operating systems. 
 * [Jehanne](http://jehanne.io) - Jehanne is a new distributed operating system designed for programmers. The core values that lead the development are simplicity and security. Jehanne is a fork of Harvey.
 
-## UNIX-Like Real Time Operating Systems ([RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system))
+## Unix-like Real Time Operating Systems ([RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system))
 
 A real-time operating system (RTOS) is an operating system (OS) intended to serve real-time applications that process data as it comes in, typically without buffer delays. An example of this in QNX which is used widely in cars and trucks.
 
@@ -262,7 +262,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ### UNIX Code/Emulation
 
-* [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems, including many old UNIX and UNIX-like.
+* [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems, including many old UNIX and Unix-like.
 * [AT&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT&T consumer UNIX.
 * [The UNIX Tree](http://minnie.tuhs.org/cgi-bin/utree.pl) -  Browse the source code and manuals of various old versions of Unix
 * [Unix History Repository](https://github.com/dspinellis/unix-history-repo) - The source code of the original UNIX through it's various versions implemented in git.
@@ -279,7 +279,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [nixCraft](https://www.cyberciti.biz) - NixCraft is an online community of new and seasoned Linux / Unix users.
 * [LWN](https://lwn.net) - LWN is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. 
 * [/r/unixporn](https://www.reddit.com/r/unixporn/) - A subreddit dedicated to NIX customization.
-* [DistroWatch](http://distrowatch.com) - DistroWatch is a website which provides news, popularity rankings, and other general information about various Linux distributions and Unix-like operating systems.
+* [DistroWatch](http://distrowatch.com) - DistroWatch is a website which provides news, popularity rankings, and other general information about various Linux distributions and operating systems.
 * IRC [freenode](https://webchat.freenode.net), see [#irchelp](http://www.irchelp.org) for more on IRC
 	* ##unixlove
 	* ##climagic
@@ -308,7 +308,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [The Linux Foundation](https://www.linuxfoundation.org)® - The Linux Foundation (LF) is dedicated to building sustainable ecosystems around open source projects to accelerate technology development and commercial adoption. The largest open source non-profit organization, it works to promote, protect, and advance Linux and collaborative development.
 * [FreeBSD Foundation](https://www.freebsdfoundation.org) - The FreeBSD Foundation is a non-profit organization dedicated to supporting and building the FreeBSD Project and community worldwide.
 
-### Notable Historic UNIX and UNIX-Like Operating Systems
+### Notable Historic UNIX and Unix-like Operating Systems
 
 * [Microsoft Xenix](https://en.wikipedia.org/wiki/Xenix) - Xenix is a discontinued version of the Unix operating system for various microcomputer platforms, licensed by Microsoft from AT&T Corporation in the late 1970s.
 * [BSD386](https://en.wikipedia.org/wiki/BSD/OS) - BSD/OS (originally called BSD/386 and sometimes known as BSDi) is a discontinued proprietary version of the BSD operating system developed by Berkeley Software Design, Inc. (BSDi).
@@ -348,7 +348,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX.
 
-# UNIX and UNIX-Like Hardware Vendors
+# UNIX and Unix-Like Hardware Vendors
 
 * [Apple](https://apple.com)® - macOS laptops and desktops, x86
 * [iXsystems](https://www.ixsystems.com/servers/)® - FreeBSD servers from the company that develops [TrueOS](https://www.trueos.org) and [FreeNAS](http://www.freenas.org), x86
