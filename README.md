@@ -341,7 +341,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [BSD386](https://en.wikipedia.org/wiki/BSD/OS) - BSD/OS (originally called BSD/386 and sometimes known as BSDi) is a discontinued proprietary version of the BSD operating system developed by Berkeley Software Design, Inc. (BSDi).
 * [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP) - NeXTSTEP is a discontinued object-oriented, multitasking operating system based on UNIX. It was developed by NeXT Computer in the late 1980s and early 1990s and was initially used for its range of proprietary workstation computers such as the NeXTcube.
 * [IRIX](https://en.wikipedia.org/wiki/IRIX)® - IRIX is a discontinued operating system developed by Silicon Graphics (SGI) to run natively on their MIPS workstations and servers. It is based on UNIX System V with BSD extensions. SGI's Indigo Magic™ Desktop for IRIX® is still [under active development](http://www.maxxinteractive.com/site/?page_id=2) for IRIX and Linux.
-* [BeOS](https://en.wikipedia.org/wiki/BeOS) - BeOS is an operating system for personal computers first developed by Be Inc. in 1991 built for digital media work with partial POSIX compatibility. An open source replacement, [Haiku](https://www.haiku-os.org), is under active development.
+* [BeOS](https://en.wikipedia.org/wiki/BeOS)® - BeOS is an operating system for personal computers first developed by Be Inc. in 1991 built for digital media work with partial POSIX® compatibility. An open source replacement, [Haiku](https://www.haiku-os.org), is under active development.
 * [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)) - Darwin is an open-source Unix operating system released by Apple, Inc. It is composed of code developed by Apple, as well as code derived from NeXTSTEP, BSD, Mach, and other free software projects.
 * [MkLinux](https://en.wikipedia.org/wiki/MkLinux) - MkLinux is an open source computer operating system started by the Open Group and Apple in 1996 to port Linux to Macintosh computers. Its last release was in 2002.
 * [CoLinux](https://en.wikipedia.org/wiki/Cooperative_Linux) - Cooperative Linux, abbreviated coLinux, was software which allowed Microsoft Windows and the Linux kernel to run simultaneously in parallel on the same machine.
@@ -449,13 +449,13 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * USENIX℠ is a servicemark of the Advanced Computing Systems Association in the United States and/or other countries.
 * O'Reilly Media is a trade name of O'Reilly Media, Inc. in the United States and/or other countries.
 * The OSI logo ![Open Source][OSS Icon] is a trademark of Open Source Initiative and is used [under OSI Trademark Guidelines](https://opensource.org/trademark-guidelines#Noncommercial_and_community_web_sites).
-* Joylent™ is a trademark of Joylent, Inc. in the United States and/or other countries
+* Joylent™ is a trademark of Joylent, Inc. in the United States and/or other countries.
 * IRIX®, SGI®, and Indigo Magic are trademarks or registered trademarks of Silicon Graphics, Inc. in the United States and/or other countries.
 * Docker® is a trademark or registered trademark of Docker, Inc. in the United States and/or other countries.
 * Rust™ is a trademark of the Mozilla Foundation, Inc.
 * IOS is a trademark or registered trademark of Cisco in the United States and other countries and is used by Apple, Inc. under license.
 * X Window System™ is a trademark of the Massachusetts Institute of Technology.
-* DEC™, DECnet™, VMS™, ULTRIX™, Digital™, VAX™ are trademarks of Digital Equipment Corporation.
+* DEC™, PDP-11™, DECnet™, DECstations™, VMS™, ULTRIX™, Digital™, VAX™ are trademarks of Digital Equipment Corporation.
 
 All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
 
