@@ -1,15 +1,17 @@
 # Awesome UNIX® 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# FAQ
+This project is not affiliated with, sponsored, or endorsed by The Open Group.
 
-###  What is UNIX?®
+# Frequently Asked Questions
+
+###  What is UNIX®?
 
 The greatest operating system ever invented you have probably never heard about whose genius design ideas now enable everything great you love. [More...](https://en.wikipedia.org/wiki/History_of_Unix)
 
 ### Why is UNIX® relevant today?
 
-The ideas behind UNIX®, a research operating system from AT&T in the 1960s, have evolved to form a set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. They exist on a continuum that includes certified UNIX®, projects descendanted from the original UNIX®, and Unix-like projects designed to be Unix-compatible. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
+The ideas behind UNIX®, a research operating system from AT&T in the 1960s, have evolved to form a set of core [computer science principles](https://en.wikipedia.org/wiki/Unix_philosophy) around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. They exist on a continuum that includes certified UNIX®, open source projects descendanted from the original AT&T UNIX®, and Unix-like projects designed to be Unix-compatible. [More...](https://en.wikipedia.org/wiki/Unix#Impact)
 
 ### Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX®-Like, and Linux®
 
@@ -17,21 +19,21 @@ The ideas behind UNIX®, a research operating system from AT&T in the 1960s, hav
 
 #### Commercial UNIX®
 
-UNIX® was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the [IEEE®](https://en.wikipedia.org/wiki/POSIX), and an official certification that can be obtained by companies for their commercial operating systems, this through a process administrated by [The Open Group®](https://www.opengroup.org/openbrand/register/). Among the commercial are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
+UNIX® was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the [IEEE®](https://en.wikipedia.org/wiki/POSIX), and official sets of certification that can be obtained by companies for their commercial operating systems, through a process administrated by The Open Group®. Among the [operating systems certified as UNIX](https://www.opengroup.org/openbrand/register/) are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
 
 #### "Unix Philosophy"
 
-"Unix philosophy" is a core set of computer science principles, first implemented in UNIX®, now codified in standards set forth by IEEE® and The Open Group®, and duplicated in dozens of UNIX®-like operating systems that emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators, across operating systems and platforms. This enables the rapid spread and development of new and better software. It goes hand in hand with [open source philosophy](https://opensource.org/osd-annotated).
+"Unix philosophy" is a core set of computer science principles, first implemented in UNIX®, now codified in standards set forth by IEEE® and The Open Group®, and duplicated in dozens of UNIX®-like operating systems that emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators, across numerous operating systems and platforms. This enables the rapid spread and development of new and better software. It goes hand in hand with [open source philosophy](https://opensource.org/osd-annotated).
 
 > "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface." - *Douglas McIlroy, former head of Bell Labs Computing Sciences Research Center*
 
-#### AT&T UNIX-Derived Descendants, e.g FreeBSD®
+#### AT&T UNIX®-Derived Descendants, e.g FreeBSD®
 
-The term UNIX also debatedbly encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since [re-implemented the AT&T code with code under open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution). The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX certified, they are technically Unix-like, but share a unique direct link back to AT&T UNIX and newcomers like RedoxOS do not.
+The term UNIX also debatedbly encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since [re-implemented the AT&T code with code under open source licenses](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution). The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX® certified, they are technically Unix-like, but share a unique direct link back to AT&T UNIX®, while newcomers like Redox OS do not.
 
 #### Unix-Like Operating Systems, e.g. Linux®
 
-For a variety of historical and legal reasons, there has also been a massive explosion of *Unix-like* operating systems. MINIX®, for example, was created as a Unix-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux® was created because Linus Torvalds, a college student, [wanted to run a Unix-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own hardware. Linux® has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Android, Inc.® needed a kernel for their new namesake mobile operating system they borrowed one from Linux. Unix®-like operating systems implement some degree of the POSIX® standards and UNIX® principles but do not seek official UNIX® certification.
+For a variety of historical and legal reasons, there has also been a massive explosion of *Unix-like* operating systems. MINIX®, for example, was created as a Unix-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux® was created because Linus Torvalds, a college student, [wanted to run a Unix-like operating system](https://www.cs.cmu.edu/~awb/linux.history.html) on his own hardware. Linux® has since gone on to be come the most popular Unix-like operating system. Twenty years later, when Android, Inc.® needed a kernel for their new namesake mobile operating system they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX® standards and Unix philosophy but do not seek official UNIX® certification.
 
 ----------
 
@@ -48,7 +50,9 @@ For a variety of historical and legal reasons, there has also been a massive exp
 #### [Get More macOS](#more-macos) <br>
 #### [Get More illumos](#more-illumos)
 
-## AT&T UNIX-Derived Operating Systems ![Open Source][OSS Icon]
+## AT&T UNIX®-Derived Operating Systems ![Open Source][OSS Icon]
+
+These operating systems, with the exception of Open Server 10, are not UNIX® certified by The Open Group.
 
 * [FreeBSD](https://www.freebsd.org)® - FreeBSD is a free and open-source Unix-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's package availability.
 	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix-like operating system based on FreeBSD with MATE as its default desktop environment.
@@ -71,6 +75,8 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ## UNIX-Certified Linux-Based Operating Systems
 
+While the vast majority of Linux distributions are not UNIX® certified by The Open Group, two actually are:
+
 * [K-UX](http://www.inspursystems.com/product/32-way-system/)® - K-UX is a Linux distribution based on CentOS produced by Inspur®, a Chinese multinational company specializing in information technology. 💰
 * [EulerOS](http://developer.huawei.com/ict/en/site-euleros)® -  EulerOS is a Linux distribution based on CentOS produced by Huawei®, a Chinese networking and telecommunications equipment and services company. 💰
 
@@ -79,7 +85,9 @@ For a variety of historical and legal reasons, there has also been a massive exp
 # Linux
 <big>The Most Popular *Unix-Like* Operating System</big>
 
-## Most Unix-Like Designed Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
+These operating systems are not UNIX® certified by The Open Group.
+
+## Most Unix-Like Engineered Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
 
 * [Devuan](https://devuan.org) - Devuan Linux is a fork of Debian without systemd from UNIX veterans with the goal of becoming the new go-to base distribution for Linux. XFCE is default desktop environment.
 	* [heads](https://heads.dyne.org/about.html) - heads is a live CD to connect securely over Tor, unlike Tails it does not rely on systemd or non-free software. awesome is default desktop environment.
@@ -119,7 +127,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Fedora](https://getfedora.org)® - Fedora is an Unix-like operating system based on the Linux kernel and GNU programs (a Linux distribution), developed by the community-supported Fedora Project and sponsored by the Red Hat company.
 * [CentOS](https://centos.org) - CentOS is a Linux distribution that attempts to provide a free, enterprise-class, community-supported computing platform functionally compatible with its upstream source, Red Hat Enterprise Linux.
 * [Magiea](https://www.mageia.org) - Mageia is a Linux based operating system, distributed as free and open source software. It is forked from the Mandriva Linux distribution.
-* [OpenSUSE](https://www.opensuse.org) - openSUSE formerly SUSE Linux and SuSE Linux Professional, is a Linux-based project and distribution sponsored by SUSE Linux GmbH and other companies.
+* [OpenSUSE](https://www.opensuse.org) - openSUSE formerly SUSE Linux and SuSE Linux Professional, is a Linux-based project and distribution sponsored by SUSE Linux and other companies.
 * [Arch](https://www.archlinux.org) - Arch Linux is a Linux distribution for computers based on x86-64 architectures.
 	* [Antergos](https://antergos.com) - Antergos is a Linux distribution based upon Arch Linux.
 	* [Manjaro](https://manjaro.org) - Manjaro Linux is an open source operating system for computers. It is a distribution of Linux based on the Arch Linux distribution.
@@ -161,6 +169,8 @@ For a variety of historical and legal reasons, there has also been a massive exp
 ### [Get more Linux](#more-linux)
 
 # Other Unix-Like Operating Systems
+
+These operating systems are not UNIX® certified by The Open Group.
 
 ## illumos® ![Open Source][OSS Icon]
 
@@ -212,7 +222,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 # Additional Resources
 
-## More UNIX
+## More UNIX®
 
 ### Disambiguation
 
@@ -383,7 +393,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * IEEE®, IEEE Standard 1003.1, and POSIX® are trademarks or registered trademarks of The Institute of Electrical and Electronics Engineers, Inc. in the United States and/or other countries.
 * Bell Labs® and Plan 9® are reademarks or registered trademarks of Alcatel-Lucent USA, Inc. in the United States and/or other countries.
 * Linux® is a registered trademark of Linus Torvalds in the United States and/or other countries.
-* AT&T® is a registered trademark of AT&T Intellectual Property II, LLC in the United States and/or other countries.
+* AT&T, the AT&T logo, AT&T slogans and other AT&T product/service names and logos are trademarks and service marks of AT&T Intellectual Property or AT&T affiliated company ("AT&T Marks").
 * AIX®, PowerPC®, and IBM® are trademarks or registered trademarks of IBM Corporation in the United States and/or other countries.
 * HP® and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC in the United States and/or other countries.
 * Illumos® is a registered trademark of Garrett D'Amore in the United States and/or other countries.
@@ -423,6 +433,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Joylent™ is a trademark of Joylent, Inc. in the United States and/or other countries
 * IRIX®, SGI®, and Indigo Magic are trademarks or registered trademarks of Silicon Graphics, Inc. in the United States and/or other countries.
 * Docker® is a trademark or registered trademark of Docker, Inc. in the United States and/or other countries.
+* Rust is a trademark of the Mozilla Foundation, Inc.
 
 All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
 
