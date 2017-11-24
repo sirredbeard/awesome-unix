@@ -310,7 +310,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [LWN](https://lwn.net) - LWN is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. 
 * [/r/unixporn](https://www.reddit.com/r/unixporn/) - A subreddit dedicated to NIX customization.
 * [DistroWatch](http://distrowatch.com) - DistroWatch is a website which provides news, popularity rankings, and other general information about various Linux distributions and operating systems.
-* IRC [freenode](https://webchat.freenode.net), see [#irchelp](http://www.irchelp.org) for more on IRC
+* IRC [freenode](https://webchat.freenode.net), see [#irchelp](http://www.irchelp.org) for more about IRC.
 	* ##unixlove
 	* ##climagic
 	* ##kernel
