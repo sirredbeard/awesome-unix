@@ -41,7 +41,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ## Certified UNIX® Operating Systems💰
 
-* [macOS](https://www.apple.com/macos/)® - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's personal computers.
+* [macOS](https://www.apple.com/macos/)® - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's personal computers. 
 * [AIX](https://www.ibm.com/power/operating-systems/aix)® - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
 * [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html)® - HP-UX is  Hewlett Packard Enterprise's proprietary implementation of the Unix operating system, based on UNIX System V.
 * [UnixWare](https://www.xinuos.com)® - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
@@ -138,11 +138,11 @@ These operating systems are not UNIX® certified by The Open Group.
 ## Mobile Linux® Distributions ![Open Source][OSS Icon]
 
 * [Android](https://source.android.com)™ - Android is a mobile operating system developed by Google®, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
-* [Chrome OS](https://en.wikipedia.org/wiki/Chrome_OS)™ - Chrome OS is an operating system designed by Google that is based on the Linux kernel and uses the Google Chrome web browser as its principal user interface.
-* [CopperheadOS](https://copperhead.co/android/)® - CopperheadOS is a source-available operating system for smartphones and tablet computers, based on the Android mobile platform. It is based on the official releases of the Android Open Source Project by Google, with added privacy and security features.💰
+* [Chrome OS](https://en.wikipedia.org/wiki/Chrome_OS)™ - Chrome OS is an operating system designed by Google that is based on the Linux kernel and uses the Google Chrome™ web browser as its principal user interface.
+* [CopperheadOS](https://copperhead.co/android/)® - CopperheadOS is a source-available operating system for smartphones and tablet computers, based on the Android mobile platform. It is based on the official releases of the Android Open Source Project by Google®, with added privacy and security features.💰
 * [LineageOS](https://lineageos.org) - LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.
 * [postmarketOS](https://postmarketos.org) - postmarketOS, is a free and open-source operating system under development primarily for smartphones, based on the lightweight Alpine Linux distribution.
-* [Mer](http://merproject.org) - Mer is a free and open-source software distribution, targeted at hardware vendors to serve as a middleware for Linux kernel-based mobile-oriented operating systems. It is a fork of [MeeGo](https://en.wikipedia.org/wiki/MeeGo).
+* [Mer](http://merproject.org) - Mer is a free and open-source software distribution, targeted at hardware vendors to serve as a middleware for Linux kernel-based mobile-oriented operating systems. It is a fork of [MeeGo](https://en.wikipedia.org/wiki/MeeGo)™.
 * [Sailfish OS](https://sailfishos.org) - Sailfish OS is a general purpose Linux used commonly as mobile operating system combining the Linux kernel, the open-source Mer core stack of middleware, a proprietary UI, and other third-party components.
 * [Tizen](https://www.tizen.org)™ - Tizen is an open source, standards-based software platform for multiple device categories, including smartphones, tablets, TVs, netbooks and automotive infotainment platforms.
 
@@ -171,6 +171,12 @@ These operating systems are not UNIX® certified by The Open Group.
 # Other Unix-Like Operating Systems
 
 These operating systems are not UNIX® certified by The Open Group.
+
+## iOS
+
+* [iOS](https://www.apple.com/ios/ios-11/)® - iOS is a mobile operating system created and developed by Apple Inc. with a larged shared code base with macOS.
+	* [watchOS](https://www.apple.com/watchos/)® - watchOS is the mobile operating system of the Apple Watch®, developed by Apple Inc. It is based on the iOS operating system.
+	* [tvOS](https://developer.apple.com/tvos/)™ - tvOS is an operating system developed by Apple Inc. for the fourth-generation and later Apple TV digital media player. It is based on the iOS operating system.
 
 ## illumos® ![Open Source][OSS Icon]
 
@@ -334,7 +340,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Microsoft Xenix](https://en.wikipedia.org/wiki/Xenix)® - Xenix is a discontinued version of the Unix operating system for various microcomputer platforms, licensed by Microsoft® from AT&T in the late 1970s.
 * [BSD386](https://en.wikipedia.org/wiki/BSD/OS) - BSD/OS (originally called BSD/386 and sometimes known as BSDi) is a discontinued proprietary version of the BSD operating system developed by Berkeley Software Design, Inc. (BSDi).
 * [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP) - NeXTSTEP is a discontinued object-oriented, multitasking operating system based on UNIX. It was developed by NeXT Computer in the late 1980s and early 1990s and was initially used for its range of proprietary workstation computers such as the NeXTcube.
-* [IRIX](https://en.wikipedia.org/wiki/IRIX) - IRIX is a discontinued operating system developed by Silicon Graphics (SGI) to run natively on their MIPS workstations and servers. It is based on UNIX System V with BSD extensions. SGI's Indigo Magic™ Desktop for IRIX® is still [under active development](http://www.maxxinteractive.com/site/?page_id=2) for IRIX and Linux.
+* [IRIX](https://en.wikipedia.org/wiki/IRIX)® - IRIX is a discontinued operating system developed by Silicon Graphics (SGI) to run natively on their MIPS workstations and servers. It is based on UNIX System V with BSD extensions. SGI's Indigo Magic™ Desktop for IRIX® is still [under active development](http://www.maxxinteractive.com/site/?page_id=2) for IRIX and Linux.
 * [BeOS](https://en.wikipedia.org/wiki/BeOS) - BeOS is an operating system for personal computers first developed by Be Inc. in 1991 built for digital media work with partial POSIX compatibility. An open source replacement, [Haiku](https://www.haiku-os.org), is under active development.
 * [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)) - Darwin is an open-source Unix operating system released by Apple, Inc. It is composed of code developed by Apple, as well as code derived from NeXTSTEP, BSD, Mach, and other free software projects.
 * [MkLinux](https://en.wikipedia.org/wiki/MkLinux) - MkLinux is an open source computer operating system started by the Open Group and Apple in 1996 to port Linux to Macintosh computers. Its last release was in 2002.
@@ -390,6 +396,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html)® - Linux and Solaris servers, SPARC®
 * [Inspur](http://www.inspursystems.com/product/32-way-system/)® - Linux servers, x86
 * [Huawei](http://developer.huawei.com/ict/en/site-euleros)™ - Linux servers, x86
+* [Google](http://www.google.com/chromebook/)® - Chrome OS laptops and desktops, ARM and x86
 * [Ubuntu-Certified Hardware](https://certification.ubuntu.com)
 
 -----
@@ -407,7 +414,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Linux® is a registered trademark of Linus Torvalds in the United States and/or other countries.
 * AT&T, the AT&T logo, AT&T slogans and other AT&T product/service names and logos are trademarks and service marks of AT&T Intellectual Property or AT&T affiliated company ("AT&T Marks").
 * AIX®, PowerPC®, and IBM® are trademarks or registered trademarks of IBM Corporation in the United States and/or other countries.
-* HP®, HP-UX®, ULTRIX, Digital Equipment Corporation, are trademarks or registered trademarks of HP Hewlett Packard Group, LLC in the United States and/or other countries.
+* HP® and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC in the United States and/or other countries.
 * Illumos® is a registered trademark of Garrett D'Amore in the United States and/or other countries.
 * Xinuos® is a registered trademark of Xinuos, Inc. in the United States and/or other countries.
 * Oracle, Solaris, and Sun Microsystems are trademarks or registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners
@@ -445,7 +452,10 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Joylent™ is a trademark of Joylent, Inc. in the United States and/or other countries
 * IRIX®, SGI®, and Indigo Magic are trademarks or registered trademarks of Silicon Graphics, Inc. in the United States and/or other countries.
 * Docker® is a trademark or registered trademark of Docker, Inc. in the United States and/or other countries.
-* Rust is a trademark of the Mozilla Foundation, Inc.
+* Rust™ is a trademark of the Mozilla Foundation, Inc.
+* IOS is a trademark or registered trademark of Cisco in the United States and other countries and is used by Apple, Inc. under license.
+* X Window System™ is a trademark of the Massachusetts Institute of Technology.
+* DEC™, DECnet™, VMS™, ULTRIX™, Digital™, VAX™ are trademarks of Digital Equipment Corporation.
 
 All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
 
