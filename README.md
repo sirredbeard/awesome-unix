@@ -149,7 +149,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Sailfish OS](https://sailfishos.org) - Sailfish OS is a general purpose Linux used commonly as mobile operating system combining the Linux kernel, the open-source Mer core stack of middleware, a proprietary UI, and other third-party components.
 * [Tizen](https://www.tizen.org)™ - Tizen is an open source, standards-based software platform for multiple device categories, including smartphones, tablets, TVs, netbooks and automotive infotainment platforms.
 
-## Novel Linux® Distributions/Related Projects 
+## Unique Linux® Distributions/Related Projects 
 
 * [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen®, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
 * [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database. ![Open Source][OSS Icon]
