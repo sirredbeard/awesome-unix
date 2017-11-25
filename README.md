@@ -312,7 +312,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [DistroWatch](http://distrowatch.com) - DistroWatch is a website which provides news, popularity rankings, and other general information about various Linux distributions and operating systems.
 * IRC [freenode](https://webchat.freenode.net), see [#irchelp](http://www.irchelp.org) for more about IRC.
 	* ##unixlove
-	* ##climagic
+	* #climagic
 	* ##kernel
 	* #debian
 	* ##linux
