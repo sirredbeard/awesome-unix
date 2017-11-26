@@ -150,6 +150,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Sailfish OS](https://sailfishos.org) - Sailfish OS is a general purpose Linux used commonly as mobile operating system combining the Linux kernel, the open-source Mer core stack of middleware, a proprietary UI, and other third-party components.
 * [Tizen](https://www.tizen.org)™ - Tizen is an open source, standards-based software platform for multiple device categories, including smartphones, tablets, TVs, netbooks and automotive infotainment platforms.
 * [WebOS](https://en.wikipedia.org/wiki/WebOS) - is a Linux kernel-based multitasking operating system for smart devices that has been was first used as a mobile operating system on Palm devices and introduced a number of UX/design metaphors later duplicated in iOS and Android. Initially developed by Palm, then acquired by HP, and now owned by Qualcomm, it is now commonly found on LG-brand smart TVs.
+* [LuneOS](http://www.webos-ports.org/wiki/Main_Page) - LuneOS is a mobile operating system based on the Linux kernel and currently developed by WebOS Ports community. LuneOS is the open source successor for Palm/HP webOS where the user interface is rebuilt from scratch by using the latest technologies available and installs on any devices compatible with CyanogenMod.
 
 ## Unique Linux® Distributions/Related Projects 
 
@@ -469,6 +470,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Intel™ is a trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.
 * Palm is a registered trademark of Wide Progress Global Limited.
 * LG is a registered trademark of LG Corp.
+* Cyanogenmod is a registered trademark of Cyanogenmod, LLC.
 
 All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
 
