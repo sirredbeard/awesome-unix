@@ -149,6 +149,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Mer](http://merproject.org) - Mer is a free and open-source software distribution, targeted at hardware vendors to serve as a middleware for Linux kernel-based mobile-oriented operating systems. It is a fork of [MeeGo](https://en.wikipedia.org/wiki/MeeGo)™.
 * [Sailfish OS](https://sailfishos.org) - Sailfish OS is a general purpose Linux used commonly as mobile operating system combining the Linux kernel, the open-source Mer core stack of middleware, a proprietary UI, and other third-party components.
 * [Tizen](https://www.tizen.org)™ - Tizen is an open source, standards-based software platform for multiple device categories, including smartphones, tablets, TVs, netbooks and automotive infotainment platforms.
+* [WebOS](https://en.wikipedia.org/wiki/WebOS) - is a Linux kernel-based multitasking operating system for smart devices that has been was first used as a mobile operating system on Palm devices and introduced a number of UX/design metaphors later duplicated in iOS and Android. Initially developed by Palm, then acquired by HP, and now owned by Qualcomm, it is now commonly found on LG-brand smart TVs.
 
 ## Unique Linux® Distributions/Related Projects 
 
@@ -466,6 +467,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * DEC™, PDP-11™, DECnet™, DECstations™, VMS™, ULTRIX™, Digital™, Digital UNIX™, VAX™ are trademarks of Digital Equipment Corporation.
 * OPNsense® is a trademark or registered trademark of Deciso B.V.
 * Intel™ is a trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.
+* Palm is a registered trademark of Wide Progress Global Limited.
+* LG is a registered trademark of LG Corp.
 
 All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
 
