@@ -351,6 +351,10 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Project Athena](https://en.wikipedia.org/wiki/Project_Athena) - Project Athena was a joint project of MIT, Digital Equipment Corporation, and IBM to produce a campus-wide distributed computing environment for educational use. The project spawned many technologies that are widely used today, such as the [X Window System](https://en.wikipedia.org/wiki/X_Window_System) and [Kerberos](https://en.wikipedia.org/wiki/Kerberos_(protocol)). Athena was originally based on BSD, followed by IRIX, and then Linux. The Athena tools live in an MIT student project, [Debathena](https://debathena.mit.edu).
 * [IRIX](https://en.wikipedia.org/wiki/IRIX)® - IRIX is a discontinued operating system developed by Silicon Graphics (SGI) to run natively on their MIPS workstations and servers. It is based on UNIX System V with BSD extensions. SGI's Indigo Magic™ Desktop for IRIX® is still [under active development](http://www.maxxinteractive.com/site/?page_id=2) for IRIX and Linux.
 * [BeOS](https://en.wikipedia.org/wiki/BeOS)® - BeOS is an operating system for personal computers first developed by Be Inc. in 1991 built for digital media work with partial POSIX® compatibility. An open source replacement, [Haiku](https://www.haiku-os.org), is under active development.
+* [NEWS-OS](https://en.wikipedia.org/wiki/Sony_NEWS#NEWS-OS) - NEWS-OS was an operating system from Sony based on [BSD then System V](http://archive.is/a5hbc) that powered a line of series of Unix workstations sold during the late 1980s and 1990s. The first NEWS machine workstations appeared in Japan in January 1987 and was conceived as a desktop replacement for the VAX series. NEWS-OS was notable for having advanced TCP/IP networking features and being the first development tool for the new Sony Playstation.
+	* [Sony History Page](http://archive.is/u8x0l)
+	* [Interview](http://archive.is/ee7wV) with project lead, Toshihide Doi.
+	* [Interview](http://www.bsdnow.tv/episodes/2015_12_30-the_bsd_black_box) with Alex Rosenberg, former Manager of Platform Architecture at Sony.
 * [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)) - Darwin is an open-source Unix operating system released by Apple, Inc. It is composed of code developed by Apple, as well as code derived from NeXTSTEP, BSD, Mach, and other free software projects.
 * [MkLinux](https://en.wikipedia.org/wiki/MkLinux) - MkLinux is an open source computer operating system started by the Open Group and Apple in 1996 to port Linux to Macintosh computers. Its last release was in 2002.
 * [CoLinux](https://en.wikipedia.org/wiki/Cooperative_Linux) - Cooperative Linux, abbreviated coLinux, was software which allowed Microsoft Windows and the Linux kernel to run simultaneously in parallel on the same machine.
@@ -472,6 +476,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Palm is a registered trademark of Wide Progress Global Limited.
 * LG is a registered trademark of LG Corp.
 * Cyanogenmod is a registered trademark of Cyanogenmod, LLC.
+* Sony, NEWS-OS, and NEWS are trademarks or registered trademarks of Sony Corporation in the United States and/or other countries.
+* PlayStation® is a trademarks or registered trademark of Sony Interactive Entertainment Inc. in the United States and/or other countries.
 
 All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
 
