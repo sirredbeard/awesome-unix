@@ -91,11 +91,11 @@ These operating systems are not UNIX® certified by The Open Group.
 
 ## Most Unix-Like Engineered Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
 
-* [Devuan](https://devuan.org) - Devuan Linux is a fork of Debian without systemd from UNIX veterans with the goal of becoming the new go-to base distribution for Linux. XFCE is default desktop environment.
+* [Devuan](https://devuan.org) - Devuan Linux is a fork of Debian without systemd from Unix veterans with the goal of becoming the new go-to base distribution for Linux. XFCE is default desktop environment.
 	* [heads](https://heads.dyne.org/about.html) - heads is a live CD to connect securely over Tor, unlike Tails it does not rely on systemd or non-free software. awesome is default desktop environment.
 	* [Gnuinos](http://gnuinos.org/) - Gnuinos is a lightweight Linux libre distro based on Devuan with no non-free software featuring OpenBox desktop.
-	* [Dynebolic Linux](https://www.dyne.org/software/dynebolic/) - Dyne:bolic is a Free Software Foundation-approved Linux libre distro for media activists, artists and creatives. 
-* [Gentoo](https://www.gentoo.org)® - Gentoo is a Linux distribution built using the Portage package management system. Unlike a binary software distribution, the source code is compiled locally.
+	* [Dynebolic Linux](https://www.dyne.org/software/dynebolic/) - Dyne:bolic is a Free Software Foundation-approved Linux-libre distribution for media activists, artists, and creatives. 
+* [Gentoo](https://www.gentoo.org)® - Gentoo is a Linux distribution built using the Portage package management system. Unlike a binary software distribution, the source code is compiled locally at the time of installation. Gentoo is known for it's speed.
 	* [Funtoo](https://www.funtoo.org/Welcome) - Funtoo Linux is a Linux-based operating system that is a variant of Gentoo Linux.
 	* [Redcore](https://redcorelinux.org) - Redcore Linux is a distribution based on Gentoo Linux that aims to be a very quick way to install a pure Gentoo Linux system without spending hours or days compiling from source code.
 * [Alpine](https://alpinelinux.org) - Alpine Linux is an independent, non-commercial, general purpose Linux distribution designed for power users who appreciate security, simplicity and resource efficiency.
@@ -197,7 +197,7 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 
 ## More Unix-Like Operating Systems ![Open Source][OSS Icon]
 
-* [Minix](http://www.minix3.org)® - Minix is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture.
+* [Minix](http://www.minix3.org)® - Minix® is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture. In 2017 it was learned that Intel™ used a version of MINIX on many of it's x86-series processors, perhaps making it the most popular Unix-like operating system.
 * [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008.
 * [Minoca OS](https://github.com/minoca/os) - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
 * [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free.
@@ -238,6 +238,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Differentiating UNIX and Linux](https://www.ibm.com/developerworks/aix/library/au-unix-difflinux.html) - From IBM
 * [What, a real UNIX®?](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/what-a-real-unix.html) - Excerpt from [Explaining BSD](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/index.html).
 * [10 differences between Linux and BSD](https://www.techrepublic.com/blog/10-things/10-differences-between-linux-and-bsd/) - From Tech Republic 📰
+* [All About Linux 2008: Aren't UNIX and Linux the same thing? Yes and no.](https://techcrunch.com/2008/03/24/arent-unix-and-linux-the-same-thing-yes-and-no/) - From Techcrunch 📰
 	
 ### UNIX® History
 
@@ -292,9 +293,9 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 
 ### UNIX® Code/Emulation
 
-* [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems, including many old UNIX and Unix-like.
+* [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems, including many old UNIX and Unix-like operating systems.
 * [AT&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT&T UNIX.
-* [The UNIX Tree](http://minnie.tuhs.org/cgi-bin/utree.pl) -  Browse the source code and manuals of various old versions of Unix
+* [The UNIX Tree](http://minnie.tuhs.org/cgi-bin/utree.pl) -  Browse the source code and manuals of various old versions of Unix.
 * [Unix History Repository](https://github.com/dspinellis/unix-history-repo) - The source code of the original UNIX through it's various versions implemented in git.
 
 ### UNIX®/POSIX® Technical Standards
@@ -350,7 +351,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)) - Darwin is an open-source Unix operating system released by Apple, Inc. It is composed of code developed by Apple, as well as code derived from NeXTSTEP, BSD, Mach, and other free software projects.
 * [MkLinux](https://en.wikipedia.org/wiki/MkLinux) - MkLinux is an open source computer operating system started by the Open Group and Apple in 1996 to port Linux to Macintosh computers. Its last release was in 2002.
 * [CoLinux](https://en.wikipedia.org/wiki/Cooperative_Linux) - Cooperative Linux, abbreviated coLinux, was software which allowed Microsoft Windows and the Linux kernel to run simultaneously in parallel on the same machine.
-* [ULTRIX](https://en.wikipedia.org/wiki/Ultrix) - ULTRIX is the brand name of Digital Equipment Corporation's discontinued native UNIX operating systems for the PDP-11, VAX, and DECstations.
+* [ULTRIX](https://en.wikipedia.org/wiki/Ultrix)® - ULTRIX is the brand name of Digital Equipment Corporation's discontinued native UNIX operating systems for the PDP-11, VAX, and DECstations.
+* [Tru64 UNIX](https://en.wikipedia.org/wiki/Tru64_UNIX)® - Tru64 UNIX® is a discontinued 64-bit UNIX® operating system for the Alpha® platform, currently owned by HP®. Previously, Tru64 UNIX® was a product of Compaq® and before that DEC™, where it was known as Digital UNIX™. It was unusual among commercial UNIX implementations as it is built on top of the [Mach kernel](https://en.wikipedia.org/wiki/Mach_(kernel)) like macOS.®
 
 ## More macOS®
 
@@ -420,7 +422,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Linux® is a registered trademark of Linus Torvalds in the United States and/or other countries.
 * AT&T, the AT&T logo, AT&T slogans and other AT&T product/service names and logos are trademarks and service marks of AT&T Intellectual Property or AT&T affiliated company ("AT&T Marks").
 * AIX®, PowerPC®, and IBM® are trademarks or registered trademarks of IBM Corporation in the United States and/or other countries.
-* HP® and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC in the United States and/or other countries.
+* HP®, Tru64®, and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC in the United States and/or other countries.
 * illumos® is a registered trademark of Garrett D'Amore in the United States and/or other countries.
 * Xinuos® is a registered trademark of Xinuos, Inc. in the United States and/or other countries.
 * Oracle, Solaris, and Sun Microsystems are trademarks or registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners
@@ -461,8 +463,9 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * Rust™ is a trademark of the Mozilla Foundation, Inc.
 * IOS is a trademark or registered trademark of Cisco in the United States and other countries and is used by Apple, Inc. under license.
 * X Window System™, Project Athena™, Athena™, and Kerbos™ are trademarks of the Massachusetts Institute of Technology.
-* DEC™, PDP-11™, DECnet™, DECstations™, VMS™, ULTRIX™, Digital™, VAX™ are trademarks of Digital Equipment Corporation.
+* DEC™, PDP-11™, DECnet™, DECstations™, VMS™, ULTRIX™, Digital™, Digital UNIX™, VAX™ are trademarks of Digital Equipment Corporation.
 * OPNsense® is a trademark or registered trademark of Deciso B.V.
+* Intel™ is a trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.
 
 All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
 
