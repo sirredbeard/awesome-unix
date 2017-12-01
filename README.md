@@ -54,10 +54,10 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 These operating systems, with the exception of Open Server 10, are not UNIX® certified by The Open Group.
 
-* [FreeBSD](https://www.freebsd.org)® - FreeBSD is a free and open-source Unix-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's package availability.
-	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix-like operating system based on FreeBSD with MATE as its default desktop environment.
-	* [TrueOS](https://www.trueos.org)® - TrueOS (formerly PC-BSD or PCBSD) is a Unix-like, desktop-oriented operating system built upon the most recent releases of FreeBSD. Features Lumina desktop environment.
-	* [MidnightBSD](http://www.midnightbsd.org) - MidnightBSD is a free Unix-like, desktop-oriented operating system based on FreeBSD 6.1 and borrowing heavily from the NeXTSTEP graphical user interface.
+* [FreeBSD](https://www.freebsd.org)® - FreeBSD is a free and open-source Unix®-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's software package availability and speed.
+	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix®-like operating system based on FreeBSD with MATE as its default desktop environment.
+	* [TrueOS](https://www.trueos.org)® - TrueOS (formerly PC-BSD or PCBSD) is a Unix®-like, desktop-oriented operating system built upon the most recent releases of FreeBSD. TrueOS features the Lumina desktop environment which is available on other UNIX® operating systems.
+	* [MidnightBSD](http://www.midnightbsd.org) - MidnightBSD is a free Unix®-like, desktop-oriented operating system based on FreeBSD 6.1 that borrows heavily from the NeXTSTEP graphical user interface.
 	* [PacBSD](https://pacbsd.org) - A lightweight and flexible FreeBSD distribution that implements the Pacman package manager from Arch Linux.
 	* [HardendedBSD](https://hardenedbsd.org) - HardenedBSD is a security-enhanced fork of FreeBSD. The HardenedBSD Project is implementing many exploit mitigation and security technologies on top of FreeBSD.
 	* [FreeNAS](http://www.freenas.org)® - FreeNAS is a free and open-source network-attached storage (NAS) software based on FreeBSD and the OpenZFS file system.
@@ -380,6 +380,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 ## More BSD
 
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [allbsd.org](https://www.allbsd.org) - allbsd.org aims to support open source developers providing resources including web space, remote shell account service, and so on.
 * [MeetBSD](https://www.meetbsd.com) - MeetBSD is an annual event gathering of users and developers of the BSD operating systems family.
 * [BSD v. Linux](https://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
 * [A Narrative History of BSD](https://www.youtube.com/watch?v=DEEr6dT-4uQ) - By Kirk McKusick, USENIX℠ Board Member, at MeetBSD California (2014). 📼
