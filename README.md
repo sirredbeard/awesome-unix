@@ -434,7 +434,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * HP®, Tru64®, and HP-UX® are trademarks or registered trademarks of HP Hewlett Packard Group, LLC in the United States and/or other countries.
 * illumos® is a registered trademark of Garrett D'Amore in the United States and/or other countries.
 * Xinuos® is a registered trademark of Xinuos, Inc. in the United States and/or other countries.
-* Oracle, Solaris, and Sun Microsystems are trademarks or registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners
+* Oracle, Java, Solaris, Sun Microsystems and SunOS are registered trademarks of Oracle and/or its affiliates.
 * Slackware is a trademark of Patrick Volkerding in the United States and/or other countries.
 * Google®, Chrome OS™, and Android™ are registered trademarks of Alphabet, Inc. in the United States and/or other countries.
 * IXsystems®, TrueOS®, BSDi, Berkeley Software Design, Inc., and FreeNAS® are trademarks or registered trademarks of IXsystems, Inc. in the United States and/or other countries.
