@@ -103,7 +103,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Void](https://www.voidlinux.eu) - Void is a general purpose operating system, based on the monolithic Linux kernel, Features XBPS packaging system.
 * [Cucumber](http://cucumberlinux.com) - Cucumber Linux aims to provide a Linux distribution that is usable as an every day, general purpose operating system. It aims to do this in as minimalistic a way as possible and in a way that follows the Unix Philosophy. 
 * [Slackware](http://www.slackware.com) - Slackware is a Linux distribution created by Patrick Volkerding in 1993. Slackware aims for design stability and simplicity and to be the most "Unix-like" Linux distribution.
-* [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution that currently installs from an existing Linux installation. It allows the user to select a preferred init at boot time and install Linux packages from multiple distributions at the same time. The aim is to enjoy the benefits of various other Linux distributions available simultaneously and transparently. ![Open Source][OSS Icon].
+* [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution that currently installs from an existing Linux installation, allowing the user to select a preferred init at boot time and install Linux packages from multiple distributions at the same time.
 * [GuixSD](https://www.gnu.org/software/guix/) - GuixSD is an advanced distribution of the GNU operating system developed by the GNU Project —which respects the freedom of computer users.
 * [Linux From Scratch](http://www.linuxfromscratch.org/lfs/) - Linux From Scratch is a way to install a working Linux system by building all components of it manually. 
 * [Dragora](https://www.dragora.org/) - The Dragora project produces a libre, reliable, Unix-like GNU/Linux distribution made from scratch.
@@ -406,7 +406,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Oracle](https://www.oracle.com/servers/index.html)® - Linux and Solaris servers, x86 and SPARC
 * [Dell](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us)® - Linux laptops, desktops, and servers; x86
 * [IBM](https://www.ibm.com/linuxone)® - Linux and AIX servers, x86 and RISC
-* [Lenovo](https://support.lenovo.com/us/en/solutions/pd031426) - Linux laptops, desktops, and servers; x86
+* [Lenovo](https://support.lenovo.com/us/en/solutions/pd031426) - Linux laptops, desktops, and servers, x86
 * [Raptor Engineering](https://raptorcs.com/TALOSII/)® - Linux PowerPC® workstation
 * [PowerPC Notebook](https://www.powerpc-notebook.org/) - Linux laptop with PowerPC architecture
 * [StationX](https://stationx.rocks) - Linux laptops and desktops, x86
