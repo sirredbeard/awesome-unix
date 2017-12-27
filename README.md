@@ -1,7 +1,7 @@
 # Awesome UNIX® 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This project is not affiliated with, sponsored, or endorsed by The Open Group.
+This list is an exploration of the world of UNIX®, including UNIX history, the relevance of UNIX today, and lists select awesome UNIX and UNIX-like projects. This list also contains resources for UNIX standards, programming, communities, and free software. *This project is not affiliated with, sponsored, or endorsed by The Open Group.*
 
 # Table of Contents
 
@@ -380,6 +380,8 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 	* ##linux
 	* #macosx
 	* #devuan
+	* #slackware
+	* #illumos
 * IRC [Snoonet](https://kiwiirc.com/nextclient/?settings=wnuYl5a8fLp)
 	* #linuxmasterrace
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
