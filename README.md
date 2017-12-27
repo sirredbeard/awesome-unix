@@ -3,6 +3,59 @@
 
 This project is not affiliated with, sponsored, or endorsed by The Open Group.
 
+# Table of Contents
+
+- [Frequently Asked Questions](#frequently-asked-questions)
+	- What is UNIX®?
+	- Why is UNIX® relevant today?
+	- Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX®-Like, and Linux®
+	- Commercial UNIX®
+	- "Unix Philosophy"
+	- AT&T UNIX®-Derived Descendants, e.g FreeBSD®
+	- Unix®-Like Operating Systems, e.g. Linux®
+- [*NIXes](#nixes)
+	- Certified UNIX® Operating Systems
+	- AT&T UNIX®-Derived Operating Systems
+		- FreeBSD
+		- OpenBSD
+		- NetBSD...
+- [Linux®](#linux)
+	- Most Unix®-Like Engineered Linux
+	- Popular Commercial Linux® Distributions
+	- Popular Non-Commercial Linux® Distributions
+	- Mobile Linux® Distributions
+	- Unique Linux® Distributions/Related Projects
+	- Embedded/IoT-Focused Linux® Distributions
+- [Illumos®](#illumos)
+	- OpenIndiana
+	- SmartOS
+	- OmniOS...
+- [More Unix®-Like Operating Systems](#more-unix-like-operating-systems)
+	- MINIX
+	- Redox
+	- Haiku...
+- [Plan 9® Derivatives](#plan-9-derivatives)
+	- 9front...
+- [Unix®-like Real Time Operating Systems](#unix-like-real-time-operating-systems)
+- [Additional Resources](#additional-resources)
+	- UNIX® v. Unix/*NIX Disambiguation
+	- UNIX® History
+	- "Unix Philosophy"
+	- Introductory UNIX® Skills
+	- Introductory Programming Skills
+	- UNIX® Code/Emulation
+	- UNIX®/POSIX® Technical Standards
+	- Community
+	- Free Software and Open Source Movements
+	- UNIX®/Linux®-Related Trade Groups
+	- Notable Historic UNIX® and Unix®-like Operating Systems
+	- More macOS®
+	- More illumos®
+	- More BSD
+	- More Linux®
+- [UNIX® and Unix®-Like Hardware Vendors](#unix-and-unix-like-hardware-vendors)
+- [Intellectual Property Notices](#intellectual-property-notices)
+
 # Frequently Asked Questions
 
 ###  What is UNIX®?
@@ -185,8 +238,8 @@ These operating systems are not UNIX® certified by The Open Group.
 	* [watchOS](https://www.apple.com/watchos/)® - watchOS is the mobile operating system of the Apple Watch®, developed by Apple Inc. It is based on the iOS operating system.
 	* [tvOS](https://developer.apple.com/tvos/)™ - tvOS is an operating system developed by Apple Inc. for the fourth-generation and later Apple TV digital media player. It is based on the iOS operating system.
 
-## illumos® ![Open Source][OSS Icon]
-
+## illumos 
+![Open Source][OSS Icon]
 Solaris® was originally a UNIX operating system developed jointly by Sun Microsystems® and AT&T® as a version of AT&T's UNIX System V Release 4. Sun continued development on Solaris and later obtained UNIX certification for Solaris. In 2004 Sun open-sourced much of the Solaris code base as OpenSolaris. Sun was acquired by Oracle in 2010 who discontinued formal support of the OpenSolaris project. OpenSolaris was forked and lives on as illumos.
 
 * [illumos](https://wiki.illumos.org/display/illumos/illumos+Home) - illumos is a free and open-source Unix operating system. It derives from OpenSolaris, which in turn derives from SVR4 UNIX and Berkeley Software Distribution (BSD). 
@@ -199,7 +252,8 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 	
 #### [Get More illumos](#more-illumos)
 
-## More Unix®-Like Operating Systems ![Open Source][OSS Icon]
+## More Unix-Like Operating Systems
+![Open Source][OSS Icon]
 
 * [Minix](http://www.minix3.org)® - Minix® is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture. In 2017 it was learned that Intel™ used a version of MINIX on many of it's x86-series processors, perhaps making it the most popular Unix-like operating system.
 * [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008.
@@ -210,9 +264,10 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 * [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software.
 * [OpenVMS](http://www.vmssoftware.com)™ - OpenVMS is a enterprise operating system known for it's reliability. It is the successor to the VMS Operating System and runs on DEC Alpha systems. OpenVMS has it's own software lineage that predates UNIX and [includes Windows NT](http://www.itprotoday.com/windows-client/windows-nt-and-vms-rest-story) but POSIX compatibility was added to OpenVMS in 1991.
 
-## Plan 9® Derivatives ![Open Source][OSS Icon]
+## Plan 9 Derivatives
+![Open Source][OSS Icon]
 
-Plan 9 was developed by Bell Labs as the successor to UNIX and incorporated novel ideas, such as a GUI and [distributed computing](https://en.wikipedia.org/wiki/Distributed_operating_system). Official development by Bell Labs has since halted but the code was re-released under the GPL and projects exist to build on Plan 9. Many Bell Labs employees still volunteer on these projects.
+Plan 9® was developed by Bell Labs as the successor to UNIX and incorporated novel ideas, such as a GUI and [distributed computing](https://en.wikipedia.org/wiki/Distributed_operating_system). Official development by Bell Labs has since halted but the code was re-released under the GPL and projects exist to build on Plan 9. Many Bell Labs employees still volunteer on these projects.
 
 * [9front](http://9front.org) - 9front is a fork of Plan 9 from Bell Labs by the People's Front of Cat-V. It is a next generation mushroom cloud computing platform for the 20th century. 
 * [9legacy](http://9legacy.org) - 9legacy is an experimental patch queue for Plan 9 from Bell Labs.
@@ -220,7 +275,8 @@ Plan 9 was developed by Bell Labs as the successor to UNIX and incorporated nove
 * [Inferno](http://www.vitanuova.com/inferno/)® - Inferno was an effort to commercialize Plan 9 as networking software, however like Plan 9 it remained obscure while it's ideas permeated into current operating systems. 
 * [Jehanne](http://jehanne.io) - Jehanne is a new distributed operating system designed for programmers. The core values that lead the development are simplicity and security. Jehanne is a fork of Harvey.
 
-## Unix®-like Real Time Operating Systems ([RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system))
+## Unix-like Real Time Operating Systems
+([RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system))
 
 A real-time operating system (RTOS) is an operating system (OS) intended to serve real-time applications that process data as it comes in, typically without buffer delays. An example of this in QNX which is used widely in cars and trucks.
 
@@ -244,7 +300,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [10 differences between Linux and BSD](https://www.techrepublic.com/blog/10-things/10-differences-between-linux-and-bsd/) - From Tech Republic 📰
 * [All About Linux 2008: Aren't UNIX and Linux the same thing? Yes and no.](https://techcrunch.com/2008/03/24/arent-unix-and-linux-the-same-thing-yes-and-no/) - From Techcrunch 📰
 	
-### UNIX® History
+### UNIX History
 
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start) - The Unix Heritage Wiki aims to collect the available historical documents of Unix into one central place so they can be studied by researchers and Unix enthusiasts alike.
 * [Unix History](https://www.levenez.com/unix/) - Éric Lévénez has produced a simplified diagram of UNIX history and collected several useful other UNIX historical resources.
@@ -394,7 +450,7 @@ A real-time operating system (RTOS) is an operating system (OS) intended to serv
 * [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX.
 
-# UNIX® and Unix®-Like Hardware Vendors
+# UNIX and Unix-Like Hardware Vendors
 
 * [Apple](https://apple.com)® - macOS laptops and desktops, x86
 * [iXsystems](https://www.ixsystems.com/servers/)® - FreeBSD servers from the company that develops [TrueOS](https://www.trueos.org) and [FreeNAS](http://www.freenas.org), x86
