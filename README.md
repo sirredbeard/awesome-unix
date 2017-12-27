@@ -3,7 +3,7 @@
 
 This list is an exploration of the world of UNIX®, including UNIX history, the relevance of UNIX today, and lists select awesome UNIX and UNIX-like projects. This list also contains resources for UNIX standards, programming, communities, and free software. *This project is not affiliated with, sponsored, or endorsed by The Open Group.*
 
-# Table of Contents
+# Contents
 
 - [Frequently Asked Questions](#frequently-asked-questions)
 	- What is UNIX®?
