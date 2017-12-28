@@ -317,7 +317,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 	* [Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
 	* [The Unix Philosophy in One Lesson](http://www.catb.org/~esr/writings/taoup/html/ch01s07.html)
 * [Program Design in the UNIX Environment](https://nymity.ch/sybilhunting/pdf/Pike1983a.pdf) 📄
-* [Bringing the Unix Philosophy to Big Data](https://www.youtube.com/watch?v=S0mviKhVmBI) - By Bryan Cantrill, CTO of Joylent, developer of illumos-based SmartOS, at FutureStack13 (2013). 📼
+* [Bringing the Unix Philosophy to Big Data](https://www.youtube.com/watch?v=S0mviKhVmBI) - By Bryan Cantrill, CTO of Joyent, developer of illumos-based SmartOS, at FutureStack13 (2013). 📼
 * [Do one thing, and do it well: 40 years of UNIX](https://techcrunch.com/2009/08/21/do-one-thing-and-do-it-well-40-years-of-unix/) 📰
 * [suckless Philosophy](https://suckless.org/philosophy) - suckless is the home of dwm, dmenu, and other quality software with a focus on simplicity, clarity, and frugality.
 
