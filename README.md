@@ -517,7 +517,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * Raptor Computing Systems® is a registered trademark of Timothy Pearson in the United States and/or other countries.
 * OpenVMS is a trademark or registered trademark of VMS Software, Inc. in the United States and/or other countries.
 * Fujistu® is a trademark or registered trademark of Fujitsu Limited. in the United States and/or other countries.
-* SPARC® is a trademark or registered trademarks of SPARC International, Inc. in the United States and/or other countries.
+* SPARC® is a trademark or registered trademark of SPARC International, Inc. in the United States and/or other countries.
 * Lenovo® is a trademark or registered trademark of Lenovo Group Ltd. in the United States and/or other countries.
 * USENIX℠ is a servicemark of the Advanced Computing Systems Association in the United States and/or other countries.
 * O'Reilly Media is a trade name of O'Reilly Media, Inc. in the United States and/or other countries.
@@ -530,7 +530,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * X Window System™, Project Athena™, Athena™, and Kerbos™ are trademarks of the Massachusetts Institute of Technology.
 * DEC™, PDP-11™, DECnet™, DECstations™, VMS™, ULTRIX™, Digital™, Digital UNIX™, VAX™ are trademarks of Digital Equipment Corporation.
 * OPNsense® is a trademark or registered trademark of Deciso B.V.
-* Intel™ is a trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.
+* Intel™ is a trademark of Intel Corporation or its subsidiaries in the U.S. and/or other countries.
 * Palm is a registered trademark of Wide Progress Global Limited.
 * LG is a registered trademark of LG Corp.
 * Cyanogenmod is a registered trademark of Cyanogenmod, LLC.
