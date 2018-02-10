@@ -310,6 +310,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [UNIX](https://archive.org/details/UNIX1985) - From "Computer Chronicles" TV Series (1985). 📼
 * [UNIX](https://archive.org/details/unix_2) - From "Computer Chronicles" TV Series (1989). 📼
 * [C and Unix at Bell Labs](https://www.youtube.com/watch?v=TUWt_StXKsY) - By Brian Kernighan at Vintage Computer Federation East 10 (2016). 📼
+* [Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD Important Milestones and Lessons Learned](https://www.youtube.com/watch?v=FbDebSinSQo) - By [dspinellis](https://github.com/dspinellis) at Fosdem 2018 📼
 
 ### "Unix Philosophy"
 
