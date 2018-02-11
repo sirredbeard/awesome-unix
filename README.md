@@ -159,11 +159,11 @@ These operating systems are not UNIX® certified by The Open Group.
 	* [Salix](https://www.salixos.org) - Salix is a Linux distribution based on Slackware that is simple, fast, and easy to use. Salix adds automated dependency resolution, a larger repository of applications, and a suite of native administration and configuration tools for both the GUI and the command line.
 * [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution that currently installs from an existing Linux installation, allowing the user to select a preferred init at boot time and install Linux packages from multiple distributions at the same time.
 * [GuixSD](https://www.gnu.org/software/guix/) - GuixSD is an advanced distribution of the GNU operating system developed by the GNU Project —which respects the freedom of computer users.
-* [Linux From Scratch](http://www.linuxfromscratch.org/lfs/) - Linux From Scratch is a way to install a working Linux system by building all components of it manually. 
+* [Linux From Scratch](http://www.linuxfromscratch.org/lfs/) - Linux From Scratch is a way to install a working Linux system by building and installing all components manually, including the bootloader, kernel, and user programs. 
 * [Dragora](https://www.dragora.org/) - The Dragora project produces a libre, reliable, Unix-like GNU/Linux distribution made from scratch.
 * [Trisquel](https://trisquel.info) - Trisquel GNU/Linux is a fully free operating system for home users, small enterprises, and educational centers.
-* [Morpheus](https://morpheus.2f30.org) - Linix distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring suckless tools.
-* [Stali](https://sta.li) - stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
+* [Morpheus](https://morpheus.2f30.org) - Linux distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring suckless tools.
+* [Stali](https://sta.li) - Stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
 * [OviOS](http://www.ovios.org) - OviOS is a distribution designed to easily deploy a Linux unified storage server. Written from scratch it is fully compatible with the Linux Standard Base.
 * [KNOPPIX](http://www.knopper.net/) - KNOPPIX is a Debian-based distribution that can be run entirely from a CD or USB on computers with minimal hardware specificiations. Replaces systemd in Debian with sysV and systemd-shim.
 * [Tiny Core Linux](https://en.wikipedia.org/wiki/Tiny_Core_Linux) - Tiny Core Linux (TCL) is a minimal Linux operating system focusing on providing a base system using BusyBox and FLTK, developed by Robert Shingledecker.
