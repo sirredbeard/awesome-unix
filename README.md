@@ -107,6 +107,11 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 These operating systems, with the exception of Open Server 10, are not UNIX® certified by The Open Group.
 
+* [OpenBSD](http://www.openbsd.org) - OpenBSD is a free and open-source Unix-like computer operating system descended from Berkeley Software Distribution (BSD), a Research Unix derivative developed at the University of California, Berkeley known for it's security and development discipline.
+	* [FuguIta](http://fuguita.org/?FuguIta) - FuguIta is an OpenBSD live CD featuring portable workplace, low hardware requirements, additional software, and partial support for Japanese. 
+	* [MirBSD](http://www.mirbsd.org) - Fork of OpenBSD that tracks OpenBSD base with a number of enhancements and modifications.
+* [NetBSD](https://www.netbsd.org)® - NetBSD is a free and open source Unix-like operating system that descends from Berkeley Software Distribution (BSD), a Research Unix derivative developed at the University of California, Berkeley known for it's wideranging platform support. 
+* [DragonflyBSD](https://www.dragonflybsd.org) - DragonFly BSD is a free and open source Unix-like operating system created as a fork of FreeBSD 4.8.
 * [FreeBSD](https://www.freebsd.org)® - FreeBSD is a free and open-source Unix®-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's software package availability and speed.
 	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix®-like operating system based on FreeBSD with MATE as its default desktop environment.
 	* [TrueOS](https://www.trueos.org)® - TrueOS (formerly PC-BSD or PCBSD) is a Unix®-like, desktop-oriented operating system built upon the most recent releases of FreeBSD. TrueOS features the Lumina desktop environment which is available on other UNIX® operating systems.
@@ -119,12 +124,6 @@ These operating systems, with the exception of Open Server 10, are not UNIX® ce
 	* [RaspBSD](http://www.raspbsd.org) - RaspBSD is a image of FreeBSD  that is preconfigured for Raspberry Pi Computers.
 	* [Open Server 10](https://www.xinuos.com/menu-products/openserver-10)® - Xinuos® OpenServer 10® is a 64-bit operating system based on the popular FreeBSD and designed to support business applications. 💰
 	* [NAS4Free](https://www.nas4free.org) - NAS4Free is an embedded Open Source NAS (Network-Attached Storage) distribution based on the latest FreeBSD releases.
-* [NetBSD](https://www.netbsd.org)® - NetBSD is a free and open source Unix-like operating system that descends from Berkeley Software Distribution (BSD), a Research Unix derivative developed at the University of California, Berkeley known for it's wideranging platform support.
-* [OpenBSD](http://www.openbsd.org) - OpenBSD is a free and open-source Unix-like computer operating system descended from Berkeley Software Distribution (BSD), a Research Unix derivative developed at the University of California, Berkeley known for it's security and development discipline.
-	* [FuguIta](http://fuguita.org/?FuguIta) - FuguIta is an OpenBSD live CD featuring portable workplace, low hardware requirements, additional software, and partial support for Japanese. 
-	* [MirBSD](http://www.mirbsd.org) - Fork of OpenBSD that tracks OpenBSD base with a number of enhancements and modifications.  
-* [DragonflyBSD](https://www.dragonflybsd.org) - DragonFly BSD is a free and open source Unix-like operating system created as a fork of FreeBSD 4.8.
-* [PureDarwin](http://www.puredarwin.org) - PureDarwin is a operating system based on the open-source components of Apple's macOS operating system, principally code derived from NeXTSTEP, BSD, Mach, and other software projects released under free software licenses.
 
 #### [Get More BSD](#more-bsd)
 
@@ -256,6 +255,7 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 
 * [Minix](http://www.minix3.org)® - Minix® is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture. In 2017 it was learned that Intel™ used a version of MINIX on many of it's x86-series processors, perhaps making it the most popular Unix-like operating system. ![Open Source][OSS Icon]
 * [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008. ![Open Source][OSS Icon]
+* [PureDarwin](http://www.puredarwin.org) - PureDarwin is a operating system based on the open-source components of Apple's macOS operating system, principally code derived from NeXTSTEP, BSD, Mach, and other software projects released under free software licenses.
 * [Minoca OS](https://github.com/minoca/os) - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
 * [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free. ![Open Source][OSS Icon]
 * [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html) - GNU Hurd is the multiserver microkernel written as part of GNU. It has been under development since 1990 by the GNU Project of the Free Software Foundation, designed as a replacement for the Unix kernel, and released as free software under the GNU General Public License. ![Open Source][OSS Icon]
