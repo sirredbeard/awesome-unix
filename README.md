@@ -16,9 +16,9 @@ This list is an exploration of the world of UNIX®, including UNIX history, the 
 - [*NIXes](#nixes)
 	- Certified UNIX® Operating Systems
 	- AT&T UNIX®-Derived Operating Systems
-		- FreeBSD
 		- OpenBSD
-		- NetBSD...
+		- NetBSD
+		- FreeBSD...
 - [Linux®](#linux)
 	- Most Unix®-Like Engineered Linux
 	- Popular Commercial Linux® Distributions
