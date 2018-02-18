@@ -162,7 +162,6 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Dragora](https://www.dragora.org/) - The Dragora project produces a libre, reliable, Unix-like GNU/Linux distribution made from scratch.
 * [Trisquel](https://trisquel.info) - Trisquel GNU/Linux is a fully free operating system for home users, small enterprises, and educational centers.
 * [Morpheus](https://morpheus.2f30.org) - Linux distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring suckless tools.
-* [Stali](https://sta.li) - Stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project, but with a couple of revised goals.
 * [OviOS](http://www.ovios.org) - OviOS is a distribution designed to easily deploy a Linux unified storage server. Written from scratch it is fully compatible with the Linux Standard Base.
 * [KNOPPIX](http://www.knopper.net/) - KNOPPIX is a Debian-based distribution that can be run entirely from a CD or USB on computers with minimal hardware specificiations. Replaces systemd in Debian with sysV and systemd-shim.
 * [Tiny Core Linux](https://en.wikipedia.org/wiki/Tiny_Core_Linux) - Tiny Core Linux (TCL) is a minimal Linux operating system focusing on providing a base system using BusyBox and FLTK, developed by Robert Shingledecker.
