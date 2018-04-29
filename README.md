@@ -168,12 +168,12 @@ These operating systems are not UNIX® certified by The Open Group.
 
 ## Popular Commercial Linux® Distributions ![Open Source][OSS Icon]
 
-* [Red Hat Enterprise](https://www.redhat.com)® - Red Hat Enterprise Linux is a Linux distribution developed by Red Hat® and targeted toward the commercial market. 💰
 * [Ubuntu](https://ubuntu.com)® - Ubuntu is a Debian-based Linux distribution published by Canonical® who offer commercial support for enterprise-class Ubuntu Server variant.
+	* [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer and maker-focused minimalist Linux distro from Linux hardware manufacturer System 76®. It runs on any x86-compatible hardware.
+	* [elementaryOS](https://elementary.io) - elementary OS is a consumer-oriented Linux distribution based on Ubuntu. It is the flagship distribution to showcase the Pantheon desktop environment. 💰
+* [Red Hat Enterprise](https://www.redhat.com)® - Red Hat Enterprise Linux is a Linux distribution developed by Red Hat® and targeted toward the commercial market. 💰
 * [SUSE Linux Enterprise](https://www.suse.com)® - SUSE Linux Enterprise workstation/server is a Linux-based operating system developed by SUSE®. It is designed for servers, mainframes, and workstations. 💰
-* [elementaryOS](https://elementary.io) - elementary OS is a consumer-oriented Linux distribution based on Ubuntu. It is the flagship distribution to showcase the Pantheon desktop environment.💰
 * [Oracle](https://www.oracle.com/linux/)® - Oracle Linux® is compiled from Red Hat Enterprise Linux source code, replacing Red Hat branding with Oracle's, optimized to run Oracle software. 💰
-* [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer-focused minimalist Linux distro from Linux hardware manufacturer System 76®.
 * [Deepin](https://www.deepin.org) - Deepin is a popular Chinese Linux distribution based on Debian with a focus on being a user-friendly desktop Linux distribution. It includes a number of pre-installed proprietary applications, such as Skype.
 
 ## Popular Non-Commercial Linux® Distributions ![Open Source][OSS Icon]
@@ -207,9 +207,9 @@ These operating systems are not UNIX® certified by The Open Group.
 
 ## Unique Linux® Distributions/Related Projects 
 
-* [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows® Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables natively on Windows 10. WSL currently supports Ubuntu, OpenSUSE Leap, and SUSE Enterprise Linux. Official Fedora support is coming soon. Unofficial support for other distributions. 💰
-* [Clear Linux](https://clearlinux.org) - Clear Linux is a Linux distribution built by Intel for cloud and Internet of Things. Clear Linux is highly optimized for the Intel x86 architecture and as a result often surpasses other Linux distributions in performance benchmarks. Despite being targeted at cloud and IoT, it is now possible to install a complete XFCE or Gnome desktop for workstation use.
 * [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen®, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
+* [Clear Linux](https://clearlinux.org) - Clear Linux is a Linux distribution built by Intel for cloud and Internet of Things. Clear Linux is highly optimized for the Intel x86 architecture and as a result often surpasses other Linux distributions in performance benchmarks. Despite being targeted at cloud and IoT, it is now possible to install a complete desktop for workstation use.
+* [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows® Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables natively on Windows 10. WSL currently supports Ubuntu, OpenSUSE Leap, and SUSE Enterprise Linux. Official Fedora support is coming soon. Unofficial support for other distributions. 💰
 * [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database. ![Open Source][OSS Icon]
 * [GNUSTEP](http://www.aiei.ch/gnustep/) - GNUSTEP is a Linux live CD distribution based on Debian that prominently features the [GNUstep](https://en.wikipedia.org/wiki/GNUstep) application frameworks, a free software re-implementation of the OPENSTEP and Cocoa frameworks originally developed by NeXT with Sun Microsystems.
 * [oasis](https://github.com/michaelforney/oasis) - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes.
