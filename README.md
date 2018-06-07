@@ -6,53 +6,44 @@ This list is an exploration of the world of UNIX®, including UNIX history, the 
 # Contents
 
 - [Frequently Asked Questions](#frequently-asked-questions)
-	- What is UNIX®?
-	- Why is UNIX® relevant today?
-	- Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX®-Like, and Linux®
-	- Commercial UNIX®
-	- "Unix Philosophy"
-	- AT&T UNIX®-Derived Descendants, e.g FreeBSD®
-	- Unix®-Like Operating Systems, e.g. Linux®
+	- [What is UNIX®?](https://github.com/sirredbeard/Awesome-UNIX#what-is-unix)
+	- [Why is UNIX® relevant today?](https://github.com/sirredbeard/Awesome-UNIX#why-is-unix-relevant-today)
+	- [Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX®-Like, and Linux®](https://github.com/sirredbeard/Awesome-UNIX#disambiguation-att-unix-unix-certification-unix-like-and-linux)
+	- [Commercial UNIX®](https://github.com/sirredbeard/Awesome-UNIX#commercial-unix)
+	- ["Unix Philosophy"](https://github.com/sirredbeard/Awesome-UNIX#unix-philosophy)
+	- [AT&T UNIX®-Derived Descendants, e.g FreeBSD®](https://github.com/sirredbeard/Awesome-UNIX#att-unix-derived-descendants-eg-freebsd)
+	- [Unix®-Like Operating Systems, e.g. Linux®](https://github.com/sirredbeard/Awesome-UNIX#unix-like-operating-systems-eg-linux)
 - [*NIXes](#nixes)
-	- Certified UNIX® Operating Systems
-	- AT&T UNIX®-Derived Operating Systems
-		- OpenBSD
-		- NetBSD
-		- FreeBSD...
+	- [Certified UNIX® Operating Systems](https://github.com/sirredbeard/Awesome-UNIX#certified-unix-operating-systems)
+	- [AT&T UNIX®-Derived Operating Systems](https://github.com/sirredbeard/Awesome-UNIX#att-unix-derived-operating-systems-)
+	- [UNIX®-Certified Linux-Based Operating Systems](https://github.com/sirredbeard/Awesome-UNIX#unix-certified-linux-based-operating-systems)
 - [Linux®](#linux)
-	- Most Unix®-Like Engineered Linux
-	- Popular Commercial Linux® Distributions
-	- Popular Non-Commercial Linux® Distributions
-	- Mobile Linux® Distributions
-	- Unique Linux® Distributions/Related Projects
-	- Embedded/IoT-Focused Linux® Distributions
+	- [Most Unix®-Like Engineered Linux](https://github.com/sirredbeard/Awesome-UNIX#most-unix-like-engineered-linux-distributions-)
+	- [Popular Commercial Linux® Distributions](https://github.com/sirredbeard/Awesome-UNIX#popular-commercial-linux-distributions-)
+	- [Popular Non-Commercial Linux® Distributions](https://github.com/sirredbeard/Awesome-UNIX#popular-non-commercial-linux-distributions-)
+	- [Mobile Linux® Distributions](https://github.com/sirredbeard/Awesome-UNIX#mobile-linux-distributions-)
+	- [Unique Linux® Distributions/Related Projects](https://github.com/sirredbeard/Awesome-UNIX#unique-linux-distributionsrelated-projects)
+	- [Embedded/IoT-Focused Linux® Distributions](https://github.com/sirredbeard/Awesome-UNIX#embeddediot-focused-linux-distributions)
 - [Illumos®](#illumos)
-	- OpenIndiana
-	- SmartOS
-	- OmniOS...
 - [More Unix®-Like Operating Systems](#more-unix-like-operating-systems)
-	- MINIX
-	- Redox
-	- Haiku...
 - [Plan 9® Derivatives](#plan-9-derivatives)
-	- 9front...
 - [Unix®-like Real Time Operating Systems](#unix-like-real-time-operating-systems)
 - [Additional Resources](#additional-resources)
-	- UNIX® v. Unix/*NIX Disambiguation
-	- UNIX® History
-	- "Unix Philosophy"
-	- Introductory UNIX® Skills
-	- Introductory Programming Skills
-	- UNIX® Code/Emulation
-	- UNIX®/POSIX® Technical Standards
-	- Community
-	- Free Software and Open Source Movements
-	- UNIX®/Linux®-Related Trade Groups
-	- Notable Historic UNIX® and Unix®-like Operating Systems
-	- More macOS®
-	- More illumos®
-	- More BSD
-	- More Linux®
+	- [UNIX® v. Unix/*NIX Disambiguation](https://github.com/sirredbeard/Awesome-UNIX#unix-v-unixnix-disambiguation)
+	- [UNIX® History](https://github.com/sirredbeard/Awesome-UNIX#unix-history)
+	- ["Unix Philosophy"](https://github.com/sirredbeard/Awesome-UNIX#unix-philosophy-1)
+	- [Introductory UNIX® Skills](https://github.com/sirredbeard/Awesome-UNIX#introductory-unix-skills)
+	- [Introductory Programming Skills](https://github.com/sirredbeard/Awesome-UNIX#introductory-programming-skills)
+	- [UNIX® Code/Emulation](https://github.com/sirredbeard/Awesome-UNIX#unix-codeemulation)
+	- [UNIX®/POSIX® Technical Standards](https://github.com/sirredbeard/Awesome-UNIX#unixposix-technical-standards)
+	- [Community](https://github.com/sirredbeard/Awesome-UNIX#community)
+	- [Free Software and Open Source Movements](https://github.com/sirredbeard/Awesome-UNIX#free-software-and-open-source-movements)
+	- [UNIX®/Linux®-Related Trade Groups](https://github.com/sirredbeard/Awesome-UNIX#unixlinux-related-trade-groups)
+	- [Notable Historic UNIX® and Unix®-like Operating Systems](https://github.com/sirredbeard/Awesome-UNIX#notable-historic-unix-and-unix-like-operating-systems)
+	- [More macOS®](https://github.com/sirredbeard/Awesome-UNIX#more-macos)
+	- [More illumos®](https://github.com/sirredbeard/Awesome-UNIX#more-illumos)
+	- [More BSD](https://github.com/sirredbeard/Awesome-UNIX#more-bsd)
+	- [More Linux®](https://github.com/sirredbeard/Awesome-UNIX#more-linux)
 - [UNIX® and Unix®-Like Hardware Vendors](#unix-and-unix-like-hardware-vendors)
 - [Intellectual Property Notices](#intellectual-property-notices)
 
