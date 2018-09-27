@@ -429,6 +429,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 ## More BSD
 
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+* [Awesome OpenBSD](https://github.com/ligurio/awesome-openbsd) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [allbsd.org](https://www.allbsd.org) - allbsd.org aims to support open source developers providing resources including web space, remote shell account service, and so on.
 * [MeetBSD](https://www.meetbsd.com) - MeetBSD is an annual event gathering of users and developers of the BSD operating systems family.
 * [BSD v. Linux](https://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
