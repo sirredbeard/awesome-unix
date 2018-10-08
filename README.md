@@ -88,7 +88,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [macOS](https://www.apple.com/macos/)® - macOS is the current series of Unix-based graphical operating systems developed and marketed by Apple Inc. designed to run on Apple's personal computers. 
 * [AIX](https://www.ibm.com/power/operating-systems/aix)® - AIX is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms. 
 * [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html)® - HP-UX is  Hewlett Packard Enterprise's proprietary implementation of the Unix operating system, based on UNIX System V.
-* [UnixWare](https://www.xinuos.com)® - UnixWare is a Unix operating system made by Xinuos from the assets of SCO Group.
+* [OpenServer](https://www.xinuos.com)® - OpenServer is a Unix operating system made by Xinuos from the assets of SCO Group.
 * [Solaris](https://www.oracle.com/solaris/solaris11/index.html)® - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
 #### [Get More macOS](#more-macos)
@@ -471,7 +471,8 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 ### Intellectual Property Notices
 
 * The Open Group® is not affiliated with and has not endorsed or sponsored this page.
-* UNIX®, The Open Group®, and UnixWare® are trademarks of The Open Group. Use of The Open Group trademarks are authorized by The Open Group [Trademark Guidelines](http://www.opengroup.org/legal/trademark) as "Editorial or Articles, but not Advertising" and/or permitted by trademark fair use under United States law.
+* UNIX® and The Open Group® are trademarks of The Open Group. Use of The Open Group trademarks are authorized by The Open Group [Trademark Guidelines](http://www.opengroup.org/legal/trademark) as "Editorial or Articles, but not Advertising" and/or permitted by trademark fair use under United States law.
+* OpenServer® is a registered trademark of Xinuos.
 * FreeBSD® is a registered trademark of The FreeBSD Foundation. in the United States and/or other countries.
 * NetBSD® is a registered trademark of The NetBSD Foundation, Inc. in the United States and/or other countries.
 * Apple®, MacBook®, iMac®, and macOS® are registered trademarks of Apple, Inc. in the United States and/or other countries.
