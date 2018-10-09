@@ -360,7 +360,21 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 * [nixCraft](https://www.cyberciti.biz) - NixCraft is an online community of new and seasoned Linux / Unix users.
 * [LWN](https://lwn.net) - LWN is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. 
-* [/r/unixporn](https://www.reddit.com/r/unixporn/) - A subreddit dedicated to NIX customization.
+* [Reddit](https://www.reddit.com) - A social news aggregation, web content rating, and discussion website. Sorted by users, subreddits include, but not limited to:
+	* [/r/linux](https://www.reddit.com/r/linux/) - General GNU/Linux discussion. ~330k users.
+	* [/r/unixporn](https://www.reddit.com/r/unixporn/) - Dedicated to NIX customization, screenshots, and configurations. ~123k users.
+	* [/r/ubuntu](https://www.reddit.com/r/ubuntu/) - Specific news, information, and discussion about Ubuntu. ~95k users.
+	* [/r/arch](https://www.reddit.com/r/arch/) - Arch Linux discussion and support. ~65k users.
+	* [/r/debian](https://www.reddit.com/r/debian/) - News and other stuff about Debian. ~23k users.
+	* [/r/fedora](https://www.reddit.com/r/fedora/) - News, information, and support surrounding Fedora. ~16k users.
+	* [/r/BSD](https://www.reddit.com/r/BSD/) - A place for all things BSD. ~10k users.
+	* [/r/freebsd](https://www.reddit.com/r/freebsd/) - News and more about FreeBSD. ~9k users.
+	* [/r/slackware](https://www.reddit.com/r/slackware/) - Slackware Linux discussion and support. ~2k users.
+	* [/r/plan9](https://www.reddit.com/r/plan9/) - Discussion surrounding Plan 9 from Bell Labs. ~1k users.
+	* [/r/haikuOS](https://www.reddit.com/r/haikuOS/) - Discussion, support, progress reports, and news about Haiku OS. ~1k users.
+	* [/r/hurd](https://www.reddit.com/r/hurd/) - GNU HURD discussion and support. ~1k users.
+	* [/r/solaris](https://www.reddit.com/r/solaris/) - Oracle Solaris news and discussion. ~1k users.
+	* [/r/minix](https://www.reddit.com/r/minix/) - Discussion surrounding the MINIX 3 OS by Andrew S. Tanenbaum. ~600 users.
 * [DistroWatch](http://distrowatch.com) - DistroWatch is a website which provides news, popularity rankings, and other general information about various Linux distributions and operating systems.
 * IRC [freenode](https://webchat.freenode.net), see [#irchelp](http://www.irchelp.org) for more about IRC.
 	* ##unixlove
@@ -375,6 +389,9 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 	* #illumos
 * IRC [Snoonet](https://kiwiirc.com/nextclient/?settings=wnuYl5a8fLp)
 	* #linuxmasterrace
+* IRC [OFTC](https://oftc.net)
+	* #linux
+
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### Free Software and Open Source Movements
