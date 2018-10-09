@@ -364,6 +364,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [DistroWatch](http://distrowatch.com) - DistroWatch is a website which provides news, popularity rankings, and other general information about various Linux distributions and operating systems.
 * IRC [freenode](https://webchat.freenode.net), see [#irchelp](http://www.irchelp.org) for more about IRC.
 	* ##unixlove
+	* ##unix
 	* #climagic
 	* ##kernel
 	* #debian
