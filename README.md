@@ -25,7 +25,7 @@ This list is an exploration of the world of UNIX®, including UNIX history, the 
 	- [Unique Linux® Distributions/Related Projects](https://github.com/sirredbeard/Awesome-UNIX#unique-linux-distributionsrelated-projects)
 	- [Embedded/IoT-Focused Linux® Distributions](https://github.com/sirredbeard/Awesome-UNIX#embeddediot-focused-linux-distributions)
 - [Illumos®](#illumos)
-- [GNU/Hurd](#gnu--hurd)
+- [GNU Hurd](#gnu-hurd)
 - [More Unix®-Like Operating Systems](#more-unix-like-operating-systems)
 - [Plan 9® Derivatives](#plan-9-derivatives)
 - [Unix®-like Real Time Operating Systems](#unix-like-real-time-operating-systems)
