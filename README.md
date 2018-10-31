@@ -104,11 +104,11 @@ These operating systems, with the exception of Open Server 10, are not UNIX® ce
 * [NetBSD](https://www.netbsd.org)® - NetBSD is a free and open source Unix-like operating system that descends from Berkeley Software Distribution (BSD), a Research Unix derivative developed at the University of California, Berkeley known for it's wideranging platform support. 
 * [DragonflyBSD](https://www.dragonflybsd.org) - DragonFly BSD is a free and open source Unix-like operating system created as a fork of FreeBSD 4.8.
 * [FreeBSD](https://www.freebsd.org)® - FreeBSD is a free and open-source Unix®-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's software package availability and speed.
-	* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix®-like operating system based on FreeBSD with MATE as its default desktop environment.
 	* [TrueOS](https://www.trueos.org)® - TrueOS (formerly PC-BSD or PCBSD) is a Unix®-like, desktop-oriented operating system built upon the most recent releases of FreeBSD. TrueOS features the Lumina desktop environment which is available on other UNIX® operating systems.
+		* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix®-like operating system based on TrueOS with [MATE](https://mate-desktop.org/) as its default desktop environment.
 	* [MidnightBSD](http://www.midnightbsd.org) - MidnightBSD is a free Unix®-like, desktop-oriented operating system based on FreeBSD 6.1 that borrows heavily from the NeXTSTEP graphical user interface.
 	* [PacBSD](https://pacbsd.org) - A lightweight and flexible FreeBSD distribution that implements the Pacman package manager from Arch Linux.
-	* [HardendedBSD](https://hardenedbsd.org) - HardenedBSD is a security-enhanced fork of FreeBSD. The HardenedBSD Project is implementing many exploit mitigation and security technologies on top of FreeBSD.
+	* [HardendedBSD](https://hardenedbsd.org) - HardenedBSD is a security-enhanced fork of FreeBSD. The HardenedBSD Project implements a number of exploit mitigation and security technologies on top of FreeBSD.
 	* [FreeNAS](http://www.freenas.org)® - FreeNAS is a free and open-source network-attached storage (NAS) software based on FreeBSD and the OpenZFS file system.
 	* [pfSense](https://www.pfsense.org)® - pfSense is an open source firewall/router computer software distribution based on FreeBSD.
 		* [OPNsense](https://opnsense.org)® - OPNsense is a fork of pfSense created in 2014 over technical differences between developers of pfSense.
@@ -134,6 +134,7 @@ These operating systems are not UNIX® certified by The Open Group.
 
 ## Most Unix®-Like Engineered Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
 
+* [GuixSD](https://www.gnu.org/software/guix/) - GuixSD is an advanced distribution of the GNU operating system developed by the GNU Project, home of gcc and the GPL, which respects the freedom of computer users.
 * [Devuan](https://devuan.org) - Devuan Linux is a fork of Debian without systemd from Unix veterans with the goal of becoming the new go-to base distribution for Linux. XFCE is default desktop environment.
 	* [heads](https://heads.dyne.org/about.html) - heads is a live CD to connect securely over Tor, unlike Tails it does not rely on systemd or non-free software. awesome is default desktop environment.
 	* [Gnuinos](http://gnuinos.org/) - Gnuinos is a lightweight Linux libre distro based on Devuan with no non-free software featuring OpenBox desktop.
@@ -147,8 +148,6 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Cucumber](http://cucumberlinux.com) - Cucumber Linux aims to provide a Linux distribution that is usable as an every day, general purpose operating system. It aims to do this in as minimalistic a way as possible and in a way that follows the Unix Philosophy. 
 * [Slackware](http://www.slackware.com) - Slackware is a Linux distribution created by Patrick Volkerding in 1993. Slackware aims for design stability and simplicity and to be the most "Unix-like" Linux distribution.
 	* [Salix](https://www.salixos.org) - Salix is a Linux distribution based on Slackware that is simple, fast, and easy to use. Salix adds automated dependency resolution, a larger repository of applications, and a suite of native administration and configuration tools for both the GUI and the command line.
-* [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution that currently installs from an existing Linux installation, allowing the user to select a preferred init at boot time and install Linux packages from multiple distributions at the same time.
-* [GuixSD](https://www.gnu.org/software/guix/) - GuixSD is an advanced distribution of the GNU operating system developed by the GNU Project —which respects the freedom of computer users.
 * [Linux From Scratch](http://www.linuxfromscratch.org/lfs/) - Linux From Scratch is a way to install a working Linux system by building and installing all components manually, including the bootloader, kernel, and user programs. 
 * [Dragora](https://www.dragora.org/) - The Dragora project produces a libre, reliable, Unix-like GNU/Linux distribution made from scratch.
 * [Trisquel](https://trisquel.info) - Trisquel GNU/Linux is a fully free operating system for home users, small enterprises, and educational centers.
@@ -166,7 +165,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [SUSE Linux Enterprise](https://www.suse.com)® - SUSE Linux Enterprise workstation/server is a Linux-based operating system developed by SUSE®. It is designed for servers, mainframes, and workstations. 💰
 * [Oracle](https://www.oracle.com/linux/)® - Oracle Linux® is compiled from Red Hat Enterprise Linux source code, replacing Red Hat branding with Oracle's, optimized to run Oracle software. 💰
 * [Deepin](https://www.deepin.org) - Deepin is a popular Chinese Linux distribution based on Debian with a focus on being a user-friendly desktop Linux distribution. It includes a number of pre-installed proprietary applications, such as Skype.
-* [Clear Linux Project](https://clearlinux.org/) - Clear Linux is a distribution developed and packaged by Intel, the makers of Intel computer processors. The distribution is heavily optimized for Intel processors at the kernel and library levels. As a result is it one of the highest performing Linux distros on x86_64 hardware.
+* [Clear Linux Project](https://clearlinux.org/) - Clear Linux is a distribution developed and maintained by Intel, the makers of Intel computer processors. The distribution is heavily optimized for Intel processors at the kernel and library levels. As a result is it one of the highest performing Linux distros on x86_64 hardware.
 
 ## Popular Non-Commercial Linux® Distributions ![Open Source][OSS Icon]
 
@@ -201,7 +200,7 @@ These operating systems are not UNIX® certified by The Open Group.
 
 * [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows® Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables natively on Windows 10. WSL currently supports Ubuntu, OpenSUSE Leap, SUSE Enterprise Linux, Debian, and Kali Linux. Official Fedora support is coming soon. Unofficial support for other distributions. 💰
 * [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen®, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
-* [Clear Linux](https://clearlinux.org) - Clear Linux is a Linux distribution built by Intel for cloud and Internet of Things. Clear Linux is highly optimized for the Intel x86 architecture and as a result often surpasses other Linux distributions in performance benchmarks. Despite being targeted at cloud and IoT, it is now possible to install a complete desktop for workstation use.
+* [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution that currently installs from an existing Linux installation, allowing the user to select a preferred init at boot time and install Linux packages from multiple distributions at the same time.
 * [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database. ![Open Source][OSS Icon]
 * [GNUSTEP](http://www.aiei.ch/gnustep/) - GNUSTEP is a Linux live CD distribution based on Debian that prominently features the [GNUstep](https://en.wikipedia.org/wiki/GNUstep) application frameworks, a free software re-implementation of the OPENSTEP and Cocoa frameworks originally developed by NeXT with Sun Microsystems.
 * [oasis](https://github.com/michaelforney/oasis) - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes.
