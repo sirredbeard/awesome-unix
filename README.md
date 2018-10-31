@@ -25,6 +25,7 @@ This list is an exploration of the world of UNIX®, including UNIX history, the 
 	- [Unique Linux® Distributions/Related Projects](https://github.com/sirredbeard/Awesome-UNIX#unique-linux-distributionsrelated-projects)
 	- [Embedded/IoT-Focused Linux® Distributions](https://github.com/sirredbeard/Awesome-UNIX#embeddediot-focused-linux-distributions)
 - [Illumos®](#illumos)
+- [GNU/Hurd](#gnu--hurd)
 - [More Unix®-Like Operating Systems](#more-unix-like-operating-systems)
 - [Plan 9® Derivatives](#plan-9-derivatives)
 - [Unix®-like Real Time Operating Systems](#unix-like-real-time-operating-systems)
@@ -165,7 +166,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [SUSE Linux Enterprise](https://www.suse.com)® - SUSE Linux Enterprise workstation/server is a Linux-based operating system developed by SUSE®. It is designed for servers, mainframes, and workstations. 💰
 * [Oracle](https://www.oracle.com/linux/)® - Oracle Linux® is compiled from Red Hat Enterprise Linux source code, replacing Red Hat branding with Oracle's, optimized to run Oracle software. 💰
 * [Deepin](https://www.deepin.org) - Deepin is a popular Chinese Linux distribution based on Debian with a focus on being a user-friendly desktop Linux distribution. It includes a number of pre-installed proprietary applications, such as Skype.
-* [Clear Linux Project](https://clearlinux.org/) - Clear Linux is a distribution developed and maintained by Intel, the makers of Intel computer processors. The distribution is heavily optimized for Intel processors at the kernel and library levels. As a result is it one of the highest performing Linux distros on x86_64 hardware.
+* [Clear Linux](https://clearlinux.org/) - Clear Linux is a distribution developed and maintained by Intel, the makers of Intel computer processors. The distribution is heavily optimized for Intel processors at the kernel and library levels. As a result is it one of the highest performing Linux distros on x86_64 hardware.
 
 ## Popular Non-Commercial Linux® Distributions ![Open Source][OSS Icon]
 
@@ -239,8 +240,15 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 	* [DilOS](http://www.dilos.org) - DilOS is an illumos-based platform featuring the Debian package manager (dpkg+apt).
 	* [Tribblix](http://tribblix.org) - Tribblix is an operating system created by Peter Tribble. Derived from OpenSolaris, OpenIndiana, and illumos, it blends a retro style with modern components.
 	* [XStreamOS](http://www.sonicle.com/index.jsp?pagename=xstreamos&parent=products) - XStreamOS is an  effort to mantain a distribution of the illumos kernel, featuring a customized text install, the ZFS fileystem, advanced features, and a starting point to contribute and develop the illumos kernel.
+	* [v9os](http://milax.fi/v9os.html) - v9os is a server-only, IPS-based minimal SPARC-only distribution of illumos.
 	
 #### [Get More illumos](#more-illumos)
+
+## GNU Hurd
+
+* [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html) - GNU Hurd is a multiserver microkernel developed by the GNU Project. It has been under development since 1990 and is designed as a replacement for the Unix kernel. It is released as free software under the GNU General Public License. ![Open Source][OSS Icon]
+	* [Debian GNU/Hurd](https://www.debian.org/ports/hurd/) - Debian GNU/Hurd is an implementation of the GNU Hurd on the Debian userspace with the apt package manager.
+	* [Arch GNU/Hurd](https://archhurd.org/about/) - Arch GNU/Hurd is an implementation of the GNU Hurd on the Arch userspace with the pacman package manager.
 
 ## More Unix-Like Operating Systems
 
@@ -249,7 +257,6 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 * [PureDarwin](http://www.puredarwin.org) - PureDarwin is a operating system based on the open-source components of Apple's macOS operating system, principally code derived from NeXTSTEP, BSD, Mach, and other software projects released under free software licenses.
 * [Minoca OS](https://github.com/minoca/os) - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
 * [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free. ![Open Source][OSS Icon]
-* [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html) - GNU Hurd is the multiserver microkernel written as part of GNU. It has been under development since 1990 by the GNU Project of the Free Software Foundation, designed as a replacement for the Unix kernel, and released as free software under the GNU General Public License. ![Open Source][OSS Icon]
 * [Akaros](https://github.com/brho/akaros) - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores. ![Open Source][OSS Icon]
 * [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software.
 * [OpenVMS](http://www.vmssoftware.com)™ - OpenVMS is a enterprise operating system known for it's reliability. It is the successor to the VMS Operating System and runs on DEC Alpha systems. OpenVMS has it's own software lineage that predates UNIX and [includes Windows NT](http://www.itprotoday.com/windows-client/windows-nt-and-vms-rest-story) but POSIX compatibility was added to OpenVMS in 1991.
