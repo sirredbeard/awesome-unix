@@ -93,7 +93,6 @@ For a variety of historical and legal reasons, there has also been a massive exp
 * [Solaris](https://www.oracle.com/solaris/solaris11/index.html)® - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
 
 #### [Get More macOS](#more-macos)
-#### [Get More illumos](#more-illumos)
 
 ## AT&T UNIX®-Derived Operating Systems ![Open Source][OSS Icon]
 
