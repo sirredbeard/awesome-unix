@@ -398,7 +398,6 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 	* #linuxmasterrace
 * IRC [OFTC](https://oftc.net)
 	* #linux
-
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### Free Software and Open Source Movements
