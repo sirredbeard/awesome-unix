@@ -175,7 +175,6 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Mageia](https://www.mageia.org) - Mageia is a Linux based operating system, distributed as free and open source software. It is forked from the Mandriva Linux distribution.
 * [OpenSUSE](https://www.opensuse.org) - openSUSE formerly SUSE Linux and SuSE Linux Professional, is a Linux-based project and distribution sponsored by SUSE Linux and other companies.
 * [Arch](https://www.archlinux.org) - Arch Linux is a Linux distribution for computers based on x86-64 architectures.
-	* [Antergos](https://antergos.com) - Antergos is a Linux distribution based upon Arch Linux.
 	* [Manjaro](https://manjaro.org) - Manjaro Linux is an open source operating system for computers. It is a distribution of Linux based on the Arch Linux distribution.
 	* [Parabola](https://www.parabola.nu) - Parabola is derived from Arch and provides packages from it that meet the Free Software Foundation guidelines and replacements for the packages that don't.
 * [Solus](https://solus-project.com) - Solus is an independent desktop operating system based on the Linux kernel. It is offered as a curated rolling release model. It is the flagship distro for the Budgie desktop environment and closely tracks optimizations found in Clear Linux, making it one of the fastest desktop Linux distros available.
