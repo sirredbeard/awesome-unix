@@ -207,6 +207,7 @@ These operating systems are not UNIX® certified by The Open Group.
 * [RancherOS](https://rancher.com/rancher-os/) - A simplified Linux distribution built from containers, for containers. Everything in RancherOS is a container managed by Docker.
 * [Red Star OS](https://en.wikipedia.org/wiki/Red_Star_OS) - Red Star OS is a North Korean Linux operating system developed for use in North Korea that computer researches have [noted](https://www.reuters.com/article/northkorea-computers/paranoid-north-koreas-computer-operating-system-mirrors-its-political-one-idUSKBN0UA0GF20151227) watermarks every document and media file on a computer or on any USB stick connected to it.
 * [Kali Linux](https://www.kali.org/) - Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security Ltd
+* [NixOS Linux](https://nixos.org/) - NixOS is a Linux distribution that build upon the Nix package manager and is due to that completely declarative.
 
 ## Embedded/IoT-Focused Linux® Distributions
 
