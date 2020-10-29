@@ -325,7 +325,6 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
-* [The Bash Academy](http://www.bash.academy) - The Bash Academy is an initiative to promote the bash shell language and educate people on its use.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### Introductory Programming Skills
