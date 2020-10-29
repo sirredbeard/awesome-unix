@@ -461,7 +461,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 	
 ## More Linux®
 
-* [Revolution OS](https://www.youtube.com/watch?v=k84FMc1GF8M) - Revolution OS is a 2001 documentary which traces the history of GNU, Linux, and the open source and free software movements. (2001). 📼
+* [Revolution OS](hhttps://www.youtube.com/watch?v=Eluzi70O-P4) - Revolution OS is a 2001 documentary which traces the history of GNU, Linux, and the open source and free software movements. (2001). 📼
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX.
