@@ -134,7 +134,8 @@ These operating systems are not UNIX® certified by The Open Group.
 
 ## Most Unix®-Like Engineered Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
 
-* [GuixSD](https://www.gnu.org/software/guix/) - GuixSD is an advanced distribution of the GNU operating system developed by the GNU Project, home of gcc and the GPL, which respects the freedom of computer users.
+* [Slackware](http://www.slackware.com) - Slackware is a Linux distribution created by Patrick Volkerding in 1993. Slackware aims for design stability and simplicity and to be the most "Unix-like" Linux distribution.
+	* [Salix](https://www.salixos.org) - Salix is a Linux distribution based on Slackware that is simple, fast, and easy to use. Salix adds automated dependency resolution, a larger repository of applications, and a suite of native administration and configuration tools for both the GUI and the command line.
 * [Devuan](https://devuan.org) - Devuan Linux is a fork of Debian without systemd from Unix veterans with the goal of becoming the new go-to base distribution for Linux. XFCE is default desktop environment.
 	* [heads](https://heads.dyne.org/about.html) - heads is a live CD to connect securely over Tor, unlike Tails it does not rely on systemd or non-free software. awesome is default desktop environment.
 	* [Gnuinos](http://gnuinos.org/) - Gnuinos is a lightweight Linux libre distro based on Devuan with no non-free software featuring OpenBox desktop.
@@ -144,17 +145,11 @@ These operating systems are not UNIX® certified by The Open Group.
 	* [Redcore](https://redcorelinux.org) - Redcore Linux is a distribution based on Gentoo Linux that aims to be a very quick way to install a pure Gentoo Linux system without spending hours or days compiling from source code.
 * [Alpine](https://alpinelinux.org) - Alpine Linux is an independent, non-commercial, general purpose Linux distribution designed for power users who appreciate security, simplicity and resource efficiency.
 	* [Adélie](http://adelielinux.org/) - Adélie Linux was created by Gentoo users who combined the power of Alpine with the ease-of-use of a binary package manager. Adélie is notable for supporting x86, PowerPC, MIPS, and ARM platforms.
-* [Void](https://voidlinux.org) - Void is a general purpose operating system, based on the monolithic Linux kernel, Features XBPS packaging system.
+* [Void](https://voidlinux.org) - Void is a general purpose operating system, based on the monolithic Linux kernel, features XBPS packaging system.
 * [Cucumber](http://cucumberlinux.com) - Cucumber Linux aims to provide a Linux distribution that is usable as an every day, general purpose operating system. It aims to do this in as minimalistic a way as possible and in a way that follows the Unix Philosophy. 
-* [Slackware](http://www.slackware.com) - Slackware is a Linux distribution created by Patrick Volkerding in 1993. Slackware aims for design stability and simplicity and to be the most "Unix-like" Linux distribution.
-	* [Salix](https://www.salixos.org) - Salix is a Linux distribution based on Slackware that is simple, fast, and easy to use. Salix adds automated dependency resolution, a larger repository of applications, and a suite of native administration and configuration tools for both the GUI and the command line.
+* [GuixSD](https://www.gnu.org/software/guix/) - GuixSD is an advanced distribution of the GNU operating system developed by the GNU Project, home of gcc and the GPL, which respects the freedom of computer users.
 * [Linux From Scratch](http://www.linuxfromscratch.org/lfs/) - Linux From Scratch is a way to install a working Linux system by building and installing all components manually, including the bootloader, kernel, and user programs. 
 * [Dragora](https://www.dragora.org/) - The Dragora project produces a libre, reliable, Unix-like GNU/Linux distribution made from scratch.
-* [Trisquel](https://trisquel.info) - Trisquel GNU/Linux is a fully free operating system for home users, small enterprises, and educational centers.
-* [Morpheus](https://morpheus.2f30.org) - Linux distribution built with staticly linked binaries using [musl libc](http://www.musl-libc.org) featuring suckless tools.
-* [OviOS](http://www.ovios.org) - OviOS is a distribution designed to easily deploy a Linux unified storage server. Written from scratch it is fully compatible with the Linux Standard Base.
-* [KNOPPIX](http://www.knopper.net/) - KNOPPIX is a Debian-based distribution that can be run entirely from a CD or USB on computers with minimal hardware specificiations. Replaces systemd in Debian with sysV and systemd-shim.
-* [Tiny Core Linux](https://en.wikipedia.org/wiki/Tiny_Core_Linux) - Tiny Core Linux (TCL) is a minimal Linux operating system focusing on providing a base system using BusyBox and FLTK, developed by Robert Shingledecker.
 
 ## Popular Commercial Linux® Distributions ![Open Source][OSS Icon]
 
@@ -215,7 +210,8 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Ångström](http://angstrom-distribution.org) - Ångström is a Linux distribution for a variety of embedded devices. The distribution is the result of work by developers from the OpenZaurus, OpenEmbedded, and OpenSIMpad projects.
 * [Poky](https://www.yoctoproject.org/tools-resources/projects/poky) - Poky is a reference distribution for the Yocto Project™, an open source project that provides templates, tools, and methods to create custom Linux-based systems for embedded devices.
 * [Ubuntu Core](https://www.ubuntu.com/core) - Ubuntu Core is a tiny, transactional version of Ubuntu for IoT devices and large container deployments.
-* [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - Raspbian is a Debian-based computer operating system for Raspberry Pi
+* [Raspberry Pi](https://www.raspberrypi.org/downloads/raspbian/) - Raspbian is a Debian-based computer operating system for Raspberry Pi
+* [Tiny Core Linux](https://en.wikipedia.org/wiki/Tiny_Core_Linux) - Tiny Core Linux (TCL) is a minimal Linux operating system focusing on providing a base system using BusyBox and FLTK, developed by Robert Shingledecker.
 
 ### [Get more Linux](#more-linux)
 
