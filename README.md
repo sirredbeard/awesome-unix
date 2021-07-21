@@ -115,6 +115,7 @@ These operating systems, with the exception of Open Server 10, are not UNIX® ce
 	* [RaspBSD](http://www.raspbsd.org) - RaspBSD is a image of FreeBSD  that is preconfigured for Raspberry Pi Computers.
 	* [Open Server 10](https://www.xinuos.com/menu-products/openserver-10)® - Xinuos® OpenServer 10® is a 64-bit operating system based on the popular FreeBSD and designed to support business applications. 💰
 	* [NAS4Free](https://www.nas4free.org) - NAS4Free is an embedded Open Source NAS (Network-Attached Storage) distribution based on the latest FreeBSD releases.
+	* [helloSystem](https://hellosystem.github.io/) - helloSystem is a FreeBSD-based desktop system for creators with a focus on simplicity, elegance, and usability. Its design follows the “Less, but better” philosophy. It is intended as a system for “mere mortals”, welcoming to switchers from the Mac. 
 
 #### [Get More BSD](#more-bsd)
 
