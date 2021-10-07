@@ -257,6 +257,7 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 * [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software.
 * [OpenVMS](http://www.vmssoftware.com)™ - OpenVMS is a enterprise operating system known for it's reliability. It is the successor to the VMS Operating System and runs on DEC Alpha systems. OpenVMS has it's own software lineage that predates UNIX and [includes Windows NT](http://www.itprotoday.com/windows-client/windows-nt-and-vms-rest-story) but POSIX compatibility was added to OpenVMS in 1991.
 * [ToaruOS](https://github.com/klange/toaruos) - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications. ![Open Source][OSS Icon]
+* [FiwixOS](https://www.fiwix.org) - is a UNIX-like operating system that includes a Fiwix kernel, the GNU Toolchain, libraries and additional software. It uses the [Newlib](https://sourceware.org/newlib/) as its C standard library and all the included software is free and open-source software. The Fiwix kernel is written from scratch, based on the UNIX architecture and is Linux 2.0 System Call ABI mostly compatible.
 
 ## Plan 9 Derivatives
 
