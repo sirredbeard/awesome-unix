@@ -98,23 +98,21 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 These operating systems, with the exception of Open Server 10, are not UNIX® certified by The Open Group.
 
-* [OpenBSD](http://www.openbsd.org) - OpenBSD is a free and open-source Unix-like computer operating system descended from Berkeley Software Distribution (BSD), a Research Unix derivative developed at the University of California, Berkeley known for it's security and development discipline.
+* [OpenBSD](https://www.openbsd.org) - OpenBSD is a free and open-source Unix-like computer operating system descended from Berkeley Software Distribution (BSD), a Research Unix derivative developed at the University of California, Berkeley known for it's security and development discipline.
 	* [FuguIta](http://fuguita.org/?FuguIta) - FuguIta is an OpenBSD live CD featuring portable workplace, low hardware requirements, additional software, and partial support for Japanese. 
 	* [MirBSD](http://www.mirbsd.org) - Fork of OpenBSD that tracks OpenBSD base with a number of enhancements and modifications.
 * [NetBSD](https://www.netbsd.org)® - NetBSD is a free and open source Unix-like operating system that descends from Berkeley Software Distribution (BSD), a Research Unix derivative developed at the University of California, Berkeley known for it's wideranging platform support. 
 * [DragonflyBSD](https://www.dragonflybsd.org) - DragonFly BSD is a free and open source Unix-like operating system created as a fork of FreeBSD 4.8.
 * [FreeBSD](https://www.freebsd.org)® - FreeBSD is a free and open-source Unix®-like operating system descended from Research Unix via the Berkeley Software Distribution (BSD) known for it's software package availability and speed.
-	* [TrueOS](https://www.trueos.org)® - TrueOS (formerly PC-BSD or PCBSD) is a Unix®-like, desktop-oriented operating system built upon the most recent releases of FreeBSD. TrueOS features the Lumina desktop environment which is available on other UNIX® operating systems.
+	* [TrueOS](https://www.trueos.org)® - TrueOS (formerly PC-BSD or PCBSD) was a Unix®-like, desktop-oriented operating system built upon the most recent releases of FreeBSD. TrueOS features the Lumina desktop environment which is available on other UNIX® operating systems.
 		* [GhostBSD](http://www.ghostbsd.org) - GhostBSD is a Unix®-like operating system based on TrueOS with [MATE](https://mate-desktop.org/) as its default desktop environment.
-	* [MidnightBSD](http://www.midnightbsd.org) - MidnightBSD is a free Unix®-like, desktop-oriented operating system based on FreeBSD 6.1 that borrows heavily from the NeXTSTEP graphical user interface.
-	* [PacBSD](https://pacbsd.org) - A lightweight and flexible FreeBSD distribution that implements the Pacman package manager from Arch Linux.
+	* [MidnightBSD](https://www.midnightbsd.org) - MidnightBSD is a free Unix®-like, desktop-oriented operating system based on FreeBSD 6.1 that borrows heavily from the NeXTSTEP graphical user interface.
 	* [HardendedBSD](https://hardenedbsd.org) - HardenedBSD is a security-enhanced fork of FreeBSD. The HardenedBSD Project implements a number of exploit mitigation and security technologies on top of FreeBSD.
-	* [FreeNAS](http://www.freenas.org)® - FreeNAS is a free and open-source network-attached storage (NAS) software based on FreeBSD and the OpenZFS file system.
+	* [TrueNAS CORE](https://www.truenas.com/truenas-core/)® - TrueNAS CORE (formerly known as FreeNAS®) is a free and open-source network-attached storage (NAS) software based on FreeBSD and the OpenZFS file system.
 	* [pfSense](https://www.pfsense.org)® - pfSense is an open source firewall/router computer software distribution based on FreeBSD.
-		* [OPNsense](https://opnsense.org)® - OPNsense is a fork of pfSense created in 2014 over technical differences between developers of pfSense.
-	* [RaspBSD](http://www.raspbsd.org) - RaspBSD is a image of FreeBSD  that is preconfigured for Raspberry Pi Computers.
-	* [Open Server 10](https://www.xinuos.com/menu-products/openserver-10)® - Xinuos® OpenServer 10® is a 64-bit operating system based on the popular FreeBSD and designed to support business applications. 💰
-	* [NAS4Free](https://www.nas4free.org) - NAS4Free is an embedded Open Source NAS (Network-Attached Storage) distribution based on the latest FreeBSD releases.
+    * [OPNsense](https://opnsense.org)® - OPNsense originally forked from pfSense in 2014 over technical differences between developers of pfSense.
+	* [Open Server 10](https://www.xinuos.com/menu-products/openserver-10)® - Xinuos® OpenServer 10® commercial operating system based on FreeBSD 10 and designed to support business applications. 💰
+	* [XigmaNAS](https://xigmanas.com/) - XigmaNAS (formerly known as NAS4Free) is an embedded Open Source NAS (Network-Attached Storage) distribution based on the latest FreeBSD releases.
 	* [helloSystem](https://hellosystem.github.io/) - helloSystem is a FreeBSD-based desktop system for creators with a focus on simplicity, elegance, and usability. Its design follows the “Less, but better” philosophy. It is intended as a system for “mere mortals”, welcoming to switchers from the Mac. 
 
 #### [Get More BSD](#more-bsd)
