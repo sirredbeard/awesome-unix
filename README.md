@@ -445,6 +445,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [Awesome DTrace](https://awesome-dtrace.com) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [What are SunOS and Solaris?](https://kb.iu.edu/d/agjq)
 * [UNIX Packages](http://unixpackages.com) - Archive of pre-compiled open source applications for Sun Solaris 2.5 through 11.
+* [Archive OS Solaris](https://archiveos.org/solaris/) - Archive of illumos and OpenSolaris distributions
 	
 ## More BSD
 
@@ -455,6 +456,9 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [BSD v. Linux](https://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
 * [A Narrative History of BSD](https://www.youtube.com/watch?v=DEEr6dT-4uQ) - By Kirk McKusick, USENIX℠ Board Member, at MeetBSD California (2014). 📼
 * [History of the Berkelet Software Distributions](https://www.mckusick.com/history/index.html) - By Kirk McKusick. DVD. 218 minutes. $19.95. 📼
+* [Archive OS BSD](https://archiveos.org/bsd/) - Archive of BSD distributions
+* [BSD Distributions Timeline](https://github.com/FabioLolix/BSD-Timeline) - Graph of BSD distributions
+* [BSD Family Tree](https://github.com/freebsd/freebsd-src/blob/master/share/misc/bsd-family-tree) - BSD family tree from freebsd-src
 	
 ## More Linux®
 
@@ -462,6 +466,8 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX.
+* [Archive OS Linux](https://archiveos.org/linux/) - Archive of Linux distributions
+* [Linux Distribution Timeline](https://github.com/FabioLolix/LinuxTimeline) - Graph of Linux distributions
 
 # UNIX and Unix-Like Hardware Vendors
 
