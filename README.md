@@ -264,7 +264,7 @@ Plan 9® was developed by Bell Labs as the successor to UNIX and incorporated no
 * [9legacy](http://9legacy.org) - 9legacy is an experimental patch queue for Plan 9 from Bell Labs. ![Open Source][OSS Icon]
 * [Harvey OS](https://harvey-os.org) - Harvey is an effort to provide a modern, distributed, 64 bit operating system. A different environment for researching and finding new lines of work. It can be built with gcc and clang and has an ANSI/POSIX compliant subsystem.
 * [Inferno](http://www.vitanuova.com/inferno/)® - Inferno was an effort to commercialize Plan 9 as networking software, however like Plan 9 it remained obscure while it's ideas permeated into current operating systems. 
-* [Jehanne](http://jehanne.io) - Jehanne is a new distributed operating system designed for programmers. The core values that lead the development are simplicity and security. Jehanne is a fork of Harvey.
+* [Jehanne](http://jehanne.h--k.it/) - Jehanne is a new distributed operating system designed for programmers. The core values that lead the development are simplicity and security. Jehanne is a fork of Harvey.
 
 ## Unix-like Real Time Operating Systems
 
