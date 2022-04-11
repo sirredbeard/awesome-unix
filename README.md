@@ -303,7 +303,8 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [UNIX](https://archive.org/details/UNIX1985) - From "Computer Chronicles" TV Series (1985). 📼
 * [UNIX](https://archive.org/details/unix_2) - From "Computer Chronicles" TV Series (1989). 📼
 * [C and Unix at Bell Labs](https://www.youtube.com/watch?v=TUWt_StXKsY) - By Brian Kernighan at Vintage Computer Federation East 10 (2016). 📼
-* [Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD Important Milestones and Lessons Learned](https://www.youtube.com/watch?v=FbDebSinSQo) - By [dspinellis](https://github.com/dspinellis) at Fosdem 2018 📼
+* [A Repository of Unix History and Evolution](https://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html) - The history and evolution of the Unix operating system from 1972 to 2016 by [Diomidis Spinellis](https://github.com/dspinellis) [PDF](http://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.pdf)
+* [Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD Important Milestones and Lessons Learned](https://www.youtube.com/watch?v=FbDebSinSQo) - By [Diomidis Spinellis](https://github.com/dspinellis) at Fosdem 2018 📼
 * [The Strange Birth and Long Life of Unix](https://spectrum.ieee.org/tech-history/cyberspace/the-strange-birth-and-long-life-of-unix) - By Warren Toomey
 
 ### "Unix Philosophy"
@@ -457,6 +458,8 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [Archive OS BSD](https://archiveos.org/bsd/) - Archive of BSD distributions
 * [BSD Distributions Timeline](https://github.com/FabioLolix/BSD-Timeline) - Graph of BSD distributions
 * [BSD Family Tree](https://github.com/freebsd/freebsd-src/blob/master/share/misc/bsd-family-tree) - BSD family tree from freebsd-src
+* [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems) - Comparison of BSD operating systems
+* [Wikipedia](https://en.wikipedia.org/wiki/List_of_BSD_operating_systems) - List of BSD operating systems
 	
 ## More Linux®
 
