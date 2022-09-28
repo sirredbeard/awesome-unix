@@ -492,6 +492,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [Huawei](http://developer.huawei.com/ict/en/site-euleros)™ - Linux servers, x86
 * [Google](http://www.google.com/chromebook/)® - Chrome OS laptops and desktops, ARM and x86
 * [Ubuntu-Certified Hardware](https://certification.ubuntu.com)
+* [ThinkPenguin](https://https://thinkpenguin.com) - Linux laptops and desktops, x86
 
 -----
 
