@@ -457,7 +457,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [History of the Berkelet Software Distributions](https://www.mckusick.com/history/index.html) - By Kirk McKusick. DVD. 218 minutes. $19.95. 📼
 * [Archive OS BSD](https://archiveos.org/bsd/) - Archive of BSD distributions
 * [BSD Distributions Timeline](https://github.com/FabioLolix/BSD-Timeline) - Graph of BSD distributions
-* [BSD Family Tree](https://github.com/freebsd/freebsd-src/blob/master/share/misc/bsd-family-tree) - BSD family tree from freebsd-src
+* [BSD Family Tree](https://cgit.freebsd.org/src/tree/share/misc/bsd-family-tree) - BSD family tree from freebsd-src
 * [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems) - Comparison of BSD operating systems
 * [Wikipedia](https://en.wikipedia.org/wiki/List_of_BSD_operating_systems) - List of BSD operating systems
 	
