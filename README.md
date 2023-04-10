@@ -252,7 +252,6 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 * [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free. ![Open Source][OSS Icon]
 * [Akaros](https://github.com/brho/akaros) - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores. ![Open Source][OSS Icon]
 * [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software.
-* [OpenVMS](http://www.vmssoftware.com)™ - OpenVMS is a enterprise operating system known for it's reliability. It is the successor to the VMS Operating System and runs on DEC Alpha systems. OpenVMS has it's own software lineage that predates UNIX and [includes Windows NT](http://www.itprotoday.com/windows-client/windows-nt-and-vms-rest-story) but POSIX compatibility was added to OpenVMS in 1991.
 * [ToaruOS](https://github.com/klange/toaruos) - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications. ![Open Source][OSS Icon]
 * [FiwixOS](https://www.fiwix.org) - FiwixOS is a UNIX-like operating system that includes the Fiwix kernel,  GNU Toolchain, libraries and additional software. It uses  [Newlib](https://sourceware.org/newlib/) as its C  library and all the included software is free and open-source software. The Fiwix kernel is written from scratch and aims for Linux 2.0 system call compatiblility.
 
@@ -538,7 +537,6 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * Dell® is a trademark or registered trademark of Dell, Inc. in the United States and/or other countries.
 * Entroware® is a trademark of Entroware, a UK company, in the United States and/or other countries.
 * Raptor Computing Systems® is a registered trademark of Timothy Pearson in the United States and/or other countries.
-* OpenVMS is a trademark or registered trademark of VMS Software, Inc. in the United States and/or other countries.
 * Fujistu® is a trademark or registered trademark of Fujitsu Limited. in the United States and/or other countries.
 * SPARC® is a trademark or registered trademark of SPARC International, Inc. in the United States and/or other countries.
 * Lenovo® is a trademark or registered trademark of Lenovo Group Ltd. in the United States and/or other countries.
@@ -551,7 +549,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * Rust™ is a trademark of the Mozilla Foundation, Inc.
 * IOS is a trademark or registered trademark of Cisco in the United States and other countries and is used by Apple, Inc. under license.
 * X Window System™, Project Athena™, Athena™, and Kerbos™ are trademarks of the Massachusetts Institute of Technology.
-* DEC™, PDP-11™, DECnet™, DECstations™, VMS™, ULTRIX™, Digital™, Digital UNIX™, VAX™ are trademarks of Digital Equipment Corporation.
+* DEC™, PDP-11™, DECnet™, DECstations™, ULTRIX™, Digital™, Digital UNIX™, VAX™ are trademarks of Digital Equipment Corporation.
 * OPNsense® is a trademark or registered trademark of Deciso B.V.
 * Intel™ is a trademark of Intel Corporation or its subsidiaries in the U.S. and/or other countries.
 * Palm is a registered trademark of Wide Progress Global Limited.
