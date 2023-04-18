@@ -271,7 +271,6 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 * [QNX](https://blackberry.qnx.com/en)® - QNX is a commercial Unix-like real-time operating system, aimed primarily at the embedded systems market, found in many modern automobiles. 💰
 * [Integrity](https://www.ghs.com/products/rtos/integrity.html)® - Integrity is a real-time operating systems produced and marketed by Green Hills Software. Integrity-178B has a top National Security Agency rating. 💰
-* [Contiki](http://contiki-os.org) - Contiki is an operating system for networked, memory-constrained systems with a focus on low-power wireless Internet of Things devices. ![Open Source][OSS Icon]
 * [LynxOS](http://www.lynx.com/products/real-time-operating-systems/lynxos-rtos/)® - The LynxOS RTOS is a Unix-like real-time operating system from Lynx Software Technologies. LynxOS features full POSIX conformance and, more recently, Linux compatibility. 💰
 * [nuttX](http://nuttx.org)® - NuttX is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable, the primary focus in NuttX are POSIX and ANSI standards. ![Open Source][OSS Icon]
 * [Fuchsia](https://github.com/fuchsia-mirror?utf8=✓&query=Escher) - Fuchsia is a new real-time operating system (RTOS) [currently being developed](https://lwn.net/Articles/718267/) by Google with a degree of POSIX compataibility.
