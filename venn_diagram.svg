@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="827" height="672" viewBox="0 0 827 672"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xml:lang="en">
+<title>Unix and Unix-like platforms</title>
+<desc>Venn diagram illustrating similarities between notable families of Unix and Unix-like platforms.</desc>
+<style type="text/css">
+	text{
+		fill: currentColor;
+		font-family: Helvetica, Arial, sans-serif;
+		font-weight: bold;
+		text-anchor: middle;
+	}
+	.right{
+		text-anchor: end;
+	}
+	#disclaimer{
+		font-size: 15px;
+		text-anchor: end;
+	}
+
+	/* Dark mode */
+	@media (prefers-color-scheme: dark){
+		#disclaimer{
+			color: #777;
+		}
+	}
+</style>
+
+<text id="disclaimer" x="826" y="664">All trademarks are property of respective owners.</text>
+
+<g id="unix-like">
+	<ellipse opacity="0.53" fill="#61D836" cx="536.2" cy="247.4" rx="253" ry="247.4"/>
+	<text font-size="24" x="532" y="304">UNIX-like</text>
+
+	<g id="linux">
+		<ellipse fill="#FFFC66" opacity="0.52" cx="587.8" cy="178.2" rx="181.4" ry="85.9"/>
+		<polygon fill="#D6D5D5" points="725.6,151.3 695.6,131.3 695.6,144.9 489.6,144.9 489.6,131.3 459.6,151.3 489.6,171.3 489.6,157.7 695.6,157.7 695.6,171.3"/>
+		<text font-size="22" x="591" y="126">Linux distros</text>
+		<text font-size="14">
+			<tspan x="494" y="184">More UNIX-like design</tspan>
+			<tspan x="492" y="201">e.g. Slackware</tspan>
+		</text>
+		<text font-size="14">
+			<tspan x="689" y="184">Less UNIX-like design</tspan>
+			<tspan x="687" y="201">e.g. Ubuntu</tspan>
+		</text>
+		<text font-size="13" x="649" y="237">Android</text>
+	</g>
+
+	<text font-size="15">
+		<tspan x="716" y="290">Haiku</tspan>
+		<tspan x="716" y="308">Minix</tspan>
+		<tspan x="714" y="326">Redox</tspan>
+	</text>
+
+	<g id="rtos">
+		<ellipse opacity="0.52" fill="#73FDEA" cx="633.3" cy="390.3" rx="51.6" ry="48.8"/>
+		<text font-size="15">
+			<tspan x="635" y="387">RTOS</tspan>
+			<tspan x="633" y="405">e.g. QNX</tspan>
+		</text>
+	</g>
+</g>
+
+<g id="certified-unix">
+	<ellipse opacity="0.9" fill="#00A2FF" cx="202.9" cy="269.6" rx="202.9" ry="201.8"/>
+	<text font-size="22">
+		<tspan x="167" y="242">Certiﬁed UNIX</tspan>
+		<tspan x="164" y="268">by The Open Group</tspan>
+	</text>
+	<text font-size="13">
+		<tspan x="347" y="244">UNIX-certiﬁed</tspan>
+		<tspan x="345" y="260">Linux distros</tspan>
+	</text>
+</g>
+
+<g id="att-unix">
+	<ellipse opacity="0.9" fill="#FF644E" cx="346.3" cy="481.5" rx="196.4" ry="169.2"/>
+	<text font-size="22" x="346" y="489">Descendants of AT&amp;T UNIX</text>
+</g>
+
+<polygon fill="#ff9300" points="519.8,563.7 519.8,578.5 548,556.7 519.8,534.9 519.8,549.6 476.3,549.6 476.3,563.7"/>
+
+<g id="plan9">
+	<clipPath id="plan9-clip">
+		<ellipse cx="594.7" cy="560.4" rx="58.5" ry="43.8"/>
+	</clipPath>
+	<linearGradient id="plan9-fill" gradientUnits="userSpaceOnUse" x1="700" y1="756.3744" x2="700" y2="515.3744">
+		<stop offset="0.41" style="stop-color: #99195E"/>
+		<stop offset="0.61" style="stop-color: #99195E"/>
+		<stop offset="1"    style="stop-color: #DE67A3"/>
+	</linearGradient>
+	<rect opacity="0.52" clip-path="url(#plan9-clip)" fill="url(#plan9-fill)" width="331" height="241" x="534.3" y="515.4"/>
+
+	<text font-size="14">
+		<tspan x="598" y="553">Plan 9</tspan>
+		<tspan x="594" y="570">and derivatives</tspan>
+	</text>
+</g>
+
+<text font-size="18">
+	<tspan x="355" y="341">macOS</tspan>
+
+	<!-- Left list -->
+	<tspan x="270" y="353">AIX</tspan>
+	<tspan x="250" y="379">Solaris</tspan>
+	<tspan x="225" y="407">HP-UX</tspan>
+	<tspan x="210" y="437">UnixWare</tspan>
+
+	<!-- Right list -->
+	<tspan x="433" y="373">BSDs</tspan>
+	<tspan x="457" y="402">illumos</tspan>
+	<tspan x="484" y="432">Darwin</tspan>
+</text>
+
+</svg>
