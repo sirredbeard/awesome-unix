@@ -60,7 +60,7 @@ The ideas behind UNIX®, a research operating system from AT&T in the 1960s, hav
 
 ### Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX®-Like, and Linux®
 
-![Venn diagram](./venn_diagram.svg "Venn diagram illustrating similarities between notable families of Unix and Unix-like platforms")
+<img src="./venn_diagram.svg" alt="Venn diagram" title="Venn diagram illustrating similarities between notable families of Unix and Unix-like platforms" width="600"/>
 
 #### Commercial UNIX®
 
