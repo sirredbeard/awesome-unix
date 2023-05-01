@@ -24,6 +24,7 @@ This list is an exploration of the world of UNIX®, including UNIX history, the 
 	- [Mobile Linux® Distributions](https://github.com/sirredbeard/Awesome-UNIX#mobile-linux-distributions-)
 	- [Unique Linux® Distributions/Related Projects](https://github.com/sirredbeard/Awesome-UNIX#unique-linux-distributionsrelated-projects)
 	- [Embedded/IoT-Focused Linux® Distributions](https://github.com/sirredbeard/Awesome-UNIX#embeddediot-focused-linux-distributions)
+- [iOS](#ios)
 - [Illumos®](#illumos)
 - [GNU Hurd](#gnu-hurd)
 - [More Unix®-Like Operating Systems](#more-unix-like-operating-systems)
