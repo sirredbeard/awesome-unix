@@ -145,7 +145,6 @@ These operating systems are not UNIX® certified by The Open Group.
 * [Alpine](https://alpinelinux.org) - Alpine Linux is an independent, non-commercial, general purpose Linux distribution designed for power users who appreciate security, simplicity and resource efficiency.
 	* [Adélie](http://adelielinux.org/) - Adélie Linux was created by Gentoo users who combined the power of Alpine with the ease-of-use of a binary package manager. Adélie is notable for supporting x86, PowerPC, MIPS, and ARM platforms.
 * [Void](https://voidlinux.org) - Void is a general purpose operating system, based on the monolithic Linux kernel, features XBPS packaging system.
-* [Cucumber](http://cucumberlinux.com) - Cucumber Linux aims to provide a Linux distribution that is usable as an every day, general purpose operating system. It aims to do this in as minimalistic a way as possible and in a way that follows the Unix Philosophy. 
 * [GuixSD](https://www.gnu.org/software/guix/) - GuixSD is an advanced distribution of the GNU operating system developed by the GNU Project, home of gcc and the GPL, which respects the freedom of computer users.
 * [Linux From Scratch](http://www.linuxfromscratch.org/lfs/) - Linux From Scratch is a way to install a working Linux system by building and installing all components manually, including the bootloader, kernel, and user programs. 
 * [Dragora](https://www.dragora.org/) - The Dragora project produces a libre, reliable, Unix-like GNU/Linux distribution made from scratch.
