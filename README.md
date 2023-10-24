@@ -121,10 +121,9 @@ These operating systems, with the exception of Open Server 10, are not UNIX® ce
 
 ## UNIX®-Certified Linux-Based Operating Systems
 
-While the vast majority of Linux distributions are not UNIX® certified by The Open Group, two actually are:
+As of 2023, there are no more UNIX®-certified Linux-based operating systems. The last two being [K-UX](http://www.inspursystems.com/product/32-way-system/)® from Inspur and [EulerOS](http://developer.huawei.com/ict/en/site-euleros)® from Huawei.
 
-* [K-UX](http://www.inspursystems.com/product/32-way-system/)® - K-UX is a Linux distribution based on CentOS produced by Inspur®, a Chinese multinational company specializing in information technology. 💰
-* [EulerOS](http://developer.huawei.com/ict/en/site-euleros)® -  EulerOS is a Linux distribution based on CentOS produced by Huawei®, a Chinese networking and telecommunications equipment and services company. 💰
+Many Linux-based operating systems include a UNIX® compatability add-on that pass OpenGroup UNIX® compatability suite tests, but the Linux vendors no longer secure UNIX® certification.
 
 #### [Get More UNIX®](#more-unix)
 
