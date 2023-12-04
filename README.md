@@ -477,13 +477,13 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 - [HP®](http://www8.hp.com/us/en/campaigns/ubuntu/index.html) - Linux laptops, desktops, and servers.
 - [HPE®](https://www.hpe.com/) - Linux and HP-UX servers.
 - [Oracle®](https://www.oracle.com/servers/index.html) - Linux and Solaris servers.
-- [Dell](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us)® - Linux laptops, desktops, and servers.
+- [Dell®](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us) - Linux laptops, desktops, and servers.
 - [IBM®](https://www.ibm.com/linuxone) - Linux and AIX servers.
 - [Lenovo](https://support.lenovo.com/us/en/solutions/pd031426) - Linux laptops, desktops, and servers.
 - [Raptor Engineering®](https://raptorcs.com/TALOSII/) - Linux PowerPC® workstation.
 - [PowerPC Notebook](https://www.powerpc-notebook.org/) - Linux laptop with PowerPC architecture.
 - [StationX](https://stationx.rocks) - Linux laptops and desktops.
-- [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html)® - Linux and Solaris servers.
+- [Fujitsu®](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html) - Linux and Solaris servers.
 - [Inspur®](http://www.inspursystems.com/) - Linux servers.
 - [Huawei™](http://developer.huawei.com/) - Linux servers.
 - [Google®](http://www.google.com/chromebook/) - Chrome OS laptops and desktops.
