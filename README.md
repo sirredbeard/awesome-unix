@@ -469,24 +469,24 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## UNIX and Unix-Like Hardware Vendors
 
-- [Apple](https://apple.com)® - macOS laptops and desktops, x86
-- [iXsystems](https://www.ixsystems.com/servers/)® - FreeBSD servers from the company that develops [TrueOS](https://www.trueos.org) and [FreeNAS](http://www.freenas.org), x86
-- [System76](https://system76.com)® - Linux laptops and desktops, x86
-- [Purism](https://puri.sm) - Linux laptops, x86
-- [Entroware](https://www.entroware.com/store/)® - Linux laptops, desktops, and servers, x86
-- [HP](http://www8.hp.com/us/en/campaigns/ubuntu/index.html)® - Linux laptops, desktops, and servers
-- [HPE](https://www.hpe.com/us/en/servers/hp-ux.html)® - HP-UX servers, x86 and PA-RISC
-- [Oracle](https://www.oracle.com/servers/index.html)® - Linux and Solaris servers, x86 and SPARC
-- [Dell](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us)® - Linux laptops, desktops, and servers; x86
-- [IBM](https://www.ibm.com/linuxone)® - Linux and AIX servers, x86 and RISC
-- [Lenovo](https://support.lenovo.com/us/en/solutions/pd031426) - Linux laptops, desktops, and servers, x86
-- [Raptor Engineering](https://raptorcs.com/TALOSII/)® - Linux PowerPC® workstation
-- [PowerPC Notebook](https://www.powerpc-notebook.org/) - Linux laptop with PowerPC architecture
-- [StationX](https://stationx.rocks) - Linux laptops and desktops, x86
-- [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html)® - Linux and Solaris servers, SPARC®
-- [Inspur](http://www.inspursystems.com/product/32-way-system/)® - Linux servers, x86
-- [Huawei](http://developer.huawei.com/ict/en/site-euleros)™ - Linux servers, x86
-- [Google](http://www.google.com/chromebook/)® - Chrome OS laptops and desktops, ARM and x86
+- [Apple®](https://apple.com) - macOS laptops and desktops.
+- [iXsystems®](https://www.ixsystems.com/servers/) - FreeBSD servers.
+- [System76®](https://system76.com) - Linux laptops and desktops.
+- [Purism](https://puri.sm) - Linux laptops.
+- [Entroware®](https://www.entroware.com/store/) - Linux laptops, desktops, and servers.
+- [HP®](http://www8.hp.com/us/en/campaigns/ubuntu/index.html) - Linux laptops, desktops, and servers.
+- [HPE®](https://www.hpe.com/) - Linux and HP-UX servers.
+- [Oracle®](https://www.oracle.com/servers/index.html) - Linux and Solaris servers.
+- [Dell](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us)® - Linux laptops, desktops, and servers.
+- [IBM®](https://www.ibm.com/linuxone) - Linux and AIX servers.
+- [Lenovo](https://support.lenovo.com/us/en/solutions/pd031426) - Linux laptops, desktops, and servers.
+- [Raptor Engineering®](https://raptorcs.com/TALOSII/) - Linux PowerPC® workstation.
+- [PowerPC Notebook](https://www.powerpc-notebook.org/) - Linux laptop with PowerPC architecture.
+- [StationX](https://stationx.rocks) - Linux laptops and desktops.
+- [Fujitsu](http://www.fujitsu.com/global/products/computing/servers/unix/sparc/index.html)® - Linux and Solaris servers.
+- [Inspur®](http://www.inspursystems.com/) - Linux servers.
+- [Huawei™](http://developer.huawei.com/) - Linux servers.
+- [Google®](http://www.google.com/chromebook/) - Chrome OS laptops and desktops.
 - [Ubuntu-Certified Hardware](https://certification.ubuntu.com)
 - [ThinkPenguin](https://thinkpenguin.com) - Linux laptops and desktops.
 
