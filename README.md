@@ -318,27 +318,27 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 - [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
-- [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) 
 
 #### Introductory Programming Skills
 
 #### C Language and Derivatives
 
 - [Learn-C.org](http://www.learn-c.org) - [C](https://en.wikipedia.org/wiki/C_(programming_language)) is a general-purpose computer programming language developed at Bell Labs concurrently with UNIX. Most UNIX and NIX operating systems are still written in versions of C, with notable exceptions such as [Haiku](https://en.wikipedia.org/wiki/Haiku_(operating_system)) in [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [Redox](https://en.wikipedia.org/wiki/Redox_(operating_system)) in [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)).
-- [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) 
 - [Rust Learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust.
-- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-- [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-- [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. 
+- [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++. 
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. 
 
 #### Other Programming Languages
 
-- [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - A curated list of awesome programming talks, articles, books, resources and more. 
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) 
 - [learning-fortran](https://github.com/pwittchen/learning-fortran) - Repository created in order to learn basics of Fortran, with links to several tutorials.
-- [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) - A curated list of Fortran libraries. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) - A curated list of Fortran libraries. 
 - [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) - Resources for learning Python.
-- [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software, and resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software, and resources.
 
 ### UNIX® Code/Emulation
 
@@ -429,8 +429,8 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## More macOS®
 
-- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-- [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+- [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) 
 - [OS X for UNIX Users](http://images.apple.com/media/us/osx/2012/docs/OSX_for_UNIX_Users_TB_July2011.pdf) - Apple Technical Brief, July 2011
 - Learning Unix for OS X: Going Deep With the Terminal and Shell, Dave Taylor, O'Reilly Media, 2nd edition (February 12, 2016), ISBN 1491939982. 📚
 
@@ -438,15 +438,15 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 - [Fork Yeah! The Rise and Development of illumos](https://www.youtube.com/watch?v=-zRN7XLCRhc) - By Bryan Cantrill, CTO of Joylent, developer of illumos-based [SmartOS](https://www.joyent.com/smartos), at USENEX LISA '11 (2011). 📼
 - [illumos at 6](https://www.youtube.com/watch?v=29yGVdtaN_0) - By Peter Tribble, developer of illumos-based [Tribblix](http://www.tribblix.org), at FLOSSUK8 (2017). 📼
-- [Awesome DTrace](https://awesome-dtrace.com) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome DTrace](https://awesome-dtrace.com) 
 - [What are SunOS and Solaris?](https://kb.iu.edu/d/agjq)
 - [UNIX Packages](http://unixpackages.com) - Archive of pre-compiled open source applications for Sun Solaris 2.5 through 11.
 - [Archive OS Solaris](https://archiveos.org/solaris/) - Archive of illumos and OpenSolaris distributions
 	
 ## More BSD
 
-- [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-- [Awesome OpenBSD](https://github.com/ligurio/awesome-openbsd) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)
+- [Awesome OpenBSD](https://github.com/ligurio/awesome-openbsd)
 - [allbsd.org](https://www.allbsd.org) - allbsd.org aims to support open source developers providing resources including web space, remote shell account service, and so on.
 - [MeetBSD](https://www.meetbsd.com) - MeetBSD is an annual event gathering of users and developers of the BSD operating systems family.
 - [BSD v. Linux](https://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
@@ -461,8 +461,8 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 ## More Linux®
 
 - [Revolution OS](https://www.youtube.com/watch?v=Eluzi70O-P4) - Revolution OS is a 2001 documentary which traces the history of GNU, Linux, and the open source and free software movements. (2001). 📼
-- [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-- [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software)
+- [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX.
 - [Archive OS Linux](https://archiveos.org/linux/) - Archive of Linux distributions
 - [Linux Distribution Timeline](https://github.com/FabioLolix/LinuxTimeline) - Graph of Linux distributions
@@ -557,8 +557,6 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 - PlayStation® is a trademarks or registered trademark of Sony Interactive Entertainment Inc. in the United States and/or other countries.
 
 All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
-
-This document is licensed under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Portions of the descriptions above are from Wikipedia and used under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
