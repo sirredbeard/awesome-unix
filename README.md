@@ -474,9 +474,8 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 - [System76](https://system76.com)® - Linux laptops and desktops, x86
 - [Purism](https://puri.sm) - Linux laptops, x86
 - [Entroware](https://www.entroware.com/store/)® - Linux laptops, desktops, and servers, x86
-- HP®
-	- [Consumer/Small Business](http://www8.hp.com/us/en/campaigns/ubuntu/index.html)® - Linux laptops, desktops, and servers
-	- [HP Enterprise](https://www.hpe.com/us/en/servers/hp-ux.html)® - HP-UX servers, x86 and PA-RISC
+- [HP](http://www8.hp.com/us/en/campaigns/ubuntu/index.html)® - Linux laptops, desktops, and servers
+- [HPE](https://www.hpe.com/us/en/servers/hp-ux.html)® - HP-UX servers, x86 and PA-RISC
 - [Oracle](https://www.oracle.com/servers/index.html)® - Linux and Solaris servers, x86 and SPARC
 - [Dell](http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop_us)® - Linux laptops, desktops, and servers; x86
 - [IBM](https://www.ibm.com/linuxone)® - Linux and AIX servers, x86 and RISC
@@ -489,7 +488,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 - [Huawei](http://developer.huawei.com/ict/en/site-euleros)™ - Linux servers, x86
 - [Google](http://www.google.com/chromebook/)® - Chrome OS laptops and desktops, ARM and x86
 - [Ubuntu-Certified Hardware](https://certification.ubuntu.com)
-- [ThinkPenguin](https://thinkpenguin.com) - Linux laptops and desktops, x86
+- [ThinkPenguin](https://thinkpenguin.com) - Linux laptops and desktops.
 
 ### Intellectual Property Notices
 
