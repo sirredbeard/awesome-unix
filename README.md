@@ -491,8 +491,6 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 - [Ubuntu-Certified Hardware](https://certification.ubuntu.com)
 - [ThinkPenguin](https://thinkpenguin.com) - Linux laptops and desktops, x86
 
------
-
 ### Intellectual Property Notices
 
 - The Open Group® is not affiliated with and has not endorsed or sponsored this page.
