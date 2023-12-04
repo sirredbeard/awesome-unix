@@ -2,7 +2,7 @@
 
 This list is an exploration of the world of UNIX®, including UNIX history, the relevance of UNIX today, and lists select awesome UNIX and UNIX-like projects. This list also contains resources for UNIX standards, programming, communities, and free software. *This project is not affiliated with, sponsored, or endorsed by The Open Group.*
 
-# Contents
+## Contents
 
 - [Frequently Asked Questions](#frequently-asked-questions)
 	- [What is UNIX®?](https://github.com/sirredbeard/Awesome-UNIX#what-is-unix)
@@ -48,7 +48,7 @@ This list is an exploration of the world of UNIX®, including UNIX history, the 
 - [UNIX® and Unix®-Like Hardware Vendors](#unix-and-unix-like-hardware-vendors)
 - [Intellectual Property Notices](#intellectual-property-notices)
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 ###  What is UNIX®?
 
@@ -82,7 +82,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 ----------
 
-# *NIXes
+## *NIXes
 
 ## Certified UNIX® Operating Systems💰
 
@@ -125,12 +125,12 @@ Many Linux-based operating systems include a UNIX® compatability add-on that pa
 
 #### [Get More UNIX®](#more-unix)
 
-# Linux®
+## Linux®
 <big>The Most Popular *Unix-Like* Operating System</big>
 
 These operating systems are not UNIX® certified by The Open Group.
 
-## Most Unix®-Like Engineered Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
+### Most Unix®-Like Engineered Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
 
 * [Slackware](http://www.slackware.com) - Slackware is a Linux distribution created by Patrick Volkerding in 1993. Slackware aims for design stability and simplicity and to be the most "Unix-like" Linux distribution.
 	* [Salix](https://www.salixos.org) - Salix is a Linux distribution based on Slackware that is simple, fast, and easy to use. Salix adds automated dependency resolution, a larger repository of applications, and a suite of native administration and configuration tools for both the GUI and the command line.
@@ -276,18 +276,18 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 -----
 
-# Additional Resources
+## Additional Resources
 
-## More UNIX®
+### More UNIX®
 
-### UNIX® v. Unix/*NIX Disambiguation
+#### UNIX® v. Unix/*NIX Disambiguation
 
 * [Differentiating UNIX and Linux](https://www.ibm.com/developerworks/aix/library/au-unix-difflinux.html) - From IBM
 * [What, a real UNIX®?](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/what-a-real-unix.html) - Excerpt from [Explaining BSD](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/index.html).
 * [10 differences between Linux and BSD](https://www.techrepublic.com/blog/10-things/10-differences-between-linux-and-bsd/) - From Tech Republic 📰
 * [All About Linux 2008: Aren't UNIX and Linux the same thing? Yes and no.](https://techcrunch.com/2008/03/24/arent-unix-and-linux-the-same-thing-yes-and-no/) - From Techcrunch 📰
 	
-### UNIX History
+#### UNIX History
 
 * [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start) - The Unix Heritage Wiki aims to collect the available historical documents of Unix into one central place so they can be studied by researchers and Unix enthusiasts alike.
 * [Unix History](https://www.levenez.com/unix/) - Éric Lévénez has produced a simplified diagram of UNIX history and collected several useful other UNIX historical resources.
@@ -304,7 +304,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD Important Milestones and Lessons Learned](https://www.youtube.com/watch?v=FbDebSinSQo) - By [Diomidis Spinellis](https://github.com/dspinellis) at Fosdem 2018 📼
 * [The Strange Birth and Long Life of Unix](https://spectrum.ieee.org/tech-history/cyberspace/the-strange-birth-and-long-life-of-unix) - By Warren Toomey
 
-### "Unix Philosophy"
+#### "Unix Philosophy"
 
 * [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/), Eric Steven Raymond, Thyrsus Enterprises, 2003. 📚
 	* [Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
@@ -314,13 +314,13 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [Do one thing, and do it well: 40 years of UNIX](https://techcrunch.com/2009/08/21/do-one-thing-and-do-it-well-40-years-of-unix/) 📰
 * [suckless Philosophy](https://suckless.org/philosophy) - suckless is the home of dwm, dmenu, and other quality software with a focus on simplicity, clarity, and frugality.
 
-### Introductory UNIX® Skills
+#### Introductory UNIX® Skills
 
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### Introductory Programming Skills
+#### Introductory Programming Skills
 
 #### C Language and Derivatives
 
@@ -467,7 +467,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 * [Archive OS Linux](https://archiveos.org/linux/) - Archive of Linux distributions
 * [Linux Distribution Timeline](https://github.com/FabioLolix/LinuxTimeline) - Graph of Linux distributions
 
-# UNIX and Unix-Like Hardware Vendors
+## UNIX and Unix-Like Hardware Vendors
 
 * [Apple](https://apple.com)® - macOS laptops and desktops, x86
 * [iXsystems](https://www.ixsystems.com/servers/)® - FreeBSD servers from the company that develops [TrueOS](https://www.trueos.org) and [FreeNAS](http://www.freenas.org), x86
