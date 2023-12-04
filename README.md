@@ -216,7 +216,7 @@ These operating systems are not UNIX® certified by The Open Group.
 Solaris® was originally a UNIX operating system developed jointly by Sun Microsystems® and AT&T® as a version of AT&T's UNIX System V Release 4. Sun continued development on Solaris and later obtained UNIX certification for Solaris. In 2004 Sun open-sourced much of the Solaris code base as OpenSolaris. Sun was acquired by Oracle in 2010 who discontinued formal support of the OpenSolaris project. OpenSolaris was forked and lives on as illumos.
 
 - [Solaris®](https://www.oracle.com/solaris/solaris11/index.html) - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
-- [illumos](https://wiki.illumos.org/display/illumos/illumos+Home) - illumos is a free and open-source Unix operating system. It derives from OpenSolaris, which in turn derives from SVR4 UNIX and BSD.
+- [illumos](https://wiki.illumos.org/display/illumos/illumos+Home) - Derived from OpenSolaris, illumos is a free and open-source Unix operating system, derived from SVR4 UNIX and BSD.
 	- [OpenIndiana](https://www.openindiana.org) - OpenIndiana is a free and open-source, Unix operating system derived from OpenSolaris and based on illumos. Developers forked OpenSolaris after Oracle Corporation discontinued it.
 	- [SmartOS](https://www.joyent.com/smartos) - SmartOS is a free and open-source SVR4 hypervisor, based on the illumos operating system that combines OpenSolaris technology with Linux's KVM virtualization.
 	- [OmniOS](https://omniosce.org) - OmniOS builds on illumos to make a complete operating system and provide users with a familiar, installable operating system with a minimal package set to ease regulatory compliance.
@@ -277,7 +277,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 #### UNIX History
 
 - [Unix Heritage Wiki](http://wiki.tuhs.org/doku.php?id=start) - The Unix Heritage Wiki aims to collect the available historical documents of Unix into one central place so they can be studied by researchers and Unix enthusiasts alike.
-- [Unix History](https://www.levenez.com/unix/) - Éric Lévénez has produced a simplified diagram of UNIX history and collected several useful other UNIX historical resources.
+- [Unix History](https://www.levenez.com/unix/) - A simplified diagram by Éric Lévénez of UNIX history and several useful other UNIX historical resources.
 - [Unix and Multics](http://www.multicians.org/unix.html) - The Multicians web site presents the story of the Multics operating system for people interested in the system's history.
 - [The Evolution of the Unix Time-sharing System](https://www.bell-labs.com/usr/dmr/www/hist.html) - Paper presents a brief history of the early development of the Unix operating system, by Dennis M. Ritchie.
 - [Twenty Years of Berkeley Unix: From AT&T-Owned to Freely Redistributable](http://www.oreilly.com/openbook/opensources/book/kirkmck.html) - A history of BSD, from the original UNIX through the litigation and 4.4BSD. An excerpt from "Open Sources: Voices from the Open Source Revolution", O'Reilly Media, 1st edition (January 1999), ISBN 1565925823. 📚
@@ -293,13 +293,13 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### "Unix Philosophy"
 
-- [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/), Eric Steven Raymond, Thyrsus Enterprises, 2003. 📚
+- [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/) - Eric Steven Raymond, Thyrsus Enterprises, 2003. 📚
 	- [Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
 	- [The Unix Philosophy in One Lesson](http://www.catb.org/~esr/writings/taoup/html/ch01s07.html)
 - [Program Design in the UNIX Environment](https://nymity.ch/sybilhunting/pdf/Pike1983a.pdf) 📄
 - [Bringing the Unix Philosophy to Big Data](https://www.youtube.com/watch?v=S0mviKhVmBI) - By Bryan Cantrill, CTO of Joyent, developer of illumos-based SmartOS, at FutureStack13 (2013). 📼
 - [Do one thing, and do it well: 40 years of UNIX](https://techcrunch.com/2009/08/21/do-one-thing-and-do-it-well-40-years-of-unix/) 📰
-- [suckless Philosophy](https://suckless.org/philosophy) - suckless is the home of dwm, dmenu, and other quality software with a focus on simplicity, clarity, and frugality.
+- [suckless Philosophy](https://suckless.org/philosophy) - The suckless project is the home of dwm, dmenu, and other quality software with a focus on simplicity, clarity, and frugality.
 
 #### Introductory UNIX® Skills
 
@@ -346,7 +346,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 - [nixCraft](https://www.cyberciti.biz) - NixCraft is an online community of new and seasoned Linux / Unix users.
 - [LWN](https://lwn.net) - LWN is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. 
-- [Reddit](https://www.reddit.com) - A social news aggregation, web content rating, and discussion website. Sorted by users, subreddits include, but not limited to:
+- [Reddit](https://www.reddit.com) - A social news aggregation, web content rating, and discussion website.
 	- [/r/linux](https://www.reddit.com/r/linux/) - General GNU/Linux discussion. ~330k users.
 	- [/r/unixporn](https://www.reddit.com/r/unixporn/) - Dedicated to NIX customization, screenshots, and configurations. ~123k users.
 	- [/r/ubuntu](https://www.reddit.com/r/ubuntu/) - Specific news, information, and discussion about Ubuntu. ~95k users.
