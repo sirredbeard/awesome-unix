@@ -64,7 +64,7 @@ The ideas behind UNIX®, a research operating system from AT&T in the 1960s, hav
 
 #### Commercial UNIX
 
-UNIX® was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the IEEE®, and official sets of certification that can be obtained by companies for their commercial operating systems, through a process administrated by The Open Group®. Among the [operating systems certified as UNIX](https://www.opengroup.org/openbrand/register/) are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
+UNIX® was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called [POSIX](https://en.wikipedia.org/wiki/POSIX)® overseen by the IEEE®, and official certifications that can be obtained by companies for their commercial operating systems, through a process administrated by The Open Group®. Among the [operating systems certified as UNIX](https://www.opengroup.org/openbrand/register/) are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.
 
 #### "Unix Philosophy"
 
@@ -107,7 +107,7 @@ These operating systems, with the exception of Open Server 10, are not UNIX® ce
 	- [TrueNAS CORE®](https://www.truenas.com/truenas-core/) - TrueNAS CORE (formerly known as FreeNAS®) is a free and open-source network-attached storage (NAS) software based on FreeBSD and the OpenZFS file system.
 	- [pfSense®](https://www.pfsense.org) - pfSense is an open source firewall/router computer software distribution based on FreeBSD.
     - [OPNsense®](https://opnsense.org) - OPNsense originally forked from pfSense in 2014 over technical differences between developers of pfSense.
-	- [Open Server 10](https://www.xinuos.com/menu-products/openserver-10)® - Xinuos® OpenServer 10® commercial operating system based on FreeBSD 10 and designed to support business applications. 💰
+	- [Open Server 10®](https://www.xinuos.com/menu-products/openserver-10) - Xinuos® OpenServer 10® commercial operating system based on FreeBSD 10 and designed to support business applications. 💰
 	- [XigmaNAS](https://xigmanas.com/) - XigmaNAS (formerly known as NAS4Free) is an embedded Open Source NAS (Network-Attached Storage) distribution based on the latest FreeBSD releases.
 	- [helloSystem](https://hellosystem.github.io/) - helloSystem is a FreeBSD-based desktop system for creators with a focus on simplicity, elegance, and usability. Its design follows the “Less, but better” philosophy. It is intended as a system for “mere mortals”, welcoming to switchers from the Mac. 
 
@@ -117,12 +117,8 @@ As of 2023, there are no more UNIX®-certified Linux-based operating systems. Th
 
 Many Linux-based operating systems include a UNIX® compatability add-on that pass OpenGroup UNIX® compatability suite tests, but the Linux vendors no longer obtain UNIX® certification.
 
-#### [Get More UNIX®](#more-unix)
-
 ## Linux
-<big>The Most Popular *Unix-Like* Operating System</big>
-
-These operating systems are not UNIX® certified by The Open Group.
+The Most Popular *Unix-Like* Operating System. These operating systems are not UNIX® certified by The Open Group.
 
 ### Most Unix®-Like Engineered Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) 
 
