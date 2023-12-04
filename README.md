@@ -1,5 +1,4 @@
-# Awesome UNIX® 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome UNIX®  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This list is an exploration of the world of UNIX®, including UNIX history, the relevance of UNIX today, and lists select awesome UNIX and UNIX-like projects. This list also contains resources for UNIX standards, programming, communities, and free software. *This project is not affiliated with, sponsored, or endorsed by The Open Group.*
 
