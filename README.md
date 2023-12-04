@@ -95,7 +95,7 @@ For a variety of historical and legal reasons, there has also been a massive exp
 
 #### [Get More macOS](#more-macos)
 
-## AT&T UNIX®-Derived Operating Systems ![Open Source][OSS Icon]
+## AT&T UNIX®-Derived Operating Systems ![Open Source][oss icon]
 
 These operating systems, with the exception of Open Server 10, are not UNIX® certified by The Open Group.
 
@@ -130,7 +130,7 @@ Many Linux-based operating systems include a UNIX® compatability add-on that pa
 
 These operating systems are not UNIX® certified by The Open Group.
 
-### Most Unix®-Like Engineered Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][OSS Icon]
+### Most Unix®-Like Engineered Linux [Distributions](https://en.wikipedia.org/wiki/Linux_distribution) ![Open Source][oss icon]
 
 - [Slackware](http://www.slackware.com) - Slackware is a Linux distribution created by Patrick Volkerding in 1993. Slackware aims for design stability and simplicity and to be the most "Unix-like" Linux distribution.
 	- [Salix](https://www.salixos.org) - Salix is a Linux distribution based on Slackware that is simple, fast, and easy to use. Salix adds automated dependency resolution, a larger repository of applications, and a suite of native administration and configuration tools for both the GUI and the command line.
@@ -147,7 +147,7 @@ These operating systems are not UNIX® certified by The Open Group.
 - [Linux From Scratch](http://www.linuxfromscratch.org/lfs/) - Linux From Scratch is a way to install a working Linux system by building and installing all components manually, including the bootloader, kernel, and user programs. 
 - [Dragora](https://www.dragora.org/) - The Dragora project produces a libre, reliable, Unix-like GNU/Linux distribution made from scratch.
 
-## Popular Commercial Linux® Distributions ![Open Source][OSS Icon]
+## Popular Commercial Linux® Distributions ![Open Source][oss icon]
 
 - [Ubuntu](https://ubuntu.com)® - Ubuntu is a Debian-based Linux distribution published by Canonical® who offer commercial support for enterprise-class Ubuntu Server variant.
 	- [Pop!_OS](https://system76.com/pop) - POP!_OS is a developer and maker-focused minimalist Linux distro from Linux hardware manufacturer System 76®. It runs on any x86-compatible hardware.
@@ -158,7 +158,7 @@ These operating systems are not UNIX® certified by The Open Group.
 - [Deepin](https://www.deepin.org) - Deepin is a popular Chinese Linux distribution based on Debian with a focus on being a user-friendly desktop Linux distribution. It includes a number of pre-installed proprietary applications, such as Skype.
 - [Clear Linux](https://clearlinux.org/) - Clear Linux is a distribution developed and maintained by Intel, the makers of Intel computer processors. The distribution is heavily optimized for Intel processors at the kernel and library levels. As a result is it one of the highest performing Linux distros on x86_64 hardware.
 
-## Popular Non-Commercial Linux® Distributions ![Open Source][OSS Icon]
+## Popular Non-Commercial Linux® Distributions ![Open Source][oss icon]
 
 - [Debian](https://www.debian.org)® - Debian is a Unix-like computer operating system that is composed entirely of free software, most of which is under the GNU General Public License and packaged by a group of individuals participating in the Debian Project.
 - [Fedora](https://getfedora.org)® - Fedora is an Unix-like operating system based on the Linux kernel and GNU programs (a Linux distribution), developed by the community-supported Fedora Project and sponsored by the Red Hat company.
@@ -172,7 +172,7 @@ These operating systems are not UNIX® certified by The Open Group.
 - [Mint](https://linuxmint.com) - Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use.
 - [Scientific Linux](https://www.scientificlinux.org) - Scientific Linux is a Linux distribution produced by Fermi National Accelerator Laboratory. It is a free and open source operating system based on Red Hat Enterprise Linux.
 
-## Mobile Linux® Distributions ![Open Source][OSS Icon]
+## Mobile Linux® Distributions ![Open Source][oss icon]
 
 - [Android](https://source.android.com)™ - Android is a mobile operating system developed by Google®, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
 - [Chrome OS](https://en.wikipedia.org/wiki/Chrome_OS)™ - Chrome OS is an operating system designed by Google that is based on the Linux kernel and uses the Google Chrome™ web browser as its principal user interface.
@@ -189,12 +189,12 @@ These operating systems are not UNIX® certified by The Open Group.
 ## Unique Linux® Distributions/Related Projects 
 
 - [Windows Linux Subsystem](https://msdn.microsoft.com/en-us/commandline/wsl/faq) - Windows® Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables natively on Windows 10. WSL currently supports Ubuntu, OpenSUSE Leap, SUSE Enterprise Linux, Debian, and Kali Linux. Official Fedora support is coming soon. Unofficial support for other distributions. 💰
-- [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen®, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][OSS Icon]
+- [QubesOS](https://www.qubes-os.org) - Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen®, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. ![Open Source][oss icon]
 - [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution that currently installs from an existing Linux installation, allowing the user to select a preferred init at boot time and install Linux packages from multiple distributions at the same time.
-- [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database. ![Open Source][OSS Icon]
+- [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database. ![Open Source][oss icon]
 - [GNUSTEP](http://www.aiei.ch/gnustep/) - GNUSTEP is a Linux live CD distribution based on Debian that prominently features the [GNUstep](https://en.wikipedia.org/wiki/GNUstep) application frameworks, a free software re-implementation of the OPENSTEP and Cocoa frameworks originally developed by NeXT with Sun Microsystems.
 - [oasis](https://github.com/michaelforney/oasis) - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes.
-- [Tails](https://tails.boum.org) - Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity ![Open Source][OSS Icon]
+- [Tails](https://tails.boum.org) - Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity ![Open Source][oss icon]
 - [RancherOS](https://rancher.com/rancher-os/) - A simplified Linux distribution built from containers, for containers. Everything in RancherOS is a container managed by Docker.
 - [Red Star OS](https://en.wikipedia.org/wiki/Red_Star_OS) - Red Star OS is a North Korean Linux operating system developed for use in North Korea that computer researches have [noted](https://www.reuters.com/article/northkorea-computers/paranoid-north-koreas-computer-operating-system-mirrors-its-political-one-idUSKBN0UA0GF20151227) watermarks every document and media file on a computer or on any USB stick connected to it.
 - [Kali Linux](https://www.kali.org/) - Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security Ltd
@@ -225,7 +225,7 @@ These operating systems are not UNIX® certified by The Open Group.
 Solaris® was originally a UNIX operating system developed jointly by Sun Microsystems® and AT&T® as a version of AT&T's UNIX System V Release 4. Sun continued development on Solaris and later obtained UNIX certification for Solaris. In 2004 Sun open-sourced much of the Solaris code base as OpenSolaris. Sun was acquired by Oracle in 2010 who discontinued formal support of the OpenSolaris project. OpenSolaris was forked and lives on as illumos.
 
 - [Solaris](https://www.oracle.com/solaris/solaris11/index.html)® - Solaris is a Unix operating system originally developed by Sun Microsystems, acquired by Oracle in 2010.
-- [illumos](https://wiki.illumos.org/display/illumos/illumos+Home) - illumos is a free and open-source Unix operating system. It derives from OpenSolaris, which in turn derives from SVR4 UNIX and Berkeley Software Distribution (BSD). ![Open Source][OSS Icon]
+- [illumos](https://wiki.illumos.org/display/illumos/illumos+Home) - illumos is a free and open-source Unix operating system. It derives from OpenSolaris, which in turn derives from SVR4 UNIX and Berkeley Software Distribution (BSD). ![Open Source][oss icon]
 	- [OpenIndiana](https://www.openindiana.org) - OpenIndiana is a free and open-source, Unix operating system derived from OpenSolaris and based on illumos. Developers forked OpenSolaris after Oracle Corporation discontinued it.
 	- [SmartOS](https://www.joyent.com/smartos) - SmartOS is a free and open-source SVR4 hypervisor, based on the illumos operating system that combines OpenSolaris technology with Linux's KVM virtualization.
 	- [OmniOS](https://omniosce.org) - OmniOS builds on illumos to make a complete operating system and provide users with a familiar, installable operating system with a minimal package set to ease regulatory compliance.
@@ -238,28 +238,28 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 
 ## GNU Hurd
 
-- [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html) - GNU Hurd is a multiserver microkernel developed by the GNU Project. It has been under development since 1990 and is designed as a replacement for the Unix kernel. It is released as free software under the GNU General Public License. ![Open Source][OSS Icon]
+- [GNU/Hurd](https://www.gnu.org/software/hurd/hurd.html) - GNU Hurd is a multiserver microkernel developed by the GNU Project. It has been under development since 1990 and is designed as a replacement for the Unix kernel. It is released as free software under the GNU General Public License. ![Open Source][oss icon]
 	- [Debian GNU/Hurd](https://www.debian.org/ports/hurd/) - Debian GNU/Hurd is an implementation of the GNU Hurd on the Debian userspace with the apt package manager.
 	- [Arch GNU/Hurd](https://archhurd.org/about/) - Arch GNU/Hurd is an implementation of the GNU Hurd on the Arch userspace with the pacman package manager.
 
 ## More Unix-Like Operating Systems
 
-- [Minix](http://www.minix3.org)® - Minix® is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture. In 2017 it was learned that Intel™ used a version of MINIX on many of it's x86-series processors, perhaps making it the most popular Unix-like operating system. ![Open Source][OSS Icon]
-- [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008. ![Open Source][OSS Icon]
+- [Minix](http://www.minix3.org)® - Minix® is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture. In 2017 it was learned that Intel™ used a version of MINIX on many of it's x86-series processors, perhaps making it the most popular Unix-like operating system. ![Open Source][oss icon]
+- [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008. ![Open Source][oss icon]
 - [PureDarwin](http://www.puredarwin.org) - PureDarwin is a operating system based on the open-source components of Apple's macOS operating system, principally code derived from NeXTSTEP, BSD, Mach, and other software projects released under free software licenses.
 - [Minoca OS](https://github.com/minoca/os) - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
-- [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free. ![Open Source][OSS Icon]
-- [Akaros](https://github.com/brho/akaros) - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores. ![Open Source][OSS Icon]
+- [Redox](https://www.redox-os.org) - Redox is a Unix-like microkernel operating system written in the programming language Rust, a language with focus on safety and high performance. Redox aims to be secure, usable, and free. ![Open Source][oss icon]
+- [Akaros](https://github.com/brho/akaros) - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores. ![Open Source][oss icon]
 - [Sortix](https://sortix.org) - Sortix is a small self-hosting operating-system aiming to be a clean and modern POSIX implementation, a hobbyist operating system written from scratch with its own base system, including kernel and standard library, as well as ports of third party software.
-- [ToaruOS](https://github.com/klange/toaruos) - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications. ![Open Source][OSS Icon]
+- [ToaruOS](https://github.com/klange/toaruos) - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications. ![Open Source][oss icon]
 - [FiwixOS](https://www.fiwix.org) - FiwixOS is a UNIX-like operating system that includes the Fiwix kernel,  GNU Toolchain, libraries and additional software. It uses  [Newlib](https://sourceware.org/newlib/) as its C  library and all the included software is free and open-source software. The Fiwix kernel is written from scratch and aims for Linux 2.0 system call compatiblility.
 
 ## Plan 9 Derivatives
 
 Plan 9® was developed by Bell Labs as the successor to UNIX and incorporated novel ideas, such as a GUI and [distributed computing](https://en.wikipedia.org/wiki/Distributed_operating_system). Official development by Bell Labs has since halted but the code was re-released under the GPL and projects exist to build on Plan 9. Many Bell Labs employees still volunteer on these projects.
 
-- [9front](http://9front.org) - 9front is a fork of Plan 9 from Bell Labs by the People's Front of Cat-V. It is a next generation mushroom cloud computing platform for the 20th century. ![Open Source][OSS Icon]
-- [9legacy](http://9legacy.org) - 9legacy is an experimental patch queue for Plan 9 from Bell Labs. ![Open Source][OSS Icon]
+- [9front](http://9front.org) - 9front is a fork of Plan 9 from Bell Labs by the People's Front of Cat-V. It is a next generation mushroom cloud computing platform for the 20th century. ![Open Source][oss icon]
+- [9legacy](http://9legacy.org) - 9legacy is an experimental patch queue for Plan 9 from Bell Labs. ![Open Source][oss icon]
 - [Harvey OS](https://harvey-os.org) - Harvey is an effort to provide a modern, distributed, 64 bit operating system. A different environment for researching and finding new lines of work. It can be built with gcc and clang and has an ANSI/POSIX compliant subsystem.
 - [Inferno](http://www.vitanuova.com/inferno/)® - Inferno was an effort to commercialize Plan 9 as networking software, however like Plan 9 it remained obscure while it's ideas permeated into current operating systems. 
 - [Jehanne](http://jehanne.h--k.it/) - Jehanne is a new distributed operating system designed for programmers. The core values that lead the development are simplicity and security. Jehanne is a fork of Harvey.
@@ -271,7 +271,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 - [QNX](https://blackberry.qnx.com/en)® - QNX is a commercial Unix-like real-time operating system, aimed primarily at the embedded systems market, found in many modern automobiles. 💰
 - [Integrity](https://www.ghs.com/products/rtos/integrity.html)® - Integrity is a real-time operating systems produced and marketed by Green Hills Software. Integrity-178B has a top National Security Agency rating. 💰
 - [LynxOS](http://www.lynx.com/products/real-time-operating-systems/lynxos-rtos/)® - The LynxOS RTOS is a Unix-like real-time operating system from Lynx Software Technologies. LynxOS features full POSIX conformance and, more recently, Linux compatibility. 💰
-- [nuttX](http://nuttx.org)® - NuttX is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable, the primary focus in NuttX are POSIX and ANSI standards. ![Open Source][OSS Icon]
+- [nuttX](http://nuttx.org)® - NuttX is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable, the primary focus in NuttX are POSIX and ANSI standards. ![Open Source][oss icon]
 - [Fuchsia](https://github.com/fuchsia-mirror?utf8=✓&query=Escher) - Fuchsia is a new real-time operating system (RTOS) [currently being developed](https://lwn.net/Articles/718267/) by Google with a degree of POSIX compataibility.
 
 -----
@@ -540,7 +540,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 - Lenovo® is a trademark or registered trademark of Lenovo Group Ltd. in the United States and/or other countries.
 - USENIX℠ is a servicemark of the Advanced Computing Systems Association in the United States and/or other countries.
 - O'Reilly Media is a trade name of O'Reilly Media, Inc. in the United States and/or other countries.
-- The OSI logo ![Open Source][OSS Icon] is a trademark of Open Source Initiative and is used [under OSI Trademark Guidelines](https://opensource.org/trademark-guidelines#Noncommercial_and_community_web_sites).
+- The OSI logo ![Open Source][oss icon] is a trademark of Open Source Initiative and is used [under OSI Trademark Guidelines](https://opensource.org/trademark-guidelines#Noncommercial_and_community_web_sites).
 - Joylent™ is a trademark of Joylent, Inc. in the United States and/or other countries.
 - IRIX®, SGI®, and Indigo Magic are trademarks or registered trademarks of Silicon Graphics, Inc. in the United States and/or other countries.
 - Docker® is a trademark or registered trademark of Docker, Inc. in the United States and/or other countries.
@@ -560,4 +560,4 @@ All other trademarks mentioned herein are the property of their respective owner
 
 Portions of the descriptions above are from Wikipedia and used under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
-[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[oss icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
