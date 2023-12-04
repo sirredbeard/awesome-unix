@@ -8,15 +8,15 @@ This list is an exploration of the world of UNIX®, including UNIX history, the 
 	- [What is UNIX](#what-is-unix)
 	- [Why is UNIX relevant today](#why-is-unix-relevant-today)
 	- [Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX®-Like, and Linux®](#disambiguation-att-unix-unix-certification-unix-like-and-linux)
-	- [Commercial UNIX](https://github.com/sirredbeard/Awesome-UNIX#commercial-unix)
+	- [Commercial UNIX](#commercial-unix)
 	- ["Unix Philosophy"](#unix-philosophy)
 	- [AT&T UNIX®-Derived Descendants, e.g FreeBSD®](#att-unix-derived-descendants-eg-freebsd)
 	- [Unix®-Like Operating Systems, e.g. Linux®](#unix-like-operating-systems-eg-linux)
 - [*NIXes](#nixes)
-	- [Certified UNIX Operating Systems](https://github.com/sirredbeard/Awesome-UNIX#certified-unix-operating-systems)
+	- [Certified UNIX Operating Systems](#certified-unix-operating-systems)
 	- [AT&T UNIX®-Derived Operating Systems](#att-unix-derived-operating-systems)
 	- [UNIX-Certified Linux-Based Operating Systems](#unix-certified-linux-based-operating-systems)
-- [Linux](https://github.com/sirredbeard/Awesome-UNIX#linux)
+- [Linux](#linux)
 	- [Most Unix®-Like Engineered Linux](#most-unix-like-engineered-linux-distributions-)
 	- [Popular Commercial Linux® Distributions](#popular-commercial-linux-distributions-)
 	- [Popular Non-Commercial Linux® Distributions](#popular-non-commercial-linux-distributions-)
@@ -115,7 +115,7 @@ These operating systems, with the exception of Open Server 10, are not UNIX® ce
 
 As of 2023, there are no more UNIX®-certified Linux-based operating systems. The last two being [K-UX](http://www.inspursystems.com/product/32-way-system/)® from Inspur and [EulerOS](http://developer.huawei.com/ict/en/site-euleros)® from Huawei.
 
-Many Linux-based operating systems include a UNIX® compatability add-on that pass OpenGroup UNIX® compatability suite tests, but the Linux vendors no longer secure UNIX® certification.
+Many Linux-based operating systems include a UNIX® compatability add-on that pass OpenGroup UNIX® compatability suite tests, but the Linux vendors no longer obtain UNIX® certification.
 
 #### [Get More UNIX®](#more-unix)
 
