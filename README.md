@@ -195,7 +195,7 @@ The Most Popular *Unix-Like* Operating System. These operating systems are not U
 - [Ångström](http://angstrom-distribution.org) - A Linux distribution for a variety of embedded devices. The distribution is the result of work by developers from the OpenZaurus, OpenEmbedded, and OpenSIMpad projects.
 - [Poky](https://www.yoctoproject.org/tools-resources/projects/poky) - Poky is a reference distribution for the Yocto Project™, an open source project that provides templates, tools, and methods to create custom Linux-based systems for embedded devices.
 - [Ubuntu Core](https://www.ubuntu.com/core) - Ubuntu Core is a tiny, transactional version of Ubuntu for IoT devices and large container deployments.
-- [Raspberry Pi](https://www.raspberrypi.org/downloads/raspbian/) - Raspbian is a Debian-based computer operating system for Raspberry Pi.
+- [Raspberry Pi OS](https://www.raspberrypi.org/software/) - Raspberry Pi OS is a Debian-based computer operating system for Raspberry Pi.
 - [Tiny Core Linux](https://en.wikipedia.org/wiki/Tiny_Core_Linux) - Tiny Core Linux (TCL) is a minimal Linux operating system focusing on providing a base system using BusyBox and FLTK, developed by Robert Shingledecker.
 
 ## Other Unix®-Like Operating Systems
