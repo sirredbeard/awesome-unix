@@ -203,7 +203,7 @@ These operating systems are not UNIX® certified by The Open Group.
 
 ## iOS
 
-- [iOS®](https://www.apple.com/ios/ios-11/) - iOS is a mobile operating system created and developed by Apple Inc. with a larged shared code base with macOS.
+- [iOS®](https://www.apple.com/ios/) - iOS is a mobile operating system created and developed by Apple Inc. with a larged shared code base with macOS.
 	- [watchOS®](https://www.apple.com/watchos/) - watchOS is the mobile operating system of the Apple Watch®, developed by Apple Inc. It is based on the iOS operating system.
 	- [tvOS™](https://developer.apple.com/tvos/) - tvOS is an operating system developed by Apple Inc. for the fourth-generation and later Apple TV digital media player. It is based on the iOS operating system.
 
