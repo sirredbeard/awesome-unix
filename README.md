@@ -428,6 +428,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 - [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)
 - [Awesome OpenBSD](https://github.com/ligurio/awesome-openbsd)
+- [SearchBSD](https://searchbsd.com) - Directory of tools, apps and sites for FreeBSD®, OpenBSD, NetBSD®, DragonFly BSD and the other BSDs, searchable by the system each one runs on.
 - [allbsd.org](https://www.allbsd.org) - Resource that aims to support open source developers providing resources including web space, remote shell account service, and so on.
 - [MeetBSD](https://www.meetbsd.com) - MeetBSD is an annual event gathering of users and developers of the BSD operating systems family.
 - [BSD v. Linux](https://www.over-yonder.net/~fullermd/rants/bsd4linux/01)
